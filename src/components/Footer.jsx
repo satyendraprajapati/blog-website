@@ -6,6 +6,8 @@ const GITHUB_URL = 'https://github.com/satyendraprajapati'
 
 const quickLinks = [
   { to: '/', label: 'Home' },
+  { to: '/services', label: 'Services' },
+  { to: '/portfolio', label: 'Portfolio' },
   { to: '/blog', label: 'Blog' },
   { to: '/about', label: 'About' },
   { to: '/contact', label: 'Contact' },

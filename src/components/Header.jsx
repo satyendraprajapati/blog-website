@@ -1,12 +1,13 @@
 import { NavLink } from 'react-router-dom'
-import { BarChart3 } from 'lucide-react'
+import { BarChart3, Briefcase } from 'lucide-react'
 import ThemeToggle from './ThemeToggle'
 
 const navLinks = [
   { to: '/', label: 'Home', end: true },
+  { to: '/services', label: 'Services' },
+  { to: '/portfolio', label: 'Portfolio' },
   { to: '/blog', label: 'Blog' },
   { to: '/about', label: 'About' },
-  { to: '/contact', label: 'Contact' },
 ]
 
 export default function Header() {
@@ -34,6 +35,13 @@ export default function Header() {
               {label}
             </NavLink>
           ))}
+          <NavLink
+            to="/contact"
+            className="flex items-center gap-1.5 bg-purple-600 text-white rounded-full px-3 py-1.5 text-sm font-semibold hover:bg-purple-700 transition-colors"
+          >
+            <Briefcase size={14} />
+            Hire Me
+          </NavLink>
           <ThemeToggle />
         </nav>
       </div>

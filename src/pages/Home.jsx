@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { ArrowRight, Sparkles } from 'lucide-react'
+import { ArrowRight, Sparkles, Briefcase } from 'lucide-react'
 import { getAllPosts } from '../lib/posts'
 import PostCard from '../components/PostCard'
 import { useSEO } from '../lib/useSEO'
@@ -26,6 +26,21 @@ export default function Home() {
           <p className="mt-2 text-white/90">
             Notes on data analysis, dashboards, and the tools behind them.
           </p>
+          <div className="mt-4 flex flex-wrap gap-3">
+            <Link
+              to="/contact"
+              className="flex items-center gap-1.5 bg-purple-600 text-white rounded-full px-4 py-2 text-sm font-semibold hover:bg-purple-700 transition-colors"
+            >
+              <Briefcase size={14} />
+              Hire Me
+            </Link>
+            <Link
+              to="/services"
+              className="flex items-center gap-1.5 bg-white/90 text-gray-900 rounded-full px-4 py-2 text-sm font-semibold hover:bg-white transition-colors"
+            >
+              View Services
+            </Link>
+          </div>
         </div>
       </div>
 
