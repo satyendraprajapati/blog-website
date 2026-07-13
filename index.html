@@ -3,8 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate" type="application/rss+xml" title="Data Analyst Blog RSS Feed" href="/rss.xml" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>blog-website</title>
+    <title>Data Analyst Blog</title>
+    <meta
+      name="description"
+      content="Notes on data analysis, dashboards, and the tools behind them."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Data Analyst Blog" />
+    <meta
+      property="og:description"
+      content="Notes on data analysis, dashboards, and the tools behind them."
+    />
+    <script>
+      (function () {
+        var stored = localStorage.getItem('theme')
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+        var isDark = stored ? stored === 'dark' : prefersDark
+        document.documentElement.classList.toggle('dark', isDark)
+      })()
+    </script>
   </head>
   <body>
     <div id="root"></div>
