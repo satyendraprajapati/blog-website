@@ -1,6 +1,5 @@
 import { BarChart3, FileSpreadsheet, Globe, Presentation } from 'lucide-react'
 import { useSEO } from '../lib/useSEO'
-import { getPlaceholderImage } from '../lib/placeholderImage'
 
 const skills = [
   { icon: BarChart3, label: 'Power BI' },
@@ -18,9 +17,9 @@ export default function About() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
       <img
-        src={getPlaceholderImage('satyendra-prajapati', 160, 160)}
-        alt=""
-        className="w-28 h-28 rounded-full object-cover mx-auto"
+        src="/images/satyendra-prajapati.jpeg"
+        alt="Satyendra Prajapati"
+        className="w-28 h-28 rounded-full object-cover object-top mx-auto"
       />
       <h1 className="text-3xl font-bold mt-4">Satyendra Prajapati</h1>
       <p className="mt-4 text-gray-600 dark:text-gray-300">

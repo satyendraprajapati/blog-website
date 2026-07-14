@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRight, Sparkles, Briefcase } from 'lucide-react'
 import { getAllPosts } from '../lib/posts'
 import PostCard from '../components/PostCard'
+import Testimonials from '../components/Testimonials'
 import { useSEO } from '../lib/useSEO'
 import { getPlaceholderImage } from '../lib/placeholderImage'
 
@@ -44,7 +45,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="flex items-center justify-between">
+      <Testimonials />
+
+      <div className="flex items-center justify-between mt-12">
         <h2 className="text-xl font-semibold flex items-center gap-2">
           <Sparkles size={18} className="text-purple-500" />
           Latest Posts
