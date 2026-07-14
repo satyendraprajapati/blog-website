@@ -2,13 +2,15 @@ import { useParams, Link } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import rehypeHighlight from 'rehype-highlight'
 import { ArrowLeft, Calendar, Clock, SearchX, Tag as TagIcon } from 'lucide-react'
-import { getPostBySlug } from '../lib/posts'
+import { getPostBySlug, getRelatedPosts } from '../lib/posts'
 import { useSEO } from '../lib/useSEO'
 import { getPlaceholderImage } from '../lib/placeholderImage'
+import PostCard from '../components/PostCard'
 
 export default function Post() {
   const { slug } = useParams()
   const post = getPostBySlug(slug)
+  const relatedPosts = post ? getRelatedPosts(slug) : []
 
   useSEO(post ? post.title : 'Post not found', post ? post.excerpt : undefined)
 
@@ -61,6 +63,16 @@ export default function Post() {
       <div className="mt-6 leading-relaxed [&>h2]:text-xl [&>h2]:font-semibold [&>h2]:mt-6 [&>p]:mt-4">
         <ReactMarkdown rehypePlugins={[rehypeHighlight]}>{post.content}</ReactMarkdown>
       </div>
+      {relatedPosts.length > 0 && (
+        <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
+          <h2 className="text-xl font-semibold mb-4">Related Posts</h2>
+          <div className="grid gap-6 sm:grid-cols-2">
+            {relatedPosts.map((relatedPost) => (
+              <PostCard key={relatedPost.slug} {...relatedPost} />
+            ))}
+          </div>
+        </div>
+      )}
     </article>
   )
 }

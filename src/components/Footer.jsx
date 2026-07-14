@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { BarChart3, Mail, Code2, Rss, Heart } from 'lucide-react'
+import NewsletterSignup from './NewsletterSignup'
 
 const CONTACT_EMAIL = 'satya15793@gmail.com'
 const GITHUB_URL = 'https://github.com/satyendraprajapati'
@@ -70,6 +71,12 @@ export default function Footer() {
               <Rss size={18} />
             </a>
           </div>
+        </div>
+      </div>
+
+      <div className="border-t border-gray-200 dark:border-gray-700">
+        <div className="max-w-3xl mx-auto px-4 py-8">
+          <NewsletterSignup />
         </div>
       </div>
 

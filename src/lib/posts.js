@@ -35,3 +35,29 @@ export function getAllPosts() {
 export function getPostBySlug(slug) {
   return posts.find((post) => post.slug === slug) || null
 }
+
+export function getRelatedPosts(slug, limit = 3) {
+  const current = getPostBySlug(slug)
+  if (!current) return []
+
+  const others = posts.filter((post) => post.slug !== slug)
+
+  const scored = others
+    .map((post) => ({
+      post,
+      score: post.tags.filter((tag) => current.tags.includes(tag)).length,
+    }))
+    .filter(({ score }) => score > 0)
+    .sort((a, b) => b.score - a.score)
+    .map(({ post }) => post)
+
+  const related = scored.slice(0, limit)
+
+  if (related.length < limit) {
+    const usedSlugs = new Set(related.map((post) => post.slug))
+    const backfill = others.filter((post) => !usedSlugs.has(post.slug))
+    related.push(...backfill.slice(0, limit - related.length))
+  }
+
+  return related
+}
