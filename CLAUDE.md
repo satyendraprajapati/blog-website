@@ -4,7 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Status
 
-This is a **planned but not yet scaffolded** project. No code exists yet — this file documents the agreed plan so implementation can start from it. Update this file as decisions change or once the project is scaffolded (e.g. replace the plan with real build/lint/test commands and actual architecture notes).
+Scaffolded and deployed. Live at https://blog-website-navy-one.vercel.app (Vercel, connected to
+this GitHub repo for auto-deploys on push to `master`).
+
+Implemented: Home, Blog, Post, Tag, Services, Portfolio/ProjectDetail, About, Contact, 404;
+dark/light theme toggle; SEO meta tags; sitemap.xml/rss.xml/robots.txt generation (`npm run
+generate-feeds`, wired into `npm run build`); code syntax highlighting; reading time; a
+`/newpost` slash command for adding blog posts.
+
+Portfolio case studies in `content/projects/` are placeholder/illustrative — replace with real
+project write-ups before using the site with actual clients.
 
 ## Goal
 
