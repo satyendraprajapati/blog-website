@@ -8,7 +8,7 @@
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "generate-rss": "node scripts/generate-rss.js",
     "generate-feeds": "npm run generate-sitemap && npm run generate-rss",
-    "build": "npm run generate-feeds && vite build",
+    "build": "npm run generate-feeds && vite build && node scripts/prerender.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },
