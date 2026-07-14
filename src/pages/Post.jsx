@@ -34,7 +34,7 @@ export default function Post() {
     <article className="max-w-3xl mx-auto px-4 py-8">
       <img
         src={getPlaceholderImage(post.slug, 1200, 500)}
-        alt=""
+        alt={post.title}
         className="w-full h-64 object-cover rounded-2xl mb-6"
       />
       <h1 className="text-3xl font-bold">{post.title}</h1>

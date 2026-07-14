@@ -9,7 +9,7 @@ export default function PostCard({ slug, title, date, excerpt, tags = [] }) {
         <div className="overflow-hidden rounded-lg mb-3">
           <img
             src={getPlaceholderImage(slug, 800, 400)}
-            alt=""
+            alt={title}
             loading="lazy"
             className="w-full h-40 object-cover transition-transform group-hover:scale-105"
           />
