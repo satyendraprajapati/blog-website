@@ -1,6 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import { BarChart3, Briefcase } from 'lucide-react'
 import ThemeToggle from './ThemeToggle'
+import SearchModal from './SearchModal'
 
 const navLinks = [
   { to: '/', label: 'Home', end: true },
@@ -42,6 +43,7 @@ export default function Header() {
             <Briefcase size={14} />
             Hire Me
           </NavLink>
+          <SearchModal />
           <ThemeToggle />
         </nav>
       </div>
