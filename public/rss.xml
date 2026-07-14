@@ -2,19 +2,19 @@
 <rss version="2.0">
 <channel>
   <title>Data Analyst Blog</title>
-  <link>https://example.com</link>
+  <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
     <title>Example Post</title>
-    <link>https://example.com/blog/example-post</link>
-    <guid>https://example.com/blog/example-post</guid>
+    <link>https://blog-website-navy-one.vercel.app/blog/example-post</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/example-post</guid>
     <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
     <description></description>
   </item>
   <item>
     <title>My First Post</title>
-    <link>https://example.com/blog/my-first-post</link>
-    <guid>https://example.com/blog/my-first-post</guid>
+    <link>https://blog-website-navy-one.vercel.app/blog/my-first-post</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/my-first-post</guid>
     <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
     <description>Why I&apos;m starting this blog and what to expect from the posts ahead.</description>
   </item>
