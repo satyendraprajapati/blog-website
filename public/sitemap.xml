@@ -27,6 +27,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</loc>
+    <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -42,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</loc>
+    <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</loc>
     <lastmod>2026-07-15</lastmod>
     <priority>0.7</priority>
@@ -52,8 +62,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</loc>
+    <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/presenting-data-analysis-results-in-powerpoint</loc>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

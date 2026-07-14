@@ -47,6 +47,34 @@
     <description>A step-by-step walkthrough of turning a plain spreadsheet into your first working Power BI dashboard.</description>
   </item>
   <item>
+    <title>Build a Data Portfolio Website with React, Vite, and Tailwind CSS</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A beginner-friendly stack for putting your data analysis projects online without needing a backend.</description>
+  </item>
+  <item>
+    <title>Pivot Tables 101: Summarizing Messy Data Fast in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a raw export into a clear summary table in under a minute with Excel Pivot Tables.</description>
+  </item>
+  <item>
+    <title>Power BI Data Modeling: Why a Star Schema Beats One Big Flat Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why splitting your data into fact and dimension tables makes Power BI faster and your DAX simpler.</description>
+  </item>
+  <item>
+    <title>5 PowerPoint Habits for Presenting Data Analysis Without Losing the Room</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/presenting-data-analysis-results-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/presenting-data-analysis-results-in-powerpoint</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The dashboard isn&apos;t the deliverable — the decision is. Habits for turning analysis into a slide deck people actually follow.</description>
+  </item>
+  <item>
     <title>Example Post</title>
     <link>https://blog-website-navy-one.vercel.app/blog/example-post</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/example-post</guid>
