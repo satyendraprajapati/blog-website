@@ -1,4 +1,4 @@
-const BUTTONDOWN_USERNAME = 'PLACEHOLDER_USERNAME'
+const BUTTONDOWN_USERNAME = 'satyendraprajapati'
 
 export default function NewsletterSignup() {
   return (
