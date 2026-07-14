@@ -5,6 +5,48 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Choosing the Right Chart Type in Power BI: A Practical Guide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A quick decision guide for picking a chart type based on the question you&apos;re actually answering.</description>
+  </item>
+  <item>
+    <title>How to Automate a Weekly Excel Report with Power Query</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</guid>
+    <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Turn a repetitive weekly Excel report into a one-click refresh with Power Query.</description>
+  </item>
+  <item>
+    <title>DAX Basics: Understanding CALCULATE in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-basics-understanding-calculate</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-basics-understanding-calculate</guid>
+    <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why CALCULATE is the DAX function that finally makes filter context click.</description>
+  </item>
+  <item>
+    <title>5 Excel Formulas Every Data Analyst Should Know (With Examples)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/5-excel-formulas-every-data-analyst-should-know</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/5-excel-formulas-every-data-analyst-should-know</guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Five formulas that cover most day-to-day data cleaning and lookup work in Excel.</description>
+  </item>
+  <item>
+    <title>Power Query vs. Excel Formulas: When to Use Each for Data Cleaning</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A practical rule of thumb for choosing between Power Query and formulas when your data is messy.</description>
+  </item>
+  <item>
+    <title>How to Build Your First Power BI Dashboard from an Excel File</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A step-by-step walkthrough of turning a plain spreadsheet into your first working Power BI dashboard.</description>
+  </item>
+  <item>
     <title>Example Post</title>
     <link>https://blog-website-navy-one.vercel.app/blog/example-post</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/example-post</guid>

@@ -25,3 +25,8 @@ dist-ssr
 
 .vercel
 .claude/scheduled_tasks.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local

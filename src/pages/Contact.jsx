@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Mail, Send } from 'lucide-react'
+import { Mail, Send, Loader2, CheckCircle2, AlertCircle } from 'lucide-react'
 import { useSEO } from '../lib/useSEO'
 
 const CONTACT_EMAIL = 'satya15793@gmail.com'
@@ -29,17 +29,55 @@ export default function Contact() {
   )
 
   const [form, setForm] = useState(initialForm)
+  const [status, setStatus] = useState('idle')
+  const [errorMessage, setErrorMessage] = useState('')
 
   function handleChange(e) {
     const { name, value } = e.target
     setForm((f) => ({ ...f, [name]: value }))
   }
 
-  function handleSubmit(e) {
+  async function handleSubmit(e) {
     e.preventDefault()
     const subject = `Project inquiry: ${form.projectType}`
-    const body = `Name: ${form.name}\nEmail: ${form.email}\nProject type: ${form.projectType}\nBudget: ${form.budget}\n\n${form.message}`
-    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+    const accessKey = import.meta.env.VITE_WEB3FORMS_ACCESS_KEY
+
+    if (!accessKey) {
+      const body = `Name: ${form.name}\nEmail: ${form.email}\nProject type: ${form.projectType}\nBudget: ${form.budget}\n\n${form.message}`
+      window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+      return
+    }
+
+    setStatus('loading')
+    setErrorMessage('')
+
+    try {
+      const res = await fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({
+          access_key: accessKey,
+          subject,
+          name: form.name,
+          email: form.email,
+          project_type: form.projectType,
+          budget: form.budget,
+          message: form.message,
+        }),
+      })
+      const data = await res.json()
+
+      if (data.success) {
+        setStatus('success')
+        setForm(initialForm)
+      } else {
+        setStatus('error')
+        setErrorMessage(data.message || 'Something went wrong. Please try again or email me directly.')
+      }
+    } catch {
+      setStatus('error')
+      setErrorMessage('Network error — please check your connection and try again.')
+    }
   }
 
   return (
@@ -138,11 +176,35 @@ export default function Contact() {
 
         <button
           type="submit"
-          className="flex items-center gap-2 bg-purple-600 text-white rounded-full px-5 py-2.5 hover:bg-purple-700 transition-colors"
+          disabled={status === 'loading'}
+          className="flex items-center gap-2 bg-purple-600 text-white rounded-full px-5 py-2.5 hover:bg-purple-700 transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
         >
-          <Send size={16} />
-          Send Inquiry
+          {status === 'loading' ? (
+            <>
+              <Loader2 size={16} className="animate-spin" />
+              Sending…
+            </>
+          ) : (
+            <>
+              <Send size={16} />
+              Send Inquiry
+            </>
+          )}
         </button>
+
+        {status === 'success' && (
+          <p className="flex items-center gap-2 text-sm text-green-600 dark:text-green-400">
+            <CheckCircle2 size={16} />
+            Thanks! I'll get back to you soon.
+          </p>
+        )}
+
+        {status === 'error' && (
+          <p className="flex items-center gap-2 text-sm text-red-600 dark:text-red-400">
+            <AlertCircle size={16} />
+            {errorMessage}
+          </p>
+        )}
       </form>
 
       <p className="mt-6 text-sm text-gray-500 text-center">

@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import PageViewTracker from './components/PageViewTracker'
 import Home from './pages/Home'
 import Blog from './pages/Blog'
 import Post from './pages/Post'
@@ -15,6 +16,7 @@ import NotFound from './pages/NotFound'
 function App() {
   return (
     <BrowserRouter>
+      <PageViewTracker />
       <Header />
       <main className="w-full">
         <Routes>
