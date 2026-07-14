@@ -4,6 +4,15 @@ import NewsletterSignup from './NewsletterSignup'
 
 const CONTACT_EMAIL = 'satya15793@gmail.com'
 const GITHUB_URL = 'https://github.com/satyendraprajapati'
+const LINKEDIN_URL = 'https://www.linkedin.com/in/satyendra-prajapati-621927215/'
+
+function LinkedinIcon(props) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
+      <path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.03-1.85-3.03-1.85 0-2.14 1.45-2.14 2.94v5.66H9.36V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29ZM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12ZM7.12 20.45H3.56V9h3.56v11.45Z" />
+    </svg>
+  )
+}
 
 const quickLinks = [
   { to: '/', label: 'Home' },
@@ -62,6 +71,15 @@ export default function Footer() {
               className="text-gray-500 hover:text-purple-600 dark:hover:text-purple-400 transition-colors"
             >
               <Code2 size={18} />
+            </a>
+            <a
+              href={LINKEDIN_URL}
+              target="_blank"
+              rel="noreferrer"
+              aria-label="LinkedIn"
+              className="text-gray-500 hover:text-purple-600 dark:hover:text-purple-400 transition-colors"
+            >
+              <LinkedinIcon className="w-[18px] h-[18px]" />
             </a>
             <a
               href="/rss.xml"
