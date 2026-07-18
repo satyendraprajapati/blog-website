@@ -5,6 +5,62 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Data Analyst Portfolio That Actually Gets Interviews</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>What hiring managers actually look for in a data analyst portfolio, beyond &quot;I know Excel and SQL.&quot;</description>
+  </item>
+  <item>
+    <title>Error-Proofing Excel Inputs with Data Validation</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Stop bad data at the entry point instead of cleaning it up later, using Excel&apos;s Data Validation tool.</description>
+  </item>
+  <item>
+    <title>DAX: SUMX vs. SUM and Why Row Context Matters</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The difference between aggregating a column and evaluating an expression row by row in DAX.</description>
+  </item>
+  <item>
+    <title>Handling Missing Data: A Practical Checklist for Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A decision checklist for what to do when a dataset has gaps, before you drop or fill anything.</description>
+  </item>
+  <item>
+    <title>Correlation vs. Causation: A Practical Guide for Data Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why a strong correlation in your dashboard isn&apos;t proof of a cause — and questions to ask before you claim one.</description>
+  </item>
+  <item>
+    <title>Python Pandas Basics for Analysts Coming from Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A rough mental map from Excel operations to their pandas equivalents.</description>
+  </item>
+  <item>
+    <title>SQL Window Functions Every Data Analyst Should Know</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>ROW_NUMBER, RANK, and running totals — the window functions that replace clunky self-joins and subqueries.</description>
+  </item>
+  <item>
+    <title>SQL JOINs Explained for Data Analysts (With Examples)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>INNER, LEFT, and FULL joins explained with the actual questions each one answers.</description>
+  </item>
+  <item>
     <title>Choosing the Right Chart Type in Power BI: A Practical Guide</title>
     <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</guid>
@@ -73,20 +129,6 @@
     <guid>https://blog-website-navy-one.vercel.app/blog/presenting-data-analysis-results-in-powerpoint</guid>
     <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
     <description>The dashboard isn&apos;t the deliverable — the decision is. Habits for turning analysis into a slide deck people actually follow.</description>
-  </item>
-  <item>
-    <title>Example Post</title>
-    <link>https://blog-website-navy-one.vercel.app/blog/example-post</link>
-    <guid>https://blog-website-navy-one.vercel.app/blog/example-post</guid>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-    <description></description>
-  </item>
-  <item>
-    <title>My First Post</title>
-    <link>https://blog-website-navy-one.vercel.app/blog/my-first-post</link>
-    <guid>https://blog-website-navy-one.vercel.app/blog/my-first-post</guid>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Why I&apos;m starting this blog and what to expect from the posts ahead.</description>
   </item>
 </channel>
 </rss>

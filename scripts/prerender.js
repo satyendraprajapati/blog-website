@@ -1,6 +1,10 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import matter from 'gray-matter'
+import { createElement } from 'react'
+import { renderToStaticMarkup } from 'react-dom/server'
+import ReactMarkdown from 'react-markdown'
+import rehypeHighlight from 'rehype-highlight'
 import { SITE_URL, SITE_NAME } from './site-config.js'
 
 const distDir = path.resolve('dist')
@@ -87,6 +91,29 @@ function renderShell({ routePath, title, description, ogType = 'website', image,
   return html
 }
 
+function renderMarkdownHtml(markdown) {
+  return renderToStaticMarkup(createElement(ReactMarkdown, { rehypePlugins: [rehypeHighlight] }, markdown))
+}
+
+function injectRootContent(html, contentHtml) {
+  return replaceOnce(html, /<div id="root"><\/div>/, `<div id="root">${contentHtml}</div>`, '#root div')
+}
+
+function renderArticleHtml({ title, date, tags, bodyHtml }) {
+  const tagsHtml = (tags || [])
+    .map((tag) => `<span>${escapeHtml(tag)}</span>`)
+    .join(' ')
+
+  return [
+    '<article>',
+    `<h1>${escapeHtml(title)}</h1>`,
+    date ? `<p>${escapeHtml(date)}</p>` : '',
+    tagsHtml ? `<div>${tagsHtml}</div>` : '',
+    bodyHtml,
+    '</article>',
+  ].join('\n')
+}
+
 function writeRoute(routePath, html) {
   const outDir = path.join(distDir, routePath.replace(/^\//, ''))
   fs.mkdirSync(outDir, { recursive: true })
@@ -109,7 +136,7 @@ const postFiles = fs.readdirSync(postsDir).filter((file) => file.endsWith('.md')
 
 for (const file of postFiles) {
   const raw = fs.readFileSync(path.join(postsDir, file), 'utf-8')
-  const { data } = matter(raw)
+  const { data, content } = matter(raw)
   const slug = file.replace(/\.md$/, '')
   assertValidSlug(slug, 'post')
 
@@ -128,7 +155,7 @@ for (const file of postFiles) {
     mainEntityOfPage: `${SITE_URL}${routePath}`,
   }
 
-  const html = renderShell({
+  let html = renderShell({
     routePath,
     title: data.title,
     description: excerpt,
@@ -137,6 +164,14 @@ for (const file of postFiles) {
     imageAlt: data.title,
     jsonLd,
   })
+
+  const articleHtml = renderArticleHtml({
+    title: data.title,
+    date: data.date,
+    tags: data.tags,
+    bodyHtml: renderMarkdownHtml(content),
+  })
+  html = injectRootContent(html, articleHtml)
 
   writeRoute(routePath, html)
 }
@@ -147,14 +182,14 @@ const projectFiles = fs.readdirSync(projectsDir).filter((file) => file.endsWith(
 
 for (const file of projectFiles) {
   const raw = fs.readFileSync(path.join(projectsDir, file), 'utf-8')
-  const { data } = matter(raw)
+  const { data, content } = matter(raw)
   const slug = file.replace(/\.md$/, '')
   assertValidSlug(slug, 'project')
 
   const routePath = `/portfolio/${slug}`
   const image = ogImageFor(slug)
 
-  const html = renderShell({
+  let html = renderShell({
     routePath,
     title: data.title,
     description: data.excerpt || '',
@@ -162,6 +197,14 @@ for (const file of projectFiles) {
     image,
     imageAlt: data.title,
   })
+
+  const articleHtml = renderArticleHtml({
+    title: data.title,
+    date: data.date,
+    tags: data.tools,
+    bodyHtml: renderMarkdownHtml(content),
+  })
+  html = injectRootContent(html, articleHtml)
 
   writeRoute(routePath, html)
 }

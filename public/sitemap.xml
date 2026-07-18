@@ -37,13 +37,28 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</loc>
+    <lastmod>2026-07-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-basics-understanding-calculate</loc>
     <lastmod>2026-07-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog-website-navy-one.vercel.app/blog/example-post</loc>
-    <lastmod>2026-07-13</lastmod>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</loc>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -57,8 +72,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog-website-navy-one.vercel.app/blog/my-first-post</loc>
-    <lastmod>2026-07-13</lastmod>
+    <loc>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</loc>
+    <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -74,6 +89,21 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/presenting-data-analysis-results-in-powerpoint</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</loc>
+    <lastmod>2026-07-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</loc>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
