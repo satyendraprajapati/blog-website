@@ -231,7 +231,7 @@ const staticRoutes = [
     routePath: '/about',
     title: 'About',
     description:
-      'Satyendra Prajapati is a data analyst with 16 years of experience in data analysis, business automation, and web development.',
+      'Satyendra Prajapati is a data analyst with 9+ years of experience in data analysis, business automation, and web development.',
     image: `${SITE_URL}/images/satyendra-prajapati.jpeg`,
     imageAlt: 'Satyendra Prajapati',
   },

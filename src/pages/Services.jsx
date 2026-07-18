@@ -42,7 +42,7 @@ export default function Services() {
     <div className="max-w-3xl mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-2">Services</h1>
       <p className="text-gray-600 dark:text-gray-300 mb-8">
-        16 years of experience across data analysis, automation, and web development. Here's how
+        9+ years of experience across data analysis, automation, and web development. Here's how
         I can help.
       </p>
 

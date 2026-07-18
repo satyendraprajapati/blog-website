@@ -3,8 +3,8 @@ import { Award, Layers, MessageSquare, UserCheck } from 'lucide-react'
 const reasons = [
   {
     icon: Award,
-    title: '16+ Years Experience',
-    description: 'Nearly two decades working across data analysis, automation, and web projects.',
+    title: '9+ Years Experience',
+    description: 'Nearly a decade working across data analysis, automation, and web projects.',
   },
   {
     icon: Layers,

@@ -11,7 +11,7 @@ const skills = [
 export default function About() {
   useSEO(
     'About',
-    'Satyendra Prajapati is a data analyst with 16 years of experience in data analysis, business automation, and web development.'
+    'Satyendra Prajapati is a data analyst with 9+ years of experience in data analysis, business automation, and web development.'
   )
 
   return (
@@ -23,7 +23,7 @@ export default function About() {
       />
       <h1 className="text-3xl font-bold mt-4">Satyendra Prajapati</h1>
       <p className="mt-4 text-gray-600 dark:text-gray-300">
-        I'm a data analyst with 16 years of experience in the field, working across data analysis,
+        I'm a data analyst with 9+ years of experience in the field, working across data analysis,
         business process automation, and web development. I started this blog to share what I've
         learned along the way — from building dashboards to automating repetitive business
         workflows.
