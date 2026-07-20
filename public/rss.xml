@@ -61,11 +61,39 @@
     <description>INNER, LEFT, and FULL joins explained with the actual questions each one answers.</description>
   </item>
   <item>
+    <title>Add Client-Side Search to Your Data Portfolio Site with FlexSearch</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/add-client-side-search-to-your-data-portfolio-site-with-flexsearch</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/add-client-side-search-to-your-data-portfolio-site-with-flexsearch</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add fast, no-backend search across your blog posts using FlexSearch and the same Markdown files you already have.</description>
+  </item>
+  <item>
+    <title>Building a Reusable Slide Template for Data Analysis Reports in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to set up a PowerPoint slide master so every data report you build starts consistent instead of reformatted from scratch.</description>
+  </item>
+  <item>
     <title>Choosing the Right Chart Type in Power BI: A Practical Guide</title>
     <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</guid>
     <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
     <description>A quick decision guide for picking a chart type based on the question you&apos;re actually answering.</description>
+  </item>
+  <item>
+    <title>Excel Dynamic Arrays: FILTER, SORT, and SORTBY Explained</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How FILTER, SORT, and SORTBY spill live, self-updating results across a range instead of locking you into a static copy-paste.</description>
+  </item>
+  <item>
+    <title>Power BI Time Intelligence: Comparing This Period to Last Year</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The DAX time intelligence functions that turn a single revenue measure into year-over-year and running-total comparisons.</description>
   </item>
   <item>
     <title>How to Automate a Weekly Excel Report with Power Query</title>
