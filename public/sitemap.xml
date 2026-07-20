@@ -47,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</loc>
+    <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</loc>
     <lastmod>2026-07-24</lastmod>
     <priority>0.7</priority>
@@ -92,8 +97,23 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</loc>
+    <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</loc>
+    <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</loc>
+    <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

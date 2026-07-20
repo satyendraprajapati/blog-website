@@ -82,11 +82,39 @@
     <description>A quick decision guide for picking a chart type based on the question you&apos;re actually answering.</description>
   </item>
   <item>
+    <title>Conditional Formatting in Excel for Spotting Outliers and Data Issues</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Turn Excel&apos;s Conditional Formatting into a visual QA pass that flags outliers, duplicates, and blanks before you build anything on top of the data.</description>
+  </item>
+  <item>
     <title>Excel Dynamic Arrays: FILTER, SORT, and SORTBY Explained</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</guid>
     <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
     <description>How FILTER, SORT, and SORTBY spill live, self-updating results across a range instead of locking you into a static copy-paste.</description>
+  </item>
+  <item>
+    <title>How to Deploy a Static Data Portfolio Site for Free with Vercel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Getting a React portfolio site live and auto-deploying from GitHub takes about five minutes on Vercel&apos;s free tier — here&apos;s the process end to end.</description>
+  </item>
+  <item>
+    <title>Linking Excel Charts to PowerPoint So Your Slides Update Automatically</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Paste Excel charts into PowerPoint as linked objects instead of static images, so a weekly refresh updates every slide with one click instead of a rebuild.</description>
+  </item>
+  <item>
+    <title>Power BI: Measures vs. Calculated Columns and When to Use Each</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Both are written in DAX, but measures and calculated columns get evaluated completely differently — and picking the wrong one bloats your model or breaks your visuals.</description>
   </item>
   <item>
     <title>Power BI Time Intelligence: Comparing This Period to Last Year</title>
