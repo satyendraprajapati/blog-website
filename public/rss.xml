@@ -54,6 +54,34 @@
     <description>ROW_NUMBER, RANK, and running totals — the window functions that replace clunky self-joins and subqueries.</description>
   </item>
   <item>
+    <title>Automating PowerPoint Reports with Python and python-pptx</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to generate a slide deck straight from your data with python-pptx, instead of manually copy-pasting charts into PowerPoint every week.</description>
+  </item>
+  <item>
+    <title>Embedding Interactive Charts in Your React Blog with Recharts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to drop a live, interactive chart into a Markdown-based React blog post instead of a static screenshot.</description>
+  </item>
+  <item>
+    <title>Excel Date Functions Every Data Analyst Should Know</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-date-functions-every-data-analyst-should-know</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-date-functions-every-data-analyst-should-know</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>EOMONTH, NETWORKDAYS, DATEDIF, and other date functions that make building weekly and monthly reports far less painful.</description>
+  </item>
+  <item>
+    <title>Power BI What-If Parameters for Scenario Analysis</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-what-if-parameters-for-scenario-analysis</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-what-if-parameters-for-scenario-analysis</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add a What-If parameter to a Power BI report so stakeholders can test scenarios like a price change or growth rate without touching the underlying data.</description>
+  </item>
+  <item>
     <title>SQL JOINs Explained for Data Analysts (With Examples)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</guid>
@@ -61,11 +89,67 @@
     <description>INNER, LEFT, and FULL joins explained with the actual questions each one answers.</description>
   </item>
   <item>
+    <title>Add Client-Side Search to Your Data Portfolio Site with FlexSearch</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/add-client-side-search-to-your-data-portfolio-site-with-flexsearch</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/add-client-side-search-to-your-data-portfolio-site-with-flexsearch</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add fast, no-backend search across your blog posts using FlexSearch and the same Markdown files you already have.</description>
+  </item>
+  <item>
+    <title>Building a Reusable Slide Template for Data Analysis Reports in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to set up a PowerPoint slide master so every data report you build starts consistent instead of reformatted from scratch.</description>
+  </item>
+  <item>
     <title>Choosing the Right Chart Type in Power BI: A Practical Guide</title>
     <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-in-power-bi</guid>
     <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
     <description>A quick decision guide for picking a chart type based on the question you&apos;re actually answering.</description>
+  </item>
+  <item>
+    <title>Conditional Formatting in Excel for Spotting Outliers and Data Issues</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Turn Excel&apos;s Conditional Formatting into a visual QA pass that flags outliers, duplicates, and blanks before you build anything on top of the data.</description>
+  </item>
+  <item>
+    <title>Excel Dynamic Arrays: FILTER, SORT, and SORTBY Explained</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How FILTER, SORT, and SORTBY spill live, self-updating results across a range instead of locking you into a static copy-paste.</description>
+  </item>
+  <item>
+    <title>How to Deploy a Static Data Portfolio Site for Free with Vercel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Getting a React portfolio site live and auto-deploying from GitHub takes about five minutes on Vercel&apos;s free tier — here&apos;s the process end to end.</description>
+  </item>
+  <item>
+    <title>Linking Excel Charts to PowerPoint So Your Slides Update Automatically</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Paste Excel charts into PowerPoint as linked objects instead of static images, so a weekly refresh updates every slide with one click instead of a rebuild.</description>
+  </item>
+  <item>
+    <title>Power BI: Measures vs. Calculated Columns and When to Use Each</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Both are written in DAX, but measures and calculated columns get evaluated completely differently — and picking the wrong one bloats your model or breaks your visuals.</description>
+  </item>
+  <item>
+    <title>Power BI Time Intelligence: Comparing This Period to Last Year</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The DAX time intelligence functions that turn a single revenue measure into year-over-year and running-total comparisons.</description>
   </item>
   <item>
     <title>How to Automate a Weekly Excel Report with Power Query</title>
