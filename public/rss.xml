@@ -54,6 +54,34 @@
     <description>ROW_NUMBER, RANK, and running totals — the window functions that replace clunky self-joins and subqueries.</description>
   </item>
   <item>
+    <title>Automating PowerPoint Reports with Python and python-pptx</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to generate a slide deck straight from your data with python-pptx, instead of manually copy-pasting charts into PowerPoint every week.</description>
+  </item>
+  <item>
+    <title>Embedding Interactive Charts in Your React Blog with Recharts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to drop a live, interactive chart into a Markdown-based React blog post instead of a static screenshot.</description>
+  </item>
+  <item>
+    <title>Excel Date Functions Every Data Analyst Should Know</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-date-functions-every-data-analyst-should-know</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-date-functions-every-data-analyst-should-know</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>EOMONTH, NETWORKDAYS, DATEDIF, and other date functions that make building weekly and monthly reports far less painful.</description>
+  </item>
+  <item>
+    <title>Power BI What-If Parameters for Scenario Analysis</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-what-if-parameters-for-scenario-analysis</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-what-if-parameters-for-scenario-analysis</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add a What-If parameter to a Power BI report so stakeholders can test scenarios like a price change or growth rate without touching the underlying data.</description>
+  </item>
+  <item>
     <title>SQL JOINs Explained for Data Analysts (With Examples)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</guid>
