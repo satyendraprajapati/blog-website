@@ -27,6 +27,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-dark-light-theme-toggle-to-your-react-data-portfolio</loc>
+    <lastmod>2026-07-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</loc>
     <lastmod>2026-07-19</lastmod>
     <priority>0.7</priority>
@@ -97,6 +102,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-let-and-lambda-writing-reusable-custom-formulas</loc>
+    <lastmod>2026-07-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</loc>
     <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
@@ -119,6 +129,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</loc>
     <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</loc>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -163,6 +178,11 @@
   </url>
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</loc>
+    <lastmod>2026-07-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-animation-and-reveal-timing-in-powerpoint-for-data-slides</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
   </url>

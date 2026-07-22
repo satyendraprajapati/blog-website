@@ -47,11 +47,39 @@
     <description>A rough mental map from Excel operations to their pandas equivalents.</description>
   </item>
   <item>
+    <title>Adding a Dark/Light Theme Toggle to Your React Data Portfolio</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-dark-light-theme-toggle-to-your-react-data-portfolio</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-dark-light-theme-toggle-to-your-react-data-portfolio</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to build a theme toggle that respects the visitor&apos;s system preference, persists their choice, and avoids the flash-of-wrong-theme problem on a React and Tailwind site.</description>
+  </item>
+  <item>
+    <title>Excel LET and LAMBDA: Writing Reusable Custom Formulas</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-let-and-lambda-writing-reusable-custom-formulas</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-let-and-lambda-writing-reusable-custom-formulas</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How LET and LAMBDA let you name intermediate steps and build your own reusable Excel functions, instead of repeating the same logic across a sheet.</description>
+  </item>
+  <item>
+    <title>Power BI Bookmarks and Buttons for Interactive Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use Bookmarks, Buttons, and Selection Pane to build a Power BI report that behaves more like a guided app than a static page of visuals.</description>
+  </item>
+  <item>
     <title>SQL Window Functions Every Data Analyst Should Know</title>
     <link>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</guid>
     <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
     <description>ROW_NUMBER, RANK, and running totals — the window functions that replace clunky self-joins and subqueries.</description>
+  </item>
+  <item>
+    <title>Using Animation and Reveal Timing in PowerPoint for Data Slides</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-animation-and-reveal-timing-in-powerpoint-for-data-slides</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-animation-and-reveal-timing-in-powerpoint-for-data-slides</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use PowerPoint&apos;s Appear and Wipe animations to control what the audience looks at and when, instead of dumping a full chart on them all at once.</description>
   </item>
   <item>
     <title>Automating PowerPoint Reports with Python and python-pptx</title>
