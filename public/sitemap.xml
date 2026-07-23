@@ -57,6 +57,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -112,8 +117,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/exporting-power-bi-reports-to-powerpoint-for-stakeholders</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</loc>
     <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/generating-an-rss-feed-and-sitemap-for-a-static-react-blog</loc>
+    <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -168,6 +183,11 @@
   </url>
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
   </url>

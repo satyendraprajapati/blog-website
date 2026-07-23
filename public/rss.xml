@@ -40,11 +40,39 @@
     <description>Why a strong correlation in your dashboard isn&apos;t proof of a cause — and questions to ask before you claim one.</description>
   </item>
   <item>
+    <title>Cleaning Messy Text Data in Excel: TRIM, TEXTSPLIT, and SUBSTITUTE</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Three text functions that fix inconsistent spacing, split combined fields, and swap out unwanted characters before you build anything on top of the data.</description>
+  </item>
+  <item>
+    <title>Exporting Power BI Reports to PowerPoint for Stakeholders Who Don&apos;t Use Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/exporting-power-bi-reports-to-powerpoint-for-stakeholders</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/exporting-power-bi-reports-to-powerpoint-for-stakeholders</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to hand off a Power BI report as a set of PowerPoint slides for executives who won&apos;t log in to view a live dashboard themselves.</description>
+  </item>
+  <item>
+    <title>Generating an RSS Feed and Sitemap for a Static React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/generating-an-rss-feed-and-sitemap-for-a-static-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/generating-an-rss-feed-and-sitemap-for-a-static-react-blog</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to script rss.xml and sitemap.xml generation for a Markdown-based React blog so search engines and feed readers stay current without any manual editing.</description>
+  </item>
+  <item>
     <title>Python Pandas Basics for Analysts Coming from Excel</title>
     <link>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</guid>
     <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
     <description>A rough mental map from Excel operations to their pandas equivalents.</description>
+  </item>
+  <item>
+    <title>Row-Level Security in Power BI: Restricting Data by User</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to set up Row-Level Security so the same Power BI report shows each viewer only the rows they&apos;re allowed to see, instead of publishing a separate file per region or team.</description>
   </item>
   <item>
     <title>Adding a Dark/Light Theme Toggle to Your React Data Portfolio</title>
