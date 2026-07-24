@@ -33,11 +33,39 @@
     <description>A decision checklist for what to do when a dataset has gaps, before you drop or fill anything.</description>
   </item>
   <item>
+    <title>Adding Open Graph and Twitter Card Meta Tags to Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-open-graph-and-twitter-card-meta-tags-to-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-open-graph-and-twitter-card-meta-tags-to-your-react-blog</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why a technically-live blog post can still show up as a bare link with no preview when shared, and how to fix it with Open Graph and Twitter Card tags.</description>
+  </item>
+  <item>
     <title>Correlation vs. Causation: A Practical Guide for Data Analysts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/correlation-vs-causation-for-data-analysts</guid>
     <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
     <description>Why a strong correlation in your dashboard isn&apos;t proof of a cause — and questions to ask before you claim one.</description>
+  </item>
+  <item>
+    <title>DAX Variables (VAR): Writing Measures That Are Easier to Read and Debug</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-variables-var-writing-measures-that-are-easier-to-read-and-debug</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-variables-var-writing-measures-that-are-easier-to-read-and-debug</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How VAR turns a nested wall of DAX into readable steps, and why it can make your measures faster too.</description>
+  </item>
+  <item>
+    <title>Goal Seek and Data Tables: What-If Analysis in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/goal-seek-and-data-tables-what-if-analysis-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/goal-seek-and-data-tables-what-if-analysis-in-excel</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Two built-in Excel tools for answering &apos;what would it take?&apos; and &apos;what happens if?&apos; questions without building a second copy of your model.</description>
+  </item>
+  <item>
+    <title>Using Sections and Slide Zoom to Navigate a Long Data PowerPoint Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-sections-and-slide-zoom-to-navigate-a-long-data-powerpoint-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-sections-and-slide-zoom-to-navigate-a-long-data-powerpoint-deck</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A 40-slide analysis deck doesn&apos;t need to be presented start to finish in order — Sections and Slide Zoom let you organize it and jump around live instead.</description>
   </item>
   <item>
     <title>Cleaning Messy Text Data in Excel: TRIM, TEXTSPLIT, and SUBSTITUTE</title>
