@@ -26,11 +26,39 @@
     <description>The difference between aggregating a column and evaluating an expression row by row in DAX.</description>
   </item>
   <item>
+    <title>Adding a Reading Time Estimate to Your React Blog Posts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-time-estimate-to-your-react-blog-posts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-time-estimate-to-your-react-blog-posts</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to calculate a &apos;5 min read&apos; label from raw Markdown content instead of hand-guessing it per post.</description>
+  </item>
+  <item>
+    <title>Excel Tables: Structured References for Formulas That Don&apos;t Break</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-tables-structured-references-for-formulas-that-dont-break</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-tables-structured-references-for-formulas-that-dont-break</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Convert a plain range into an Excel Table so formulas auto-expand with new data and read like plain English instead of cell coordinates.</description>
+  </item>
+  <item>
     <title>Handling Missing Data: A Practical Checklist for Analysts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</guid>
     <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
     <description>A decision checklist for what to do when a dataset has gaps, before you drop or fill anything.</description>
+  </item>
+  <item>
+    <title>Power BI Drill-Through Pages: Letting Users Jump from Summary to Detail</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-through-pages-from-summary-to-detail</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-through-pages-from-summary-to-detail</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to build a hidden detail page in Power BI that opens pre-filtered to whatever a viewer right-clicks on a summary visual.</description>
+  </item>
+  <item>
+    <title>Using the Morph Transition for Before-and-After Data Reveals in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-morph-transition-for-before-and-after-data-reveals-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-morph-transition-for-before-and-after-data-reveals-in-powerpoint</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Morph transition turns two nearly-identical slides into a smooth animated comparison, without building a single manual animation.</description>
   </item>
   <item>
     <title>Adding Open Graph and Twitter Card Meta Tags to Your React Blog</title>
