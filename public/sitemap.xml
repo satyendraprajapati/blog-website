@@ -37,6 +37,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-open-graph-and-twitter-card-meta-tags-to-your-react-blog</loc>
     <lastmod>2026-07-24</lastmod>
     <priority>0.7</priority>
@@ -132,6 +137,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-sparklines-compact-in-cell-charts-for-reports</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-tables-structured-references-for-formulas-that-dont-break</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
@@ -167,6 +177,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/icon-arrays-and-simple-tables-instead-of-charts-for-small-data-sets-in-powerpoint</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/linking-excel-charts-to-powerpoint-so-your-slides-update-automatically</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -174,6 +189,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</loc>
     <lastmod>2026-07-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</loc>
+    <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -19,11 +19,39 @@
     <description>Stop bad data at the entry point instead of cleaning it up later, using Excel&apos;s Data Validation tool.</description>
   </item>
   <item>
+    <title>Adding an Auto-Generated Table of Contents to Long Blog Posts in React</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to build a jump-to-section table of contents from Markdown headings automatically, instead of hand-maintaining a list of links per post.</description>
+  </item>
+  <item>
     <title>DAX: SUMX vs. SUM and Why Row Context Matters</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</guid>
     <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
     <description>The difference between aggregating a column and evaluating an expression row by row in DAX.</description>
+  </item>
+  <item>
+    <title>Excel Sparklines: Compact In-Cell Charts for Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-sparklines-compact-in-cell-charts-for-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-sparklines-compact-in-cell-charts-for-reports</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add tiny in-cell trend charts to a summary table so a reader sees direction and shape without leaving the row.</description>
+  </item>
+  <item>
+    <title>Icon Arrays and Simple Tables Instead of Charts for Small Data Sets in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/icon-arrays-and-simple-tables-instead-of-charts-for-small-data-sets-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/icon-arrays-and-simple-tables-instead-of-charts-for-small-data-sets-in-powerpoint</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why a bar chart with three bars is often the wrong choice, and what to use instead when a data slide has only a handful of numbers.</description>
+  </item>
+  <item>
+    <title>Power BI Conditional Formatting for Tables and Matrices</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a plain Power BI table into a scannable status view using background color, data bars, and icons — driven by a measure, not just the column itself.</description>
   </item>
   <item>
     <title>Adding a Reading Time Estimate to Your React Blog Posts</title>
