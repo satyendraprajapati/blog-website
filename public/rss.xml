@@ -12,11 +12,39 @@
     <description>What hiring managers actually look for in a data analyst portfolio, beyond &quot;I know Excel and SQL.&quot;</description>
   </item>
   <item>
+    <title>Adding Syntax Highlighting to Code Blocks in Your React Markdown Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-syntax-highlighting-to-code-blocks-in-your-react-markdown-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-syntax-highlighting-to-code-blocks-in-your-react-markdown-blog</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to turn plain gray code blocks into properly colored, language-aware snippets using react-markdown and rehype-highlight.</description>
+  </item>
+  <item>
+    <title>DAX RANKX: Building a Dynamic Ranking Measure in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-rankx-building-a-dynamic-ranking-measure-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-rankx-building-a-dynamic-ranking-measure-in-power-bi</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to rank products, regions, or reps with RANKX so the ranking updates live with every filter and slicer instead of being frozen at import time.</description>
+  </item>
+  <item>
     <title>Error-Proofing Excel Inputs with Data Validation</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</guid>
     <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
     <description>Stop bad data at the entry point instead of cleaning it up later, using Excel&apos;s Data Validation tool.</description>
+  </item>
+  <item>
+    <title>Getting Started with Excel Macros: Recording Your First One</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/getting-started-with-excel-macros-recording-your-first-one</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/getting-started-with-excel-macros-recording-your-first-one</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s Macro Recorder to turn a repetitive formatting or cleanup task into a one-click button, without writing VBA from scratch.</description>
+  </item>
+  <item>
+    <title>Recording an Async PowerPoint Walkthrough of Your Data Analysis</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/recording-an-async-powerpoint-walkthrough-of-your-data-analysis</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/recording-an-async-powerpoint-walkthrough-of-your-data-analysis</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use PowerPoint&apos;s Record Slide Show feature to deliver a narrated data readout to stakeholders who can&apos;t make the live meeting.</description>
   </item>
   <item>
     <title>Adding an Auto-Generated Table of Contents to Long Blog Posts in React</title>

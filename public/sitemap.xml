@@ -47,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-syntax-highlighting-to-code-blocks-in-your-react-markdown-blog</loc>
+    <lastmod>2026-07-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</loc>
     <lastmod>2026-07-19</lastmod>
     <priority>0.7</priority>
@@ -94,6 +99,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-basics-understanding-calculate</loc>
     <lastmod>2026-07-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-rankx-building-a-dynamic-ranking-measure-in-power-bi</loc>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -159,6 +169,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/generating-an-rss-feed-and-sitemap-for-a-static-react-blog</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/getting-started-with-excel-macros-recording-your-first-one</loc>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -234,6 +249,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/recording-an-async-powerpoint-walkthrough-of-your-data-analysis</loc>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
