@@ -12,6 +12,20 @@
     <description>A static Vite/React site has no backend to receive form submissions — here&apos;s how to make the Contact page actually send email without standing up a server.</description>
   </item>
   <item>
+    <title>Adding JSON-LD Structured Data to Your React Blog for Rich Search Results</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-json-ld-structured-data-to-your-react-blog-for-rich-search-results</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-json-ld-structured-data-to-your-react-blog-for-rich-search-results</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to embed JSON-LD structured data in your React blog posts so Google can show the author, publish date, and headline directly in search results.</description>
+  </item>
+  <item>
+    <title>Choosing Colorblind-Friendly Palettes for Data Charts in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/choosing-colorblind-friendly-palettes-for-data-charts-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/choosing-colorblind-friendly-palettes-for-data-charts-in-powerpoint</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Roughly 1 in 12 men have some form of color vision deficiency, which means the default red/green chart on your data slide is probably unreadable to someone in the room.</description>
+  </item>
+  <item>
     <title>Building a Data Analyst Portfolio That Actually Gets Interviews</title>
     <link>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</guid>
@@ -24,6 +38,20 @@
     <guid>https://blog-website-navy-one.vercel.app/blog/excel-named-ranges-formulas-that-read-like-sentences</guid>
     <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
     <description>How naming a range turns a cryptic cell-address formula into something the next person (or future you) can actually read.</description>
+  </item>
+  <item>
+    <title>Forecasting Trends in Excel: FORECAST.LINEAR, TREND, and the Forecast Sheet Tool</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/forecasting-trends-in-excel-forecast-linear-trend-and-the-forecast-sheet-tool</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/forecasting-trends-in-excel-forecast-linear-trend-and-the-forecast-sheet-tool</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to project next month&apos;s numbers from historical data using Excel&apos;s built-in forecasting functions and the one-click Forecast Sheet tool.</description>
+  </item>
+  <item>
+    <title>Power BI Field Parameters: Let Report Users Switch What a Chart Shows</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-field-parameters-let-report-users-switch-what-a-chart-shows</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-field-parameters-let-report-users-switch-what-a-chart-shows</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use Field Parameters to let a report viewer swap the measure or dimension on a chart with a slicer, instead of you building a separate visual for every combination.</description>
   </item>
   <item>
     <title>Power BI Import vs. DirectQuery: Choosing the Right Storage Mode</title>
