@@ -5,11 +5,39 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Working Contact Form to a Static React Site with Formspree</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-contact-form-to-a-static-react-site-with-formspree</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-contact-form-to-a-static-react-site-with-formspree</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A static Vite/React site has no backend to receive form submissions — here&apos;s how to make the Contact page actually send email without standing up a server.</description>
+  </item>
+  <item>
     <title>Building a Data Analyst Portfolio That Actually Gets Interviews</title>
     <link>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</guid>
     <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
     <description>What hiring managers actually look for in a data analyst portfolio, beyond &quot;I know Excel and SQL.&quot;</description>
+  </item>
+  <item>
+    <title>Excel Named Ranges: Writing Formulas That Read Like Sentences</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-named-ranges-formulas-that-read-like-sentences</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-named-ranges-formulas-that-read-like-sentences</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How naming a range turns a cryptic cell-address formula into something the next person (or future you) can actually read.</description>
+  </item>
+  <item>
+    <title>Power BI Import vs. DirectQuery: Choosing the Right Storage Mode</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-import-vs-directquery-choosing-storage-mode</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-import-vs-directquery-choosing-storage-mode</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The first decision in any Power BI model that&apos;s easy to get wrong: whether to import the data or query it live, and why the two behave nothing alike.</description>
+  </item>
+  <item>
+    <title>Writing Slide Titles That State the Insight, Not the Topic: BLUF for Data Decks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/writing-slide-titles-that-state-the-insight-bluf-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/writing-slide-titles-that-state-the-insight-bluf-powerpoint</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Why &apos;Q3 Revenue by Region&apos; is a weaker slide title than &apos;West Region Revenue Fell 12% in Q3&apos; — and how to rewrite a deck&apos;s titles to lead with the finding.</description>
   </item>
   <item>
     <title>Adding Syntax Highlighting to Code Blocks in Your React Markdown Blog</title>
