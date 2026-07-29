@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Pagination to Your React Blog&apos;s Post List</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-pagination-to-your-react-blogs-post-list</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-pagination-to-your-react-blogs-post-list</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to split a growing Markdown-based post list into pages instead of rendering every post on one endless scroll.</description>
+  </item>
+  <item>
+    <title>Building Waterfall and Funnel Charts Natively in PowerPoint for Data Slides</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-waterfall-and-funnel-charts-natively-in-powerpoint-for-data-slides</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-waterfall-and-funnel-charts-natively-in-powerpoint-for-data-slides</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint has built-in Waterfall and Funnel chart types most analysts still fake with stacked bars — here&apos;s when to use each and how to set them up.</description>
+  </item>
+  <item>
+    <title>Excel Solver: Solving Optimization Problems Beyond What-If Analysis</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-solver-solving-optimization-problems-beyond-what-if-analysis</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-solver-solving-optimization-problems-beyond-what-if-analysis</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s Solver add-in to find the best combination of inputs under constraints, instead of hand-testing scenarios one at a time.</description>
+  </item>
+  <item>
+    <title>Power BI Performance Analyzer: Finding and Fixing Slow Visuals</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power BI&apos;s built-in Performance Analyzer to find out which visual is actually slowing your report down, instead of guessing.</description>
+  </item>
+  <item>
     <title>Adding a Working Contact Form to a Static React Site with Formspree</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-contact-form-to-a-static-react-site-with-formspree</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-contact-form-to-a-static-react-site-with-formspree</guid>
