@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Privacy-Friendly Analytics to Your React Blog with Plausible</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to see which posts people actually read on a static React blog using Plausible, without cookies, a consent banner, or shipping visitor data to Google.</description>
+  </item>
+  <item>
+    <title>Excel Power Pivot: Relating Multiple Tables Without VLOOKUP</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-power-pivot-relating-multiple-tables-without-vlookup</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-power-pivot-relating-multiple-tables-without-vlookup</guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to load several Excel tables into the Data Model and relate them by key, instead of stitching them together with a wall of VLOOKUP or XLOOKUP columns.</description>
+  </item>
+  <item>
+    <title>Power BI Decomposition Tree: Letting Report Users Explore What&apos;s Driving a Metric</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-decomposition-tree-letting-report-users-explore-whats-driving-a-metric</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-decomposition-tree-letting-report-users-explore-whats-driving-a-metric</guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add a Decomposition Tree so viewers can break a number down by whichever dimension explains it, on demand, instead of you pre-building a chart for every combination.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Accessibility Checker to Add Alt Text to Data Charts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-accessibility-checker-to-add-alt-text-to-data-charts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-accessibility-checker-to-add-alt-text-to-data-charts</guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A colorblind-friendly palette doesn&apos;t help a screen reader user — here&apos;s how to run PowerPoint&apos;s Accessibility Checker and write alt text that actually describes what a chart shows.</description>
+  </item>
+  <item>
     <title>Adding Pagination to Your React Blog&apos;s Post List</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-pagination-to-your-react-blogs-post-list</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-pagination-to-your-react-blogs-post-list</guid>
