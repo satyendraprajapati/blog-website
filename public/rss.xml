@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Comments to Your React Blog with Giscus (GitHub Discussions)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to add a comment section to a static Markdown blog using Giscus, which stores every comment as a GitHub Discussion instead of needing a database or moderation backend.</description>
+  </item>
+  <item>
+    <title>Excel Slicers and Timelines: Adding Interactive Filters to Pivot Tables</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-slicers-and-timelines-adding-interactive-filters-to-pivot-tables</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-slicers-and-timelines-adding-interactive-filters-to-pivot-tables</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    <description>How to replace the cramped Pivot Table filter dropdowns with Slicers and Timelines so anyone can filter a report by clicking instead of hunting through a checkbox list.</description>
+  </item>
+  <item>
+    <title>Power BI Workspaces and Apps: Sharing Reports Without Sharing the File</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-workspaces-and-apps-sharing-reports-without-sharing-the-file</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-workspaces-and-apps-sharing-reports-without-sharing-the-file</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Emailing a .pbix file around means everyone has their own out-of-date copy — here&apos;s how Power BI Workspaces and Apps let a team view the same live report instead.</description>
+  </item>
+  <item>
+    <title>Speaker Notes and Presenter View: Delivering a Data Presentation Without Reading Your Slides</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/speaker-notes-and-presenter-view-delivering-a-data-presentation-without-reading-your-slides</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/speaker-notes-and-presenter-view-delivering-a-data-presentation-without-reading-your-slides</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Your slides should carry the finding, not your explanation of it — here&apos;s how to use Speaker Notes and Presenter View so you can talk through the analysis instead of reading the deck out loud.</description>
+  </item>
+  <item>
     <title>Adding Privacy-Friendly Analytics to Your React Blog with Plausible</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</guid>

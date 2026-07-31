@@ -47,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-json-ld-structured-data-to-your-react-blog-for-rich-search-results</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -187,6 +192,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-slicers-and-timelines-adding-interactive-filters-to-pivot-tables</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-solver-solving-optimization-problems-beyond-what-if-analysis</loc>
     <lastmod>2026-07-29</lastmod>
     <priority>0.7</priority>
@@ -307,6 +317,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-workspaces-and-apps-sharing-reports-without-sharing-the-file</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -329,6 +344,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/speaker-notes-and-presenter-view-delivering-a-data-presentation-without-reading-your-slides</loc>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
