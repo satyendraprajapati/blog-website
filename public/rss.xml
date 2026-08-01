@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>COUNTIFS and SUMPRODUCT: Multi-Criteria Counting and Calculations in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to count and calculate against multiple conditions in Excel, including the OR-logic and weighted cases SUMIFS and COUNTIFS can&apos;t handle on their own.</description>
+  </item>
+  <item>
+    <title>Embedding a Live Power BI Dashboard in Your React Portfolio Site</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-power-bi-dashboard-in-your-react-portfolio-site</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-power-bi-dashboard-in-your-react-portfolio-site</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to drop a real, interactive Power BI report into a project page on your React portfolio using a public embed link, instead of linking away to the Power BI Service.</description>
+  </item>
+  <item>
+    <title>Power BI Scheduled Refresh: Keeping Your Dashboard Current Without Manual Republishing</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-scheduled-refresh-keeping-your-dashboard-current-without-manual-republishing</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-scheduled-refresh-keeping-your-dashboard-current-without-manual-republishing</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to set up scheduled refresh (and a gateway, if your data isn&apos;t in the cloud) so a published Power BI report stays current without you re-publishing it by hand.</description>
+  </item>
+  <item>
+    <title>Using Comments and Version History in PowerPoint for Stakeholder Review Cycles on Data Decks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-comments-and-version-history-in-powerpoint-for-stakeholder-review-cycles-on-data-decks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-comments-and-version-history-in-powerpoint-for-stakeholder-review-cycles-on-data-decks</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to run a data deck review over Comments and Version History in PowerPoint instead of a scattered email thread of &apos;v2_final_FINAL&apos; attachments.</description>
+  </item>
+  <item>
     <title>Adding Comments to Your React Blog with Giscus (GitHub Discussions)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</guid>
