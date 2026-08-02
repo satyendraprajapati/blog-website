@@ -37,6 +37,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</loc>
+    <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-time-estimate-to-your-react-blog-posts</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
@@ -182,6 +187,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-formula-auditing-trace-precedents-trace-dependents-and-evaluate-formula</loc>
+    <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-let-and-lambda-writing-reusable-custom-formulas</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
@@ -317,6 +327,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-quick-measures-common-calculations-without-writing-dax-from-scratch</loc>
+    <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-scheduled-refresh-keeping-your-dashboard-current-without-manual-republishing</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.7</priority>
@@ -354,6 +369,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/recording-an-async-powerpoint-walkthrough-of-your-data-analysis</loc>
     <lastmod>2026-07-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</loc>
+    <lastmod>2026-08-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

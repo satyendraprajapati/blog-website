@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Newsletter Signup to Your React Blog with Buttondown</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add an email signup form to a static Vite/React blog using Buttondown&apos;s free tier, without standing up a backend or a mailing-list server.</description>
+  </item>
+  <item>
+    <title>Excel Formula Auditing: Trace Precedents, Trace Dependents, and Evaluate Formula</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-formula-auditing-trace-precedents-trace-dependents-and-evaluate-formula</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-formula-auditing-trace-precedents-trace-dependents-and-evaluate-formula</guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s built-in Formula Auditing tools to find out where a wrong number is actually coming from, instead of clicking through cells by hand.</description>
+  </item>
+  <item>
+    <title>Power BI Quick Measures: Common Calculations Without Writing DAX From Scratch</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-quick-measures-common-calculations-without-writing-dax-from-scratch</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-quick-measures-common-calculations-without-writing-dax-from-scratch</guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to build common calculations like running totals and percent-of-total in Power BI by filling in a dialog, then use the generated DAX as a starting point for learning the language.</description>
+  </item>
+  <item>
+    <title>Removing Chart Junk: Decluttering Data Labels, Gridlines, and Legends in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s default chart insert comes with gridlines, a legend, and axis clutter you usually don&apos;t need — here&apos;s what to strip out so the number the audience should notice isn&apos;t competing with everything else on the slide.</description>
+  </item>
+  <item>
     <title>COUNTIFS and SUMPRODUCT: Multi-Criteria Counting and Calculations in Excel</title>
     <link>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</guid>
