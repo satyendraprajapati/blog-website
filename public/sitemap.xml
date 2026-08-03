@@ -47,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-related-posts-section-to-your-react-blog-using-shared-tags</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -192,6 +197,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-ifs-and-switch-cleaner-alternatives-to-nested-if</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-let-and-lambda-writing-reusable-custom-formulas</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
@@ -292,6 +302,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-tooltip-pages-rich-hover-detail-without-cluttering-the-report</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</loc>
     <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
@@ -354,6 +369,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-designer-turning-a-cluttered-data-slide-into-a-clean-layout-in-one-click</loc>
+    <lastmod>2026-08-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

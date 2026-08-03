@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a &apos;Related Posts&apos; Section to Your React Blog Using Shared Tags</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-related-posts-section-to-your-react-blog-using-shared-tags</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-related-posts-section-to-your-react-blog-using-shared-tags</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to surface related posts at the bottom of each article using the tags you&apos;re already adding to frontmatter, without a recommendation engine or an external service.</description>
+  </item>
+  <item>
+    <title>Excel IFS and SWITCH: Cleaner Alternatives to Nested IF</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-ifs-and-switch-cleaner-alternatives-to-nested-if</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-ifs-and-switch-cleaner-alternatives-to-nested-if</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How IFS and SWITCH replace a wall of nested IF statements with something you can actually read six months later.</description>
+  </item>
+  <item>
+    <title>Power BI Custom Tooltip Pages: Rich Hover Detail Without Cluttering the Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-tooltip-pages-rich-hover-detail-without-cluttering-the-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-tooltip-pages-rich-hover-detail-without-cluttering-the-report</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to swap Power BI&apos;s default one-line hover tooltip for a small report page, so a viewer gets real context without you adding another visual to the canvas.</description>
+  </item>
+  <item>
+    <title>PowerPoint Designer: Turning a Cluttered Data Slide Into a Clean Layout in One Click</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoint-designer-turning-a-cluttered-data-slide-into-a-clean-layout-in-one-click</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoint-designer-turning-a-cluttered-data-slide-into-a-clean-layout-in-one-click</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Designer pane turns a slide full of bullets, a chart, and a stat card into a laid-out slide automatically, and when to override what it suggests.</description>
+  </item>
+  <item>
     <title>Adding a Newsletter Signup to Your React Blog with Buttondown</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</guid>
