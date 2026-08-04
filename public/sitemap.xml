@@ -32,6 +32,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-dark-light-theme-toggle-to-your-react-data-portfolio</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
@@ -312,6 +317,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-all-allexcept-and-allselected-controlling-what-a-filter-removes</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-decomposition-tree-letting-report-users-explore-whats-driving-a-metric</loc>
     <lastmod>2026-07-30</lastmod>
     <priority>0.7</priority>
@@ -369,6 +379,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-custom-shows-one-deck-multiple-audiences</loc>
+    <lastmod>2026-08-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -444,6 +459,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/writing-slide-titles-that-state-the-insight-bluf-powerpoint</loc>
     <lastmod>2026-07-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/xlookup-why-it-replaces-vlookup-for-data-analysts-and-when-it-doesnt</loc>
+    <lastmod>2026-08-04</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

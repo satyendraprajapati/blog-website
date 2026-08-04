@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Copy-to-Clipboard Button to Code Blocks in Your React Markdown Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A small usability fix for a technical blog: letting readers copy a DAX measure or Excel formula in one click instead of manually selecting text around syntax highlighting.</description>
+  </item>
+  <item>
+    <title>Power BI DAX: ALL, ALLEXCEPT, and ALLSELECTED — Controlling What a Filter Removes</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-all-allexcept-and-allselected-controlling-what-a-filter-removes</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-all-allexcept-and-allselected-controlling-what-a-filter-removes</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Three filter-removal functions that look interchangeable at first but answer three genuinely different questions — and produce different numbers when you mix them up.</description>
+  </item>
+  <item>
+    <title>PowerPoint Custom Shows: One Deck, Multiple Audiences</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoint-custom-shows-one-deck-multiple-audiences</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoint-custom-shows-one-deck-multiple-audiences</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to maintain a single master analysis deck and present a shorter, audience-specific version from it, instead of forking a copy every time someone new needs a readout.</description>
+  </item>
+  <item>
+    <title>XLOOKUP: Why It Replaces VLOOKUP for Data Analysts (and When It Doesn&apos;t)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/xlookup-why-it-replaces-vlookup-for-data-analysts-and-when-it-doesnt</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/xlookup-why-it-replaces-vlookup-for-data-analysts-and-when-it-doesnt</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The three structural problems with VLOOKUP that XLOOKUP fixes, plus the cases where reaching for it isn&apos;t actually the right move.</description>
+  </item>
+  <item>
     <title>Adding a &apos;Related Posts&apos; Section to Your React Blog Using Shared Tags</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-related-posts-section-to-your-react-blog-using-shared-tags</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-related-posts-section-to-your-react-blog-using-shared-tags</guid>
