@@ -297,6 +297,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
@@ -362,6 +367,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-small-multiples-comparing-many-categories-without-building-separate-visuals</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -422,6 +432,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/splitting-and-extracting-text-in-excel-flash-fill-text-to-columns-and-textbefore-textafter</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sql-joins-explained-for-data-analysts</loc>
     <lastmod>2026-07-21</lastmod>
     <priority>0.7</priority>
@@ -454,6 +469,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-sections-and-slide-zoom-to-navigate-a-long-data-powerpoint-deck</loc>
     <lastmod>2026-07-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-smartart-to-turn-a-data-analysis-process-into-a-diagram-in-powerpoint</loc>
+    <lastmod>2026-08-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

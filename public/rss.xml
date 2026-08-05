@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Measuring and Improving Core Web Vitals on a Vite React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to measure LCP, CLS, and INP on a static React blog with Lighthouse, and the specific fixes that move each metric on a Markdown-driven site.</description>
+  </item>
+  <item>
+    <title>Power BI Small Multiples: Comparing Many Categories Without Building Separate Visuals</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-small-multiples-comparing-many-categories-without-building-separate-visuals</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-small-multiples-comparing-many-categories-without-building-separate-visuals</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to split one Power BI chart into a grid of mini-charts, one per category, instead of drowning a single visual in a dozen overlapping lines.</description>
+  </item>
+  <item>
+    <title>Splitting and Extracting Text in Excel: Flash Fill, Text to Columns, and TEXTBEFORE/TEXTAFTER</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/splitting-and-extracting-text-in-excel-flash-fill-text-to-columns-and-textbefore-textafter</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/splitting-and-extracting-text-in-excel-flash-fill-text-to-columns-and-textbefore-textafter</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Three different ways to pull a first name, area code, or product code out of a messy text column, and how to pick the right one for the job.</description>
+  </item>
+  <item>
+    <title>Using SmartArt to Turn a Data Analysis Process Into a Diagram in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-smartart-to-turn-a-data-analysis-process-into-a-diagram-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-smartart-to-turn-a-data-analysis-process-into-a-diagram-in-powerpoint</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Explaining your methodology as a bullet list makes an audience read instead of listen — here&apos;s how to convert it into a SmartArt diagram instead.</description>
+  </item>
+  <item>
     <title>Adding a Copy-to-Clipboard Button to Code Blocks in Your React Markdown Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</guid>
