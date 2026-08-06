@@ -132,6 +132,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -194,6 +199,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-dynamic-arrays-filter-sort-and-sortby-explained</loc>
     <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-error-handling-iferror-ifna-and-building-formulas-that-fail-gracefully</loc>
+    <lastmod>2026-08-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -347,6 +357,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-incremental-refresh-loading-only-new-data-instead-of-the-whole-table</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-measures-vs-calculated-columns-when-to-use-each</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -424,6 +439,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</loc>
+    <lastmod>2026-08-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Compressing Images and Reducing File Size in a Data-Heavy PowerPoint Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Why a 40-slide analysis deck balloons to 200MB, and the settings that bring it back down without visibly degrading the charts and screenshots inside it.</description>
+  </item>
+  <item>
+    <title>Excel Error Handling: IFERROR, IFNA, and Building Formulas That Fail Gracefully</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-error-handling-iferror-ifna-and-building-formulas-that-fail-gracefully</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-error-handling-iferror-ifna-and-building-formulas-that-fail-gracefully</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to catch and handle Excel formula errors on purpose, instead of letting a stray #N/A or #DIV/0! break a chart or a downstream SUM.</description>
+  </item>
+  <item>
+    <title>Power BI Incremental Refresh: Loading Only New Data Instead of the Whole Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-incremental-refresh-loading-only-new-data-instead-of-the-whole-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-incremental-refresh-loading-only-new-data-instead-of-the-whole-table</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to set up incremental refresh in Power BI so a scheduled refresh reloads only new or changed rows instead of re-importing the entire fact table every time.</description>
+  </item>
+  <item>
+    <title>Setting Up a Custom Domain on Vercel for Your Data Portfolio Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to move a Vercel-hosted portfolio site off its free *.vercel.app subdomain and onto a domain you own, including the DNS records that actually make it work.</description>
+  </item>
+  <item>
     <title>Measuring and Improving Core Web Vitals on a Vite React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</guid>
