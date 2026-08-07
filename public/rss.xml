@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Comparing Two Lists in Excel: UNIQUE, COUNTIF, and Highlighting the Differences</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/comparing-two-lists-in-excel-unique-countif-and-highlighting-the-differences</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/comparing-two-lists-in-excel-unique-countif-and-highlighting-the-differences</guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Formulas for finding what&apos;s missing, what&apos;s new, and what&apos;s duplicated between two lists in Excel, instead of eyeballing two columns side by side.</description>
+  </item>
+  <item>
+    <title>Power BI DAX: TREATAS for Virtual Relationships Without a Physical Join</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-treatas-virtual-relationships-without-a-physical-join</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-treatas-virtual-relationships-without-a-physical-join</guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How TREATAS applies a filter from one table to another that isn&apos;t related in the model, for the cases a real relationship can&apos;t or shouldn&apos;t cover.</description>
+  </item>
+  <item>
+    <title>Submitting Your React Blog&apos;s Sitemap to Google Search Console (and What to Check Afterward)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/submitting-your-react-blogs-sitemap-to-google-search-console</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/submitting-your-react-blogs-sitemap-to-google-search-console</guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Generating sitemap.xml and JSON-LD gets your blog ready to be indexed — Search Console is how you actually confirm Google sees it and fix what it doesn&apos;t.</description>
+  </item>
+  <item>
+    <title>Using Presenter Coach to Rehearse a Data Readout Before You Present It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-presenter-coach-to-rehearse-a-data-readout-before-you-present-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-presenter-coach-to-rehearse-a-data-readout-before-you-present-it</guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s built-in rehearsal tool flags pacing, filler words, and reading-off-the-slide before a real audience does — here&apos;s how to actually use the feedback.</description>
+  </item>
+  <item>
     <title>Compressing Images and Reducing File Size in a Data-Heavy PowerPoint Deck</title>
     <link>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</guid>
