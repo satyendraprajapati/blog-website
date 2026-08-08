@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Avoiding Misleading Charts in PowerPoint: Axis Scaling, Truncation, and Dual Axes</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/avoiding-misleading-charts-in-powerpoint-axis-scaling-truncation-and-dual-axes</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/avoiding-misleading-charts-in-powerpoint-axis-scaling-truncation-and-dual-axes</guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s default chart settings can quietly exaggerate a small change into a dramatic one — here&apos;s what to check before a chart goes in front of stakeholders.</description>
+  </item>
+  <item>
+    <title>Environment Variables in Vite: Keeping API Keys Out of Your React Blog&apos;s Source Code</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/environment-variables-in-vite-keeping-api-keys-out-of-your-react-blogs-source-code</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/environment-variables-in-vite-keeping-api-keys-out-of-your-react-blogs-source-code</guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    <description>If you&apos;ve wired up Formspree, Buttondown, or a Power BI embed link by pasting the key straight into a component, here&apos;s how to move it into an environment variable instead — and why a public key still isn&apos;t a secret.</description>
+  </item>
+  <item>
+    <title>Excel Scenario Manager: Comparing Multiple What-If Scenarios Side by Side</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-scenario-manager-comparing-multiple-what-if-scenarios-side-by-side</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-scenario-manager-comparing-multiple-what-if-scenarios-side-by-side</guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to save several sets of input assumptions in one workbook and flip between them — or view them all in one summary table — without duplicating your model.</description>
+  </item>
+  <item>
+    <title>Power BI Dataflows: Reusable Power Query Logic Across Multiple Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dataflows-reusable-power-query-logic-across-multiple-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dataflows-reusable-power-query-logic-across-multiple-reports</guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to move your Power Query cleanup steps out of individual .pbix files and into a shared dataflow, so five reports stop repeating the same transformations five times.</description>
+  </item>
+  <item>
     <title>Comparing Two Lists in Excel: UNIQUE, COUNTIF, and Highlighting the Differences</title>
     <link>https://blog-website-navy-one.vercel.app/blog/comparing-two-lists-in-excel-unique-countif-and-highlighting-the-differences</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/comparing-two-lists-in-excel-unique-countif-and-highlighting-the-differences</guid>

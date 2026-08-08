@@ -102,6 +102,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/avoiding-misleading-charts-in-powerpoint-axis-scaling-truncation-and-dual-axes</loc>
+    <lastmod>2026-08-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</loc>
     <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
@@ -192,6 +197,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/environment-variables-in-vite-keeping-api-keys-out-of-your-react-blogs-source-code</loc>
+    <lastmod>2026-08-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-data-validation-error-proofing-input</loc>
     <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
@@ -239,6 +249,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-power-pivot-relating-multiple-tables-without-vlookup</loc>
     <lastmod>2026-07-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-scenario-manager-comparing-multiple-what-if-scenarios-side-by-side</loc>
+    <lastmod>2026-08-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -334,6 +349,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-data-modeling-star-schema-basics</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dataflows-reusable-power-query-logic-across-multiple-reports</loc>
+    <lastmod>2026-08-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
