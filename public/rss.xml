@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Social Share Buttons to Your React Blog Posts Without a Third-Party Script</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-social-share-buttons-to-your-react-blog-posts-without-a-third-party-script</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-social-share-buttons-to-your-react-blog-posts-without-a-third-party-script</guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add working &apos;Share on X&apos; and &apos;Share on LinkedIn&apos; buttons to a static Vite/React blog using plain intent URLs, instead of pulling in a third-party share-button library and its tracking scripts.</description>
+  </item>
+  <item>
+    <title>Building a KPI Dashboard Slide in PowerPoint Without Add-Ins</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-kpi-dashboard-slide-in-powerpoint-without-add-ins</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-kpi-dashboard-slide-in-powerpoint-without-add-ins</guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A row of stat cards showing revenue, margin, and growth at a glance is one of the highest-value slides in a data deck — here&apos;s how to lay one out cleanly using only native shapes and alignment tools.</description>
+  </item>
+  <item>
+    <title>Excel Pivot Table &apos;Show Values As&apos;: Percent of Total, Running Totals, and Rank</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-pivot-table-show-values-as-percent-of-total-running-totals-and-rank</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-pivot-table-show-values-as-percent-of-total-running-totals-and-rank</guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A pivot table field menu you&apos;ve probably scrolled past turns raw sums into percent-of-total, running totals, and rank — without a single extra formula.</description>
+  </item>
+  <item>
+    <title>Power BI Sync Slicers: Applying One Filter Selection Across Multiple Report Pages</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-sync-slicers-applying-one-filter-selection-across-multiple-report-pages</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-sync-slicers-applying-one-filter-selection-across-multiple-report-pages</guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+    <description>By default a Power BI slicer only filters the page it&apos;s on — Sync Slicers is the setting that makes one region or date selection follow a viewer across the whole report.</description>
+  </item>
+  <item>
     <title>Avoiding Misleading Charts in PowerPoint: Axis Scaling, Truncation, and Dual Axes</title>
     <link>https://blog-website-navy-one.vercel.app/blog/avoiding-misleading-charts-in-powerpoint-axis-scaling-truncation-and-dual-axes</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/avoiding-misleading-charts-in-powerpoint-axis-scaling-truncation-and-dual-axes</guid>
