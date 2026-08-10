@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a GitHub Actions CI Check to Catch a Broken Build Before It Reaches Production</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add a GitHub Actions workflow that runs your build on every push, so a typo in a Markdown post or a broken import fails a check instead of breaking the live site.</description>
+  </item>
+  <item>
+    <title>Grouping and Binning Data in Excel PivotTables: Dates, Numbers, and Custom Bins</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-excel-pivottables-dates-numbers-and-custom-bins</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-excel-pivottables-dates-numbers-and-custom-bins</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to collapse hundreds of individual dates or numbers into meaningful buckets inside a PivotTable, instead of building a helper column of IF statements first.</description>
+  </item>
+  <item>
+    <title>Power BI Data Alerts and Subscriptions: Getting Notified When a Metric Crosses a Threshold</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-data-alerts-and-subscriptions-getting-notified-when-a-metric-crosses-a-threshold</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-data-alerts-and-subscriptions-getting-notified-when-a-metric-crosses-a-threshold</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to set up Power BI to email you when a KPI crosses a threshold or a report changes, instead of relying on someone remembering to check the dashboard.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint Live Presentations in Microsoft Teams for Remote Data Readouts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoint-live-presentations-in-microsoft-teams-for-remote-data-readouts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoint-live-presentations-in-microsoft-teams-for-remote-data-readouts</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint Live in Microsoft Teams gives each remote viewer their own synced copy of your data deck — with their own captions, zoom, and slide-by-slide navigation — instead of a shared screen share.</description>
+  </item>
+  <item>
     <title>Adding Social Share Buttons to Your React Blog Posts Without a Third-Party Script</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-social-share-buttons-to-your-react-blog-posts-without-a-third-party-script</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-social-share-buttons-to-your-react-blog-posts-without-a-third-party-script</guid>

@@ -42,6 +42,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</loc>
+    <lastmod>2026-08-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-newsletter-signup-to-your-react-blog-with-buttondown</loc>
     <lastmod>2026-08-02</lastmod>
     <priority>0.7</priority>
@@ -322,6 +327,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-excel-pivottables-dates-numbers-and-custom-bins</loc>
+    <lastmod>2026-08-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
@@ -359,6 +369,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-tooltip-pages-rich-hover-detail-without-cluttering-the-report</loc>
     <lastmod>2026-08-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-data-alerts-and-subscriptions-getting-notified-when-a-metric-crosses-a-threshold</loc>
+    <lastmod>2026-08-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -534,6 +549,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-morph-transition-for-before-and-after-data-reveals-in-powerpoint</loc>
     <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoint-live-presentations-in-microsoft-teams-for-remote-data-readouts</loc>
+    <lastmod>2026-08-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
