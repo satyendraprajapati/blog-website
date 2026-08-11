@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Lazy-Loaded, Responsive Images to Your React Markdown Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to stop every screenshot and chart image in a Markdown post from loading up front, using native lazy loading and explicit dimensions to keep the layout stable while it does.</description>
+  </item>
+  <item>
+    <title>Custom Number Formats in Excel: Making Reports Readable Without Changing the Underlying Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/custom-number-formats-in-excel-making-reports-readable-without-changing-the-underlying-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/custom-number-formats-in-excel-making-reports-readable-without-changing-the-underlying-data</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s custom number format codes to show numbers the way a reader expects — in thousands, with units, or color-coded — without altering a single value a formula depends on.</description>
+  </item>
+  <item>
+    <title>Formatting Data Tables in PowerPoint So They&apos;re Actually Readable</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/formatting-data-tables-in-powerpoint-so-theyre-actually-readable</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/formatting-data-tables-in-powerpoint-so-theyre-actually-readable</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s default table insert is dense and hard to scan — the specific formatting changes that turn a raw grid of numbers into something an audience can actually read from the back of the room.</description>
+  </item>
+  <item>
+    <title>Power BI Custom Report Themes: Consistent Colors and Fonts Without Reformatting Every Visual</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-report-themes-consistent-colors-and-fonts-without-reformatting-every-visual</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-report-themes-consistent-colors-and-fonts-without-reformatting-every-visual</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to define a report&apos;s colors, fonts, and visual defaults once in a JSON theme file, instead of manually restyling every chart, card, and table you add to a Power BI report.</description>
+  </item>
+  <item>
     <title>Adding a GitHub Actions CI Check to Catch a Broken Build Before It Reaches Production</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</guid>

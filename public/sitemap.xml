@@ -77,6 +77,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-open-graph-and-twitter-card-meta-tags-to-your-react-blog</loc>
     <lastmod>2026-07-24</lastmod>
     <priority>0.7</priority>
@@ -174,6 +179,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</loc>
     <lastmod>2026-08-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/custom-number-formats-in-excel-making-reports-readable-without-changing-the-underlying-data</loc>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -312,6 +322,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/formatting-data-tables-in-powerpoint-so-theyre-actually-readable</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/generating-an-rss-feed-and-sitemap-for-a-static-react-blog</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
@@ -364,6 +379,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</loc>
     <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-custom-report-themes-consistent-colors-and-fonts-without-reformatting-every-visual</loc>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
