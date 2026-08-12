@@ -52,6 +52,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-time-estimate-to-your-react-blog-posts</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
@@ -134,6 +139,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</loc>
     <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</loc>
+    <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -307,6 +317,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-power-bi-reports-to-powerpoint-for-stakeholders</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
@@ -449,6 +464,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</loc>
     <lastmod>2026-07-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-q-and-a-letting-report-viewers-ask-questions-in-plain-english</loc>
+    <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

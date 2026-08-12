@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Reading Progress Bar to Blog Posts in React</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add a thin bar at the top of the page that fills as a reader scrolls through a post, using a scroll listener and a bit of math instead of a library.</description>
+  </item>
+  <item>
+    <title>Building Combo Charts with a Secondary Axis in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to plot two measures with very different scales — like revenue and a growth rate — on the same Excel chart without one of them flattening into a straight line.</description>
+  </item>
+  <item>
+    <title>Exporting a PowerPoint Data Deck as a Leave-Behind PDF Stakeholders Can Actually Read</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A deck built to be presented out loud often falls apart as a standalone document — the export settings that turn it into something a stakeholder can read on their own afterward.</description>
+  </item>
+  <item>
+    <title>Power BI Q&amp;A: Letting Report Viewers Ask Questions in Plain English</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-q-and-a-letting-report-viewers-ask-questions-in-plain-english</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-q-and-a-letting-report-viewers-ask-questions-in-plain-english</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add the Q&amp;A visual so stakeholders can type a question like &apos;total sales by region last quarter&apos; and get a chart back, without you building it for them first.</description>
+  </item>
+  <item>
     <title>Adding Lazy-Loaded, Responsive Images to Your React Markdown Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</guid>
