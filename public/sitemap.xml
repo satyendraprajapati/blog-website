@@ -137,6 +137,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -284,6 +289,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivottable-calculated-fields-and-calculated-items-adding-logic-without-a-helper-column</loc>
+    <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -462,6 +472,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-paginated-reports-pixel-perfect-printable-reports-for-numbers-that-have-to-match-exactly</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</loc>
     <lastmod>2026-07-29</lastmod>
     <priority>0.7</priority>
@@ -574,6 +589,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/submitting-your-react-blogs-sitemap-to-google-search-console</loc>
     <lastmod>2026-08-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
+    <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

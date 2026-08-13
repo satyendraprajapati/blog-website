@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Live Composite Summary Slide in PowerPoint by Linking Multiple Excel Ranges as Pictures</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to combine a KPI cell, a small table, and a chart from different Excel sheets onto one PowerPoint slide that all update together on refresh — without rebuilding the layout every week.</description>
+  </item>
+  <item>
+    <title>Excel PivotTable Calculated Fields and Calculated Items: Adding Logic Without a Helper Column</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-pivottable-calculated-fields-and-calculated-items-adding-logic-without-a-helper-column</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-pivottable-calculated-fields-and-calculated-items-adding-logic-without-a-helper-column</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add a computed margin, ratio, or custom rollup directly inside a PivotTable, instead of building a helper column in the source data first.</description>
+  </item>
+  <item>
+    <title>Power BI Paginated Reports: Pixel-Perfect, Printable Reports for Numbers That Have to Match Exactly</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-paginated-reports-pixel-perfect-printable-reports-for-numbers-that-have-to-match-exactly</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-paginated-reports-pixel-perfect-printable-reports-for-numbers-that-have-to-match-exactly</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How Power BI Paginated Reports build print-ready, page-by-page documents like invoices and compliance statements — a job a normal Power BI report canvas was never designed for.</description>
+  </item>
+  <item>
+    <title>Testing Your React Blog&apos;s Markdown-Parsing Logic with Vitest</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to write fast unit tests for the frontmatter-parsing and reading-time functions that power a Markdown-based React blog, so a broken post doesn&apos;t ship silently.</description>
+  </item>
+  <item>
     <title>Adding a Reading Progress Bar to Blog Posts in React</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</guid>
