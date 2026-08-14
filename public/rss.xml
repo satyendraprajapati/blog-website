@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Power BI DAX Context Transition: Why CALCULATE Turns Row Context Into Filter Context</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-context-transition-why-calculate-turns-row-context-into-filter-context</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-context-transition-why-calculate-turns-row-context-into-filter-context</guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The DAX concept that explains why a measure behaves differently inside a calculated column than it does on a report visual.</description>
+  </item>
+  <item>
+    <title>Setting Up ESLint and Prettier in Your Vite + React Blog for Consistent, Error-Free Code</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-eslint-and-prettier-in-your-vite-react-blog-for-consistent-error-free-code</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-eslint-and-prettier-in-your-vite-react-blog-for-consistent-error-free-code</guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add linting and auto-formatting to a Vite + React blog so style nitpicks and common bugs get caught before you commit.</description>
+  </item>
+  <item>
+    <title>Unpivoting Data in Power Query: Turning Wide Crosstab Reports into a Proper Data Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/unpivoting-data-in-power-query-turning-wide-crosstab-reports-into-a-proper-data-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/unpivoting-data-in-power-query-turning-wide-crosstab-reports-into-a-proper-data-table</guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power Query&apos;s Unpivot Columns tool to turn a wide monthly report into a long, analysis-ready table.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Compare Feature to Merge and Review Two Versions of a Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-compare-feature-to-merge-and-review-two-versions-of-a-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-compare-feature-to-merge-and-review-two-versions-of-a-data-deck</guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Review &gt; Compare tool merges a stakeholder&apos;s edited copy back into your original deck without you eyeballing every slide for differences.</description>
+  </item>
+  <item>
     <title>Building a Live Composite Summary Slide in PowerPoint by Linking Multiple Excel Ranges as Pictures</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</guid>
