@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Excel&apos;s Analyze Data: AI-Suggested Insights Without Writing a Formula</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s built-in Analyze Data pane can suggest a PivotTable, a chart, and a plain-English summary from a raw range before you write a single formula — here&apos;s how to use it without trusting it blindly.</description>
+  </item>
+  <item>
+    <title>Exporting PowerPoint Slides as High-Resolution Images for Reports, Docs, and Slack</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/exporting-powerpoint-slides-as-high-resolution-images-for-reports-docs-and-slack</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/exporting-powerpoint-slides-as-high-resolution-images-for-reports-docs-and-slack</guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Screenshotting a slide for a Slack message or a Word report loses resolution and picks up whatever&apos;s behind your cursor — PowerPoint&apos;s built-in export handles both better, once you know the setting that controls image quality.</description>
+  </item>
+  <item>
+    <title>Power BI Mobile Layout: Designing Reports That Actually Work on a Phone</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-mobile-layout-designing-reports-that-actually-work-on-a-phone</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-mobile-layout-designing-reports-that-actually-work-on-a-phone</guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A Power BI report that looks fine on a monitor is usually unusable on a phone by default — the Mobile Layout view is a separate canvas built specifically to fix that.</description>
+  </item>
+  <item>
+    <title>React Router Redirects: Handling Renamed or Removed Blog Post URLs Without Breaking Old Links</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/react-router-redirects-handling-renamed-or-removed-blog-post-urls-without-breaking-old-links</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/react-router-redirects-handling-renamed-or-removed-blog-post-urls-without-breaking-old-links</guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Rename a post&apos;s slug or retire an old one and every link to it — search results, bookmarks, social shares — quietly turns into a 404 unless you redirect it on purpose.</description>
+  </item>
+  <item>
     <title>Power BI DAX Context Transition: Why CALCULATE Turns Row Context Into Filter Context</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-context-transition-why-calculate-turns-row-context-into-filter-context</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-context-transition-why-calculate-turns-row-context-into-filter-context</guid>

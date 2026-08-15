@@ -327,6 +327,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -334,6 +339,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-power-bi-reports-to-powerpoint-for-stakeholders</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/exporting-powerpoint-slides-as-high-resolution-images-for-reports-docs-and-slack</loc>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -477,6 +487,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-mobile-layout-designing-reports-that-actually-work-on-a-phone</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-paginated-reports-pixel-perfect-printable-reports-for-numbers-that-have-to-match-exactly</loc>
     <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
@@ -549,6 +564,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/react-router-redirects-handling-renamed-or-removed-blog-post-urls-without-breaking-old-links</loc>
+    <lastmod>2026-08-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
