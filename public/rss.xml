@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Favicon and Web App Manifest to Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A Vite starter ships with a placeholder favicon and no manifest — here&apos;s how to replace both so your blog looks finished in a browser tab, a bookmark bar, and a phone home screen.</description>
+  </item>
+  <item>
+    <title>Combining Multiple Excel Files into One Table with Power Query&apos;s Combine Files Feature</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/combining-multiple-excel-files-into-one-table-with-power-querys-combine-files-feature</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/combining-multiple-excel-files-into-one-table-with-power-querys-combine-files-feature</guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to fold a folder of identically-structured monthly or regional Excel files into one clean table with Power Query, instead of copy-pasting each one in by hand.</description>
+  </item>
+  <item>
+    <title>Highlighting a Single Data Point in a PowerPoint Chart to Draw the Audience&apos;s Eye</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/highlighting-a-single-data-point-in-a-powerpoint-chart-to-draw-the-audiences-eye</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/highlighting-a-single-data-point-in-a-powerpoint-chart-to-draw-the-audiences-eye</guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A chart with twelve identical-colored bars makes the audience hunt for the point that matters — here&apos;s how to make the one bar the slide is actually about impossible to miss.</description>
+  </item>
+  <item>
+    <title>Power BI Deployment Pipelines: Moving a Report from Dev to Test to Production</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-deployment-pipelines-moving-a-report-from-dev-to-test-to-production</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-deployment-pipelines-moving-a-report-from-dev-to-test-to-production</guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power BI Deployment Pipelines to move a report through Dev, Test, and Production workspaces instead of manually republishing and re-pointing data sources by hand.</description>
+  </item>
+  <item>
     <title>Excel&apos;s Analyze Data: AI-Suggested Insights Without Writing a Formula</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</guid>

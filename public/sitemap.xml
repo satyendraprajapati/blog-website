@@ -42,6 +42,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</loc>
+    <lastmod>2026-08-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-github-actions-ci-check-to-catch-a-broken-build-before-it-reaches-production</loc>
     <lastmod>2026-08-10</lastmod>
     <priority>0.7</priority>
@@ -169,6 +174,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/combining-multiple-excel-files-into-one-table-with-power-querys-combine-files-feature</loc>
+    <lastmod>2026-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -387,6 +397,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/highlighting-a-single-data-point-in-a-powerpoint-chart-to-draw-the-audiences-eye</loc>
+    <lastmod>2026-08-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/how-to-deploy-a-static-data-portfolio-site-for-free-with-vercel</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -459,6 +474,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-decomposition-tree-letting-report-users-explore-whats-driving-a-metric</loc>
     <lastmod>2026-07-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-deployment-pipelines-moving-a-report-from-dev-to-test-to-production</loc>
+    <lastmod>2026-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
