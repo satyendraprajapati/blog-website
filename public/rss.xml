@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Merging Two Excel Tables with Power Query Instead of VLOOKUP</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How Power Query&apos;s Merge Queries feature handles multi-column table joins that VLOOKUP and XLOOKUP weren&apos;t built for.</description>
+  </item>
+  <item>
+    <title>Power BI Query Folding: Why Some Power Query Steps Are Fast and Others Aren&apos;t</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-query-folding-why-some-power-query-steps-are-fast-and-others-arent</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-query-folding-why-some-power-query-steps-are-fast-and-others-arent</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How query folding pushes Power Query transformations back to the source database, and which steps quietly break it.</description>
+  </item>
+  <item>
+    <title>PowerPoint Keyboard Shortcuts Every Data Analyst Should Know for Building Decks Faster</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoint-keyboard-shortcuts-every-data-analyst-should-know-for-building-decks-faster</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoint-keyboard-shortcuts-every-data-analyst-should-know-for-building-decks-faster</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A practical set of PowerPoint keyboard shortcuts for the repetitive parts of building a data-heavy deck: aligning objects, duplicating slides, and formatting charts fast.</description>
+  </item>
+  <item>
+    <title>Turning a Python Data Analysis Script into a Shareable Web App with Streamlit</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to wrap a pandas analysis script in a Streamlit app so a stakeholder can explore the data themselves, without a full web dev background.</description>
+  </item>
+  <item>
     <title>Adding a Favicon and Web App Manifest to Your React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</guid>

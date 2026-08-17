@@ -422,6 +422,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</loc>
+    <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-bookmarks-and-buttons-for-interactive-reports</loc>
     <lastmod>2026-07-22</lastmod>
     <priority>0.7</priority>
@@ -527,6 +532,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-query-folding-why-some-power-query-steps-are-fast-and-others-arent</loc>
+    <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-quick-measures-common-calculations-without-writing-dax-from-scratch</loc>
     <lastmod>2026-08-02</lastmod>
     <priority>0.7</priority>
@@ -574,6 +584,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-designer-turning-a-cluttered-data-slide-into-a-clean-layout-in-one-click</loc>
     <lastmod>2026-08-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-keyboard-shortcuts-every-data-analyst-should-know-for-building-decks-faster</loc>
+    <lastmod>2026-08-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -644,6 +659,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
     <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</loc>
+    <lastmod>2026-08-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
