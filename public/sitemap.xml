@@ -277,6 +277,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-groupby-and-pivotby-pivottable-style-summaries-without-a-pivottable</loc>
+    <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-ifs-and-switch-cleaner-alternatives-to-nested-if</loc>
     <lastmod>2026-08-03</lastmod>
     <priority>0.7</priority>
@@ -572,6 +577,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-analyze-in-excel-building-a-live-pivottable-on-a-power-bi-dataset</loc>
+    <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -702,6 +712,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</loc>
+    <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-presenter-coach-to-rehearse-a-data-readout-before-you-present-it</loc>
     <lastmod>2026-08-07</lastmod>
     <priority>0.7</priority>
@@ -714,6 +729,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-smartart-to-turn-a-data-analysis-process-into-a-diagram-in-powerpoint</loc>
     <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</loc>
+    <lastmod>2026-08-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

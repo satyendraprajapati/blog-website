@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Excel GROUPBY and PIVOTBY: PivotTable-Style Summaries Without a PivotTable</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-groupby-and-pivotby-pivottable-style-summaries-without-a-pivottable</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-groupby-and-pivotby-pivottable-style-summaries-without-a-pivottable</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Two newer Excel functions let you build a grouped summary or a cross-tab straight from a formula, refreshing live as the source data changes instead of needing a manual pivot refresh.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Analyze in Excel: Building a Live PivotTable on a Power BI Dataset</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-analyze-in-excel-building-a-live-pivottable-on-a-power-bi-dataset</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-analyze-in-excel-building-a-live-pivottable-on-a-power-bi-dataset</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to connect a plain Excel PivotTable directly to a published Power BI dataset, so stakeholders who live in Excel get a live, filterable view without you exporting a static extract every week.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Create Handouts to Turn a Slide Deck into a Word Leave-Behind Outline</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint can push your slides and speaker notes straight into a structured Word document, giving stakeholders a written outline of the analysis instead of a PDF of the slides themselves.</description>
+  </item>
+  <item>
+    <title>Using Vercel Preview Deployments to Review Blog Changes Before They Go Live</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Every git branch and pull request you push gets its own live, shareable URL on Vercel automatically — here&apos;s how to use that to proofread a new post or check a layout change before it hits master.</description>
+  </item>
+  <item>
     <title>Merging Two Excel Tables with Power Query Instead of VLOOKUP</title>
     <link>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</guid>
