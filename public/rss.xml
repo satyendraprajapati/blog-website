@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Print Stylesheet to Your React Blog So Posts Print Cleanly</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-print-stylesheet-to-your-react-blog-so-posts-print-cleanly</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-print-stylesheet-to-your-react-blog-so-posts-print-cleanly</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add a dedicated print stylesheet so a reader who hits Ctrl+P on an Excel or DAX tutorial gets a clean page instead of a dark navbar and a cut-off code block.</description>
+  </item>
+  <item>
+    <title>Excel Keyboard Shortcuts Every Data Analyst Should Know for Building Reports Faster</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-keyboard-shortcuts-every-data-analyst-should-know-for-building-reports-faster</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-keyboard-shortcuts-every-data-analyst-should-know-for-building-reports-faster</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A practical set of Excel keyboard shortcuts that cut the mouse trips out of navigating, editing, and formatting a real analysis workbook.</description>
+  </item>
+  <item>
+    <title>Power BI Dynamic Format Strings: Changing How a Measure Displays Based on Context</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dynamic-format-strings-changing-how-a-measure-displays-based-on-context</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dynamic-format-strings-changing-how-a-measure-displays-based-on-context</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to make one Power BI measure switch between currency, percent, and plain-number formatting automatically depending on what&apos;s being viewed.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Outline View to Plan a Data Story Before You Build a Single Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-outline-view-to-plan-a-data-story-before-you-build-a-single-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-outline-view-to-plan-a-data-story-before-you-build-a-single-slide</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to draft the structure and titles of a data deck in PowerPoint&apos;s text-only Outline View before opening a single chart, so the story is settled before the formatting starts.</description>
+  </item>
+  <item>
     <title>Excel GROUPBY and PIVOTBY: PivotTable-Style Summaries Without a PivotTable</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excel-groupby-and-pivotby-pivottable-style-summaries-without-a-pivottable</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excel-groupby-and-pivotby-pivottable-style-summaries-without-a-pivottable</guid>
