@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Trendlines and Error Bars to PowerPoint Charts to Show Direction, Not Just Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A raw line or bar chart shows what happened — a trendline or error bar shows whether it&apos;s actually going somewhere, or how much a single point should be trusted.</description>
+  </item>
+  <item>
+    <title>Auditing and Fixing Accessibility Issues on Your React Blog with axe DevTools</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/auditing-and-fixing-accessibility-issues-on-your-react-blog-with-axe-devtools</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/auditing-and-fixing-accessibility-issues-on-your-react-blog-with-axe-devtools</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to run a free browser-based accessibility audit on a Markdown-driven React blog and fix the handful of issues that actually show up in practice.</description>
+  </item>
+  <item>
+    <title>Power BI Calculation Groups: One Time-Intelligence Measure Set Applied to Every Measure in Your Model</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-calculation-groups-one-time-intelligence-measure-set-applied-to-every-measure-in-your-model</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-calculation-groups-one-time-intelligence-measure-set-applied-to-every-measure-in-your-model</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How a single calculation group swaps a YTD, prior-year, and variance pattern across every measure in your model, instead of writing three DAX versions of each one by hand.</description>
+  </item>
+  <item>
+    <title>RANK, LARGE, and SMALL: Finding Top and Bottom Performers in Excel Without Sorting</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/rank-large-and-small-finding-top-and-bottom-performers-in-excel-without-sorting</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/rank-large-and-small-finding-top-and-bottom-performers-in-excel-without-sorting</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to find top and bottom performers, rank values with ties, and pull the Nth largest or smallest number in Excel without touching the Sort button.</description>
+  </item>
+  <item>
     <title>Adding a Print Stylesheet to Your React Blog So Posts Print Cleanly</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-print-stylesheet-to-your-react-blog-so-posts-print-cleanly</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-print-stylesheet-to-your-react-blog-so-posts-print-cleanly</guid>

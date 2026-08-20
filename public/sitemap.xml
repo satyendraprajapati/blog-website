@@ -122,6 +122,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</loc>
+    <lastmod>2026-08-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/auditing-and-fixing-accessibility-issues-on-your-react-blog-with-axe-devtools</loc>
+    <lastmod>2026-08-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</loc>
     <lastmod>2026-07-19</lastmod>
     <priority>0.7</priority>
@@ -447,6 +457,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-calculation-groups-one-time-intelligence-measure-set-applied-to-every-measure-in-your-model</loc>
+    <lastmod>2026-08-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -624,6 +639,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/rank-large-and-small-finding-top-and-bottom-performers-in-excel-without-sorting</loc>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
