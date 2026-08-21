@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Gantt-Style Timeline Chart in PowerPoint for Project and Roadmap Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Project timelines and roadmap milestones don&apos;t fit a bar or line chart — a stacked bar chart with one invisible series is the native way to build a Gantt view without an add-in.</description>
+  </item>
+  <item>
+    <title>Code-Splitting Your React Blog with React.lazy and Suspense to Cut Initial Bundle Size</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/code-splitting-your-react-blog-with-reactlazy-and-suspense-to-cut-initial-bundle-size</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/code-splitting-your-react-blog-with-reactlazy-and-suspense-to-cut-initial-bundle-size</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A Vite build bundles every page&apos;s JavaScript into one download by default — code-splitting by route means a visitor reading a post doesn&apos;t also pay for the Contact form&apos;s code.</description>
+  </item>
+  <item>
+    <title>Excel Paste Special: Values, Transpose, and the Options Analysts Actually Use</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-paste-special-values-transpose-and-the-options-analysts-actually-use</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-paste-special-values-transpose-and-the-options-analysts-actually-use</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A regular paste carries formulas, formatting, and links along with it — Paste Special lets you choose exactly what comes with the data and what gets left behind.</description>
+  </item>
+  <item>
+    <title>Power BI Many-to-Many Relationships and Bi-Directional Filtering: When You Need Them and When You Don&apos;t</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-many-to-many-relationships-and-bi-directional-filtering-when-you-need-them-and-when-you-dont</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-many-to-many-relationships-and-bi-directional-filtering-when-you-need-them-and-when-you-dont</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A many-to-many relationship or a bi-directional filter can fix a model that a strict star schema can&apos;t — and can just as easily quietly duplicate your numbers if you reach for it by default.</description>
+  </item>
+  <item>
     <title>Adding Trendlines and Error Bars to PowerPoint Charts to Show Direction, Not Just Data</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</guid>

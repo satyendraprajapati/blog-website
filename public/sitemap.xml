@@ -152,6 +152,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-kpi-dashboard-slide-in-powerpoint-without-add-ins</loc>
     <lastmod>2026-08-09</lastmod>
     <priority>0.7</priority>
@@ -189,6 +194,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/code-splitting-your-react-blog-with-reactlazy-and-suspense-to-cut-initial-bundle-size</loc>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -314,6 +324,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-named-ranges-formulas-that-read-like-sentences</loc>
     <lastmod>2026-07-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-paste-special-values-transpose-and-the-options-analysts-actually-use</loc>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -539,6 +554,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-incremental-refresh-loading-only-new-data-instead-of-the-whole-table</loc>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-many-to-many-relationships-and-bi-directional-filtering-when-you-need-them-and-when-you-dont</loc>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
