@@ -77,6 +77,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</loc>
+    <lastmod>2026-08-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -139,6 +144,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</loc>
     <lastmod>2026-07-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/averageifs-maxifs-and-minifs-rounding-out-excels-conditional-functions</loc>
+    <lastmod>2026-08-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -517,6 +527,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-filter-building-measures-beyond-simple-conditions</loc>
+    <lastmod>2026-08-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-treatas-virtual-relationships-without-a-physical-join</loc>
     <lastmod>2026-08-07</lastmod>
     <priority>0.7</priority>
@@ -774,6 +789,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-outline-view-to-plan-a-data-story-before-you-build-a-single-slide</loc>
     <lastmod>2026-08-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-reuse-slides-pane-to-pull-slides-from-old-decks-without-breaking-your-theme</loc>
+    <lastmod>2026-08-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

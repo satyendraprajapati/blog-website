@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Service Worker for Offline Reading to Your Vite React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A web app manifest makes your blog installable, but it&apos;s a service worker that actually lets someone reopen a post they&apos;ve already read with no signal — here&apos;s how to add one to a Vite React site.</description>
+  </item>
+  <item>
+    <title>AVERAGEIFS, MAXIFS, and MINIFS: Rounding Out Excel&apos;s Conditional Functions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/averageifs-maxifs-and-minifs-rounding-out-excels-conditional-functions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/averageifs-maxifs-and-minifs-rounding-out-excels-conditional-functions</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    <description>SUMIFS and COUNTIFS get most of the attention, but their AVERAGE, MAX, and MIN counterparts answer a different set of everyday analysis questions just as cleanly.</description>
+  </item>
+  <item>
+    <title>Power BI DAX: FILTER() for Building Measures Beyond Simple Conditions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-filter-building-measures-beyond-simple-conditions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-filter-building-measures-beyond-simple-conditions</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    <description>CALCULATE handles simple column-equals-value conditions on its own — FILTER is what you reach for the moment a measure needs a condition that compares a row to something else, like the table&apos;s own average.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Reuse Slides Pane to Pull Slides from Old Decks Without Breaking Your Theme</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-reuse-slides-pane-to-pull-slides-from-old-decks-without-breaking-your-theme</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-reuse-slides-pane-to-pull-slides-from-old-decks-without-breaking-your-theme</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Copy-pasting a chart slide from last month&apos;s report usually drags its old fonts and colors along with it — Reuse Slides imports the content while matching your current deck&apos;s formatting instead.</description>
+  </item>
+  <item>
     <title>Building a Gantt-Style Timeline Chart in PowerPoint for Project and Roadmap Data</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</guid>
