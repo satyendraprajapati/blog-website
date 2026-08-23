@@ -192,6 +192,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/choosing-colorblind-friendly-palettes-for-data-charts-in-powerpoint</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -387,6 +392,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-analysis-toolpak-descriptive-statistics-and-regression-without-leaving-the-spreadsheet</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-analyze-data-ai-suggested-insights-without-writing-a-formula</loc>
     <lastmod>2026-08-15</lastmod>
     <priority>0.7</priority>
@@ -534,6 +544,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-treatas-virtual-relationships-without-a-physical-join</loc>
     <lastmod>2026-08-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-userelationship-activating-inactive-relationships-for-role-playing-dimensions</loc>
+    <lastmod>2026-08-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -744,6 +759,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</loc>
     <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/turning-on-live-captions-and-subtitles-for-more-accessible-data-presentations-in-powerpoint</loc>
+    <lastmod>2026-08-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

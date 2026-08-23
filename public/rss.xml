@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Catching Broken Internal Links in Your React Blog Before They Reach Production</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</guid>
+    <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A small Node script that scans every Markdown post for internal links and flags any that point to a slug that no longer exists, run before every build.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Analysis ToolPak: Descriptive Statistics and Regression Without Leaving the Spreadsheet</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-analysis-toolpak-descriptive-statistics-and-regression-without-leaving-the-spreadsheet</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-analysis-toolpak-descriptive-statistics-and-regression-without-leaving-the-spreadsheet</guid>
+    <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to enable Excel&apos;s Analysis ToolPak add-in and use it to run descriptive statistics and linear regression on a dataset without writing a single formula.</description>
+  </item>
+  <item>
+    <title>Power BI DAX USERELATIONSHIP: Activating Inactive Relationships for Role-Playing Dimensions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-userelationship-activating-inactive-relationships-for-role-playing-dimensions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-userelationship-activating-inactive-relationships-for-role-playing-dimensions</guid>
+    <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use USERELATIONSHIP to switch between multiple date relationships on the same fact table, like Order Date and Ship Date, without duplicating the calendar table.</description>
+  </item>
+  <item>
+    <title>Turning On Live Captions and Subtitles for More Accessible Data Presentations in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/turning-on-live-captions-and-subtitles-for-more-accessible-data-presentations-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/turning-on-live-captions-and-subtitles-for-more-accessible-data-presentations-in-powerpoint</guid>
+    <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to turn on PowerPoint&apos;s real-time Live Captions during a data readout, and the settings that make them actually usable instead of a distraction.</description>
+  </item>
+  <item>
     <title>Adding a Service Worker for Offline Reading to Your Vite React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</guid>
