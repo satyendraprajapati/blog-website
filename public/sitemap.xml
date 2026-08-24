@@ -87,6 +87,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</loc>
+    <lastmod>2026-08-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</loc>
     <lastmod>2026-07-31</lastmod>
     <priority>0.7</priority>
@@ -249,6 +254,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/custom-number-formats-in-excel-making-reports-readable-without-changing-the-underlying-data</loc>
     <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/custom-sorting-in-excel-multi-level-sorts-custom-lists-and-sort-by-color</loc>
+    <lastmod>2026-08-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -662,6 +672,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-filters-pane-visual-page-and-report-level-filters-and-when-to-use-each</loc>
+    <lastmod>2026-08-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -779,6 +794,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-comments-and-version-history-in-powerpoint-for-stakeholder-review-cycles-on-data-decks</loc>
     <lastmod>2026-08-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-ink-annotations-and-the-laser-pointer-to-highlight-data-trends-during-a-live-presentation</loc>
+    <lastmod>2026-08-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

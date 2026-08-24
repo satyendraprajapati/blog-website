@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Callout Boxes to Markdown Posts with a Custom react-markdown Component</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A way to flag a caveat or warning inside a technical post -- like &apos;this formula behaves differently in older Excel versions&apos; -- so it visually stands out instead of blending into a wall of paragraphs.</description>
+  </item>
+  <item>
+    <title>Custom Sorting in Excel: Multi-Level Sorts, Custom Lists, and Sort by Color</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/custom-sorting-in-excel-multi-level-sorts-custom-lists-and-sort-by-color</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/custom-sorting-in-excel-multi-level-sorts-custom-lists-and-sort-by-color</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s default A-to-Z sort covers the easy case -- here&apos;s how to sort a report the way a stakeholder actually reads it, with multiple levels, non-alphabetical orders, and flagged rows pulled to the top.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Filters Pane: Visual, Page, and Report-Level Filters (and When to Use Each)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-filters-pane-visual-page-and-report-level-filters-and-when-to-use-each</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-filters-pane-visual-page-and-report-level-filters-and-when-to-use-each</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The Filters pane has three separate scopes that all look the same at first glance -- picking the right one determines whether a filter applies to one chart, one page, or the whole report.</description>
+  </item>
+  <item>
+    <title>Using Ink Annotations and the Laser Pointer to Highlight Data Trends During a Live Presentation</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-ink-annotations-and-the-laser-pointer-to-highlight-data-trends-during-a-live-presentation</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-ink-annotations-and-the-laser-pointer-to-highlight-data-trends-during-a-live-presentation</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Everything you can prepare on a data slide ahead of time, so the moment you&apos;re actually presenting it live, you can still point at, circle, or underline the number that matters.</description>
+  </item>
+  <item>
     <title>Catching Broken Internal Links in Your React Blog Before They Reach Production</title>
     <link>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</guid>
