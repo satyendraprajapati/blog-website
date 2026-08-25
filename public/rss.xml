@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX DIVIDE: Handling Division by Zero in Power BI Measures</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-divide-handling-division-by-zero-in-power-bi-measures</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-divide-handling-division-by-zero-in-power-bi-measures</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Why DIVIDE() is the right way to handle division by zero in Power BI measures instead of wrapping a plain / in IFERROR or IF.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Built-in Statistical Charts: Histogram, Pareto, and Box &amp; Whisker</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-built-in-statistical-charts-histogram-pareto-and-box-whisker</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-built-in-statistical-charts-histogram-pareto-and-box-whisker</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Excel has had native histogram, Pareto, and box &amp; whisker chart types since 2016 — no FREQUENCY array formulas or manual sorting required.</description>
+  </item>
+  <item>
+    <title>Parsing Large CSV Files in the Browser with a Web Worker So Your React Blog Doesn&apos;t Freeze</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/parsing-large-csv-files-in-the-browser-with-a-web-worker-so-your-react-blog-doesnt-freeze</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/parsing-large-csv-files-in-the-browser-with-a-web-worker-so-your-react-blog-doesnt-freeze</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Move CSV parsing off the main thread with a Web Worker so a data portfolio site stays responsive while handling large datasets.</description>
+  </item>
+  <item>
+    <title>PowerPoint&apos;s Align, Distribute, and Smart Guides for Pixel-Perfect Data Slide Layouts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoints-align-distribute-and-smart-guides-for-pixel-perfect-data-slide-layouts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoints-align-distribute-and-smart-guides-for-pixel-perfect-data-slide-layouts</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Stop eyeballing chart and KPI-card placement in PowerPoint — Align, Distribute, and Smart Guides snap objects into consistent layouts automatically.</description>
+  </item>
+  <item>
     <title>Adding Callout Boxes to Markdown Posts with a Custom react-markdown Component</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</guid>
