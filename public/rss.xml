@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Compressing and Converting Blog Images to WebP with vite-imagemin</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/compressing-and-converting-blog-images-to-webp-with-vite-imagemin</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/compressing-and-converting-blog-images-to-webp-with-vite-imagemin</guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Instead of manually running cwebp on every dashboard screenshot before committing it, a Vite plugin can convert and compress every image in the build automatically.</description>
+  </item>
+  <item>
+    <title>DAX SWITCH: Replacing Nested IFs for Bucketing and Tiering Measures</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-switch-replacing-nested-ifs-for-bucketing-and-tiering-measures</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-switch-replacing-nested-ifs-for-bucketing-and-tiering-measures</guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How SWITCH turns a wall of nested IFs into a readable, maintainable measure for tiering customers, bucketing ages, or labeling status codes in Power BI.</description>
+  </item>
+  <item>
+    <title>Embedding a Live, Editable Excel Worksheet in PowerPoint for On-the-Fly Data Exploration</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-editable-excel-worksheet-in-powerpoint-for-on-the-fly-data-exploration</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-editable-excel-worksheet-in-powerpoint-for-on-the-fly-data-exploration</guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A linked chart or picture updates on a schedule, but an embedded Excel worksheet object lets you filter, recalculate, and answer &apos;what about last quarter?&apos; live, mid-presentation.</description>
+  </item>
+  <item>
+    <title>INDEX and MATCH: The Flexible Lookup Combo Every Data Analyst Should Master</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/index-and-match-the-flexible-lookup-combo-every-data-analyst-should-master</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/index-and-match-the-flexible-lookup-combo-every-data-analyst-should-master</guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    <description>XLOOKUP handles most single-column lookups now, but INDEX and MATCH combined still do things no single lookup function can — starting with a true two-way lookup.</description>
+  </item>
+  <item>
     <title>DAX DIVIDE: Handling Division by Zero in Power BI Measures</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-divide-handling-division-by-zero-in-power-bi-measures</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-divide-handling-division-by-zero-in-power-bi-measures</guid>

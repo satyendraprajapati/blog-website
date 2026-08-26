@@ -232,6 +232,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/compressing-and-converting-blog-images-to-webp-with-vite-imagemin</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/compressing-images-and-reducing-file-size-in-a-data-heavy-powerpoint-deck</loc>
     <lastmod>2026-08-06</lastmod>
     <priority>0.7</priority>
@@ -287,8 +292,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-switch-replacing-nested-ifs-for-bucketing-and-tiering-measures</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-variables-var-writing-measures-that-are-easier-to-read-and-debug</loc>
     <lastmod>2026-07-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-editable-excel-worksheet-in-powerpoint-for-on-the-fly-data-exploration</loc>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -489,6 +504,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/icon-arrays-and-simple-tables-instead-of-charts-for-small-data-sets-in-powerpoint</loc>
     <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/index-and-match-the-flexible-lookup-combo-every-data-analyst-should-master</loc>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
