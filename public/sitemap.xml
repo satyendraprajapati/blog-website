@@ -62,6 +62,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-reading-progress-bar-to-blog-posts-in-react</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -304,6 +309,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-editable-excel-worksheet-in-powerpoint-for-on-the-fly-data-exploration</loc>
     <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-interactive-power-bi-report-in-a-powerpoint-slide</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -712,6 +722,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-key-influencers-visual-letting-the-report-find-whats-driving-a-metric</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -734,6 +749,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-align-distribute-and-smart-guides-for-pixel-perfect-data-slide-layouts</loc>
     <lastmod>2026-08-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/preparing-an-excel-report-for-handoff-freeze-panes-print-titles-and-print-areas</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

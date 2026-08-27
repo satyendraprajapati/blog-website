@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a React Error Boundary So One Broken Blog Post Doesn&apos;t Crash Your Entire Site</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</guid>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A single malformed frontmatter field or a bad Markdown edit can throw during render and take down the whole page — an error boundary contains the damage to just that post.</description>
+  </item>
+  <item>
+    <title>Embedding a Live, Interactive Power BI Report in a PowerPoint Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-interactive-power-bi-report-in-a-powerpoint-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-interactive-power-bi-report-in-a-powerpoint-slide</guid>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Exporting Power BI to static slides works for stakeholders who don&apos;t have access — for those who do, the Power BI add-in embeds the actual report so it stays live and clickable inside the deck.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Key Influencers Visual: Letting the Report Find What&apos;s Driving a Metric</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-key-influencers-visual-letting-the-report-find-whats-driving-a-metric</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-key-influencers-visual-letting-the-report-find-whats-driving-a-metric</guid>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Instead of manually slicing a metric by every dimension to guess what&apos;s driving it, the Key Influencers visual runs that search for you and ranks the results.</description>
+  </item>
+  <item>
+    <title>Preparing an Excel Report for Handoff: Freeze Panes, Print Titles, and Print Areas</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/preparing-an-excel-report-for-handoff-freeze-panes-print-titles-and-print-areas</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/preparing-an-excel-report-for-handoff-freeze-panes-print-titles-and-print-areas</guid>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A correct report still frustrates a reader if headers scroll off screen or a print job spreads across ten pages with no labels — here&apos;s how to fix both before you send it.</description>
+  </item>
+  <item>
     <title>Compressing and Converting Blog Images to WebP with vite-imagemin</title>
     <link>https://blog-website-navy-one.vercel.app/blog/compressing-and-converting-blog-images-to-webp-with-vite-imagemin</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/compressing-and-converting-blog-images-to-webp-with-vite-imagemin</guid>
