@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Previous/Next Post Navigation to Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to let a reader move chronologically through your posts with a pair of links at the bottom of each article, instead of bouncing back to the blog listing between every one.</description>
+  </item>
+  <item>
+    <title>Creating Dependent (Cascading) Drop-Down Lists in Excel with Data Validation and INDIRECT</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/creating-dependent-cascading-drop-down-lists-in-excel-with-data-validation-and-indirect</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/creating-dependent-cascading-drop-down-lists-in-excel-with-data-validation-and-indirect</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to make a second drop-down list automatically filter itself based on what someone picked in the first one, using named ranges and INDIRECT.</description>
+  </item>
+  <item>
+    <title>Power BI Keyboard Shortcuts Every Data Analyst Should Know for Building Reports Faster</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-keyboard-shortcuts-every-data-analyst-should-know-for-building-reports-faster</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-keyboard-shortcuts-every-data-analyst-should-know-for-building-reports-faster</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>A practical set of Power BI Desktop shortcuts for writing DAX, arranging visuals, and moving around a report without reaching for the mouse every few seconds.</description>
+  </item>
+  <item>
+    <title>Setting Up a Self-Running, Looping Data Deck for an Office Display or Kiosk in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-a-self-running-looping-data-deck-for-an-office-display-or-kiosk-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-a-self-running-looping-data-deck-for-an-office-display-or-kiosk-in-powerpoint</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a data deck into a slideshow that plays itself on a lobby screen or team monitor, advancing and looping on its own with nobody there to click through it.</description>
+  </item>
+  <item>
     <title>Adding a React Error Boundary So One Broken Blog Post Doesn&apos;t Crash Your Entire Site</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</guid>

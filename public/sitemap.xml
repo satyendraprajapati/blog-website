@@ -122,6 +122,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</loc>
     <lastmod>2026-07-30</lastmod>
     <priority>0.7</priority>
@@ -259,6 +264,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/countifs-and-sumproduct-multi-criteria-counting-and-calculations-in-excel</loc>
     <lastmod>2026-08-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/creating-dependent-cascading-drop-down-lists-in-excel-with-data-validation-and-indirect</loc>
+    <lastmod>2026-08-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -642,6 +652,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-keyboard-shortcuts-every-data-analyst-should-know-for-building-reports-faster</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-many-to-many-relationships-and-bi-directional-filtering-when-you-need-them-and-when-you-dont</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.7</priority>
@@ -794,6 +809,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</loc>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-self-running-looping-data-deck-for-an-office-display-or-kiosk-in-powerpoint</loc>
+    <lastmod>2026-08-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
