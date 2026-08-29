@@ -302,6 +302,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-sumx-vs-sum-row-context-explained</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -314,6 +319,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-variables-var-writing-measures-that-are-easier-to-read-and-debug</loc>
     <lastmod>2026-07-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/deploying-your-data-portfolio-site-to-github-pages-instead-of-vercel</loc>
+    <lastmod>2026-08-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -529,6 +539,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/index-and-match-the-flexible-lookup-combo-every-data-analyst-should-master</loc>
     <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</loc>
+    <lastmod>2026-08-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -839,6 +854,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sql-window-functions-for-analysts</loc>
     <lastmod>2026-07-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/stdev-var-and-percentile-excels-formulas-for-measuring-spread</loc>
+    <lastmod>2026-08-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

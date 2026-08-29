@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX RELATED and RELATEDTABLE: Pulling Fields Across Relationships Without a Merge</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How RELATED and RELATEDTABLE let a calculated column or measure reach across an existing model relationship to fetch a value or a related table, instead of merging queries in Power Query.</description>
+  </item>
+  <item>
+    <title>Deploying Your Data Portfolio Site to GitHub Pages Instead of Vercel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/deploying-your-data-portfolio-site-to-github-pages-instead-of-vercel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/deploying-your-data-portfolio-site-to-github-pages-instead-of-vercel</guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to configure Vite&apos;s base path, a GitHub Actions workflow, and a 404.html redirect trick to host a React data portfolio on GitHub Pages for free, as an alternative to Vercel.</description>
+  </item>
+  <item>
+    <title>Inserting and Refreshing Linked Charts from Google Sheets in PowerPoint (Without Excel)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s native chart linking only works with Excel files, so here&apos;s how analysts whose source data lives in Google Sheets can still get charts into a deck that stay reasonably current.</description>
+  </item>
+  <item>
+    <title>STDEV, VAR, and PERCENTILE: Excel&apos;s Formulas for Measuring Spread</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/stdev-var-and-percentile-excels-formulas-for-measuring-spread</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/stdev-var-and-percentile-excels-formulas-for-measuring-spread</guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to quantify variability and position within a distribution using STDEV.S, VAR.S, and PERCENTILE, and use them to flag outliers with a formula instead of eyeballing a chart.</description>
+  </item>
+  <item>
     <title>Adding Previous/Next Post Navigation to Your React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</guid>
