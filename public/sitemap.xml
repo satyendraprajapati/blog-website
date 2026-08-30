@@ -92,6 +92,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-callout-boxes-to-markdown-posts-with-a-custom-react-markdown-component</loc>
     <lastmod>2026-08-24</lastmod>
     <priority>0.7</priority>
@@ -254,6 +259,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/conditional-formatting-in-excel-for-spotting-outliers-and-data-issues</loc>
     <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/consolidating-data-from-multiple-sheets-in-excel-the-consolidate-tool-and-3-d-references</loc>
+    <lastmod>2026-08-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -722,6 +732,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-smart-narrative-auto-generated-text-summaries-for-your-report-pages</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-sync-slicers-applying-one-filter-selection-across-multiple-report-pages</loc>
     <lastmod>2026-08-09</lastmod>
     <priority>0.7</priority>
@@ -949,6 +964,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-smartart-to-turn-a-data-analysis-process-into-a-diagram-in-powerpoint</loc>
     <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-the-selection-pane-to-organize-complex-multi-object-data-slides-in-powerpoint</loc>
+    <lastmod>2026-08-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Breadcrumb Navigation with Schema.org BreadcrumbList Markup to Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to add a visible breadcrumb trail to blog post pages and mark it up with BreadcrumbList JSON-LD so Google can show it directly in search results.</description>
+  </item>
+  <item>
+    <title>Consolidating Data from Multiple Sheets in Excel: The Consolidate Tool and 3-D References</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/consolidating-data-from-multiple-sheets-in-excel-the-consolidate-tool-and-3-d-references</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/consolidating-data-from-multiple-sheets-in-excel-the-consolidate-tool-and-3-d-references</guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to combine numbers from several identically-shaped sheets into one summary using Excel&apos;s Consolidate tool and 3-D reference formulas, instead of copy-pasting totals by hand.</description>
+  </item>
+  <item>
+    <title>Power BI Smart Narrative: Auto-Generated Text Summaries for Your Report Pages</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-smart-narrative-auto-generated-text-summaries-for-your-report-pages</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-smart-narrative-auto-generated-text-summaries-for-your-report-pages</guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power BI&apos;s Smart Narrative visual to turn a page of charts into a plain-English summary that updates itself as filters change.</description>
+  </item>
+  <item>
+    <title>Using the Selection Pane to Organize Complex, Multi-Object Data Slides in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-the-selection-pane-to-organize-complex-multi-object-data-slides-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-the-selection-pane-to-organize-complex-multi-object-data-slides-in-powerpoint</guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to use PowerPoint&apos;s Selection Pane to rename, reorder, group, and lock the many overlapping objects on a busy data slide instead of hunting for them by clicking around.</description>
+  </item>
+  <item>
     <title>DAX RELATED and RELATEDTABLE: Pulling Fields Across Relationships Without a Merge</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</guid>
