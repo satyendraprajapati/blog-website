@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding KaTeX Math Rendering to Display Statistical Formulas in Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-katex-math-rendering-to-display-statistical-formulas-in-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-katex-math-rendering-to-display-statistical-formulas-in-your-react-blog</guid>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to render proper statistical notation like standard deviation and correlation formulas in markdown posts using KaTeX instead of screenshots or plain text.</description>
+  </item>
+  <item>
+    <title>Getting Data From a Website or PDF Into Excel With Power Query</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/getting-data-from-a-website-or-pdf-into-excel-with-power-query</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/getting-data-from-a-website-or-pdf-into-excel-with-power-query</guid>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How to pull a table straight out of a web page or a PDF report with Power Query instead of copy-pasting and reformatting it by hand.</description>
+  </item>
+  <item>
+    <title>Power BI External Tools: Using DAX Studio and Tabular Editor to Debug and Optimize Your Model</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-external-tools-dax-studio-and-tabular-editor</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-external-tools-dax-studio-and-tabular-editor</guid>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How DAX Studio and Tabular Editor plug into Power BI Desktop to give you query timings and bulk model edits the built-in UI doesn&apos;t offer.</description>
+  </item>
+  <item>
+    <title>Using Merge Shapes to Build Custom Icons and Diagrams for Data Storytelling in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-merge-shapes-to-build-custom-icons-and-diagrams-for-data-storytelling-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-merge-shapes-to-build-custom-icons-and-diagrams-for-data-storytelling-in-powerpoint</guid>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Merge Shapes tool lets you build custom icons and process diagrams from basic shapes instead of settling for generic SmartArt or stock icon packs.</description>
+  </item>
+  <item>
     <title>Adding Breadcrumb Navigation with Schema.org BreadcrumbList Markup to Your React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</guid>

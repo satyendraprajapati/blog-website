@@ -112,6 +112,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-katex-math-rendering-to-display-statistical-formulas-in-your-react-blog</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-lazy-loaded-responsive-images-to-your-react-markdown-blog</loc>
     <lastmod>2026-08-11</lastmod>
     <priority>0.7</priority>
@@ -512,6 +517,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/getting-data-from-a-website-or-pdf-into-excel-with-power-query</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/getting-started-with-excel-macros-recording-your-first-one</loc>
     <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
@@ -659,6 +669,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dynamic-format-strings-changing-how-a-measure-displays-based-on-context</loc>
     <lastmod>2026-08-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-external-tools-dax-studio-and-tabular-editor</loc>
+    <lastmod>2026-08-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -914,6 +929,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-ink-annotations-and-the-laser-pointer-to-highlight-data-trends-during-a-live-presentation</loc>
     <lastmod>2026-08-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-merge-shapes-to-build-custom-icons-and-diagrams-for-data-storytelling-in-powerpoint</loc>
+    <lastmod>2026-08-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
