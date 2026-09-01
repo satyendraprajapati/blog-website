@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Choosing the Right Slide Size in PowerPoint for How Your Data Deck Will Actually Be Viewed</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The default 16:9 widescreen size isn&apos;t automatically correct — the room, screen, or platform your data deck gets viewed on should decide the aspect ratio, and changing it after slides are built has its own gotchas.</description>
+  </item>
+  <item>
+    <title>DAX EARLIER: The Row-Context Trick for Calculated Columns (and Why a Measure Is Usually Better Today)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-earlier-the-row-context-trick-for-calculated-columns-and-why-a-measure-is-usually-better-today</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-earlier-the-row-context-trick-for-calculated-columns-and-why-a-measure-is-usually-better-today</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description>EARLIER lets a calculated column compare each row to the rest of its table without a self-join — how it works, and why most new models solve the same problem with a measure instead.</description>
+  </item>
+  <item>
+    <title>Group and Outline in Excel: Building Collapsible Report Sections with SUBTOTAL</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/group-and-outline-in-excel-building-collapsible-report-sections-with-subtotal</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/group-and-outline-in-excel-building-collapsible-report-sections-with-subtotal</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How Excel&apos;s Group and Outline feature turns a long report into collapsible sections, and why SUBTOTAL is the function that keeps totals correct once you start hiding rows.</description>
+  </item>
+  <item>
+    <title>Keeping Vercel Preview Deployments Out of Google&apos;s Index</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/keeping-vercel-preview-deployments-out-of-googles-index</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/keeping-vercel-preview-deployments-out-of-googles-index</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Every branch push gets its own public Vercel URL — how to stop Google, and readers who stumble on the link, from treating a draft deployment as the live site.</description>
+  </item>
+  <item>
     <title>Adding KaTeX Math Rendering to Display Statistical Formulas in Your React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-katex-math-rendering-to-display-statistical-formulas-in-your-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-katex-math-rendering-to-display-statistical-formulas-in-your-react-blog</guid>

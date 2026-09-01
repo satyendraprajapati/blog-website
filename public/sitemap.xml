@@ -232,6 +232,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/cleaning-messy-text-data-in-excel-trim-textsplit-and-substitute</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
@@ -309,6 +314,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-divide-handling-division-by-zero-in-power-bi-measures</loc>
     <lastmod>2026-08-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-earlier-the-row-context-trick-for-calculated-columns-and-why-a-measure-is-usually-better-today</loc>
+    <lastmod>2026-09-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -532,6 +542,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/group-and-outline-in-excel-building-collapsible-report-sections-with-subtotal</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-excel-pivottables-dates-numbers-and-custom-bins</loc>
     <lastmod>2026-08-10</lastmod>
     <priority>0.7</priority>
@@ -564,6 +579,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</loc>
     <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/keeping-vercel-preview-deployments-out-of-googles-index</loc>
+    <lastmod>2026-09-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
