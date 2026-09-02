@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Embedding a Screen-Recorded Dashboard Walkthrough in PowerPoint with Insert &gt; Screen Recording</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to capture a short screen recording of a live dashboard and drop it directly into a slide as a playable video, for audiences who can&apos;t access the tool themselves.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Watch Window: Monitoring Key Cells Across a Large Workbook Without Scrolling</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-watch-window-monitoring-key-cells-across-a-large-workbook-without-scrolling</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-watch-window-monitoring-key-cells-across-a-large-workbook-without-scrolling</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to pin key totals, KPIs, and formula results to a persistent panel so you can watch them update no matter which sheet or cell you&apos;re actually working in.</description>
+  </item>
+  <item>
+    <title>Power BI Composite Models: Mixing Import and DirectQuery in the Same Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-composite-models-mixing-import-and-directquery-in-the-same-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-composite-models-mixing-import-and-directquery-in-the-same-report</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to combine an imported dimension table with a DirectQuery fact table in one Power BI model, and the storage-mode setting that makes the mix actually perform well.</description>
+  </item>
+  <item>
+    <title>Self-Hosting Google Fonts in a Vite + React Blog to Cut a Render-Blocking Request</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/self-hosting-google-fonts-in-a-vite-react-blog-to-cut-a-render-blocking-request</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/self-hosting-google-fonts-in-a-vite-react-blog-to-cut-a-render-blocking-request</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Loading a font from fonts.googleapis.com adds an extra DNS lookup and a render-blocking stylesheet — here&apos;s how to host the font files yourself instead.</description>
+  </item>
+  <item>
     <title>Choosing the Right Slide Size in PowerPoint for How Your Data Deck Will Actually Be Viewed</title>
     <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</guid>

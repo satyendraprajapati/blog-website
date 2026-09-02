@@ -367,6 +367,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</loc>
+    <lastmod>2026-09-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</loc>
     <lastmod>2026-07-21</lastmod>
     <priority>0.7</priority>
@@ -492,6 +497,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-watch-window-monitoring-key-cells-across-a-large-workbook-without-scrolling</loc>
+    <lastmod>2026-09-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -614,6 +624,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-calculation-groups-one-time-intelligence-measure-set-applied-to-every-measure-in-your-model</loc>
     <lastmod>2026-08-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-composite-models-mixing-import-and-directquery-in-the-same-report</loc>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -869,6 +884,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/self-hosting-google-fonts-in-a-vite-react-blog-to-cut-a-render-blocking-request</loc>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
