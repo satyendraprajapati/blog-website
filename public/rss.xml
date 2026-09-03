@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Fixing React Router&apos;s Scroll Position So Blog Navigation Doesn&apos;t Jump to the Bottom</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>React Router doesn&apos;t reset scroll position on its own, so clicking a post link from the bottom of a long list leaves the next page scrolled to the same spot.</description>
+  </item>
+  <item>
+    <title>Power BI Copilot: Generating DAX Measures and Summaries from a Plain-English Prompt</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-copilot-generating-dax-measures-and-summaries-from-a-plain-english-prompt</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-copilot-generating-dax-measures-and-summaries-from-a-plain-english-prompt</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Using Power BI&apos;s Copilot chat pane to draft DAX measures, report pages, and narrative summaries, and where to double-check its output.</description>
+  </item>
+  <item>
+    <title>Python in Excel: Running Pandas Analysis Inside a Cell with =PY</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/python-in-excel-running-pandas-analysis-inside-a-cell-with-py</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/python-in-excel-running-pandas-analysis-inside-a-cell-with-py</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How Excel&apos;s native =PY formula lets you run pandas code directly in a cell, and where it fits next to regular formulas.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Slide Master to Keep Chart Formatting Consistent Across a Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-master-to-keep-chart-formatting-consistent-across-a-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-master-to-keep-chart-formatting-consistent-across-a-data-deck</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Editing PowerPoint&apos;s Slide Master so chart colors, fonts, and layout placeholders stay consistent without reformatting every slide by hand.</description>
+  </item>
+  <item>
     <title>Embedding a Screen-Recorded Dashboard Walkthrough in PowerPoint with Insert &gt; Screen Recording</title>
     <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</guid>

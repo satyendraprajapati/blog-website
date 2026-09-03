@@ -522,6 +522,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/forecasting-trends-in-excel-forecast-linear-trend-and-the-forecast-sheet-tool</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -634,6 +639,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-conditional-formatting-for-tables-and-matrices</loc>
     <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-copilot-generating-dax-measures-and-summaries-from-a-plain-english-prompt</loc>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -857,6 +867,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/python-in-excel-running-pandas-analysis-inside-a-cell-with-py</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-pandas-basics-for-excel-analysts</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
@@ -1009,6 +1024,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-reuse-slides-pane-to-pull-slides-from-old-decks-without-breaking-your-theme</loc>
     <lastmod>2026-08-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-master-to-keep-chart-formatting-consistent-across-a-data-deck</loc>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
