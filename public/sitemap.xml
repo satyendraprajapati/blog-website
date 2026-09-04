@@ -62,6 +62,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-qr-code-to-a-powerpoint-data-slide-that-links-to-a-live-dashboard</loc>
+    <lastmod>2026-09-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-react-error-boundary-so-one-broken-blog-post-doesnt-crash-your-entire-site</loc>
     <lastmod>2026-08-27</lastmod>
     <priority>0.7</priority>
@@ -104,6 +109,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</loc>
     <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-deep-linkable-anchor-links-to-blog-post-headings-in-react</loc>
+    <lastmod>2026-09-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -329,6 +339,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</loc>
     <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-selectedvalue-a-cleaner-way-to-handle-single-value-contexts-in-titles-and-measures</loc>
+    <lastmod>2026-09-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1054,6 +1069,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/writing-custom-columns-in-power-query-with-the-m-formula-language</loc>
+    <lastmod>2026-09-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a QR Code to a PowerPoint Data Slide That Links to a Live Dashboard</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-qr-code-to-a-powerpoint-data-slide-that-links-to-a-live-dashboard</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-qr-code-to-a-powerpoint-data-slide-that-links-to-a-live-dashboard</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Turn a static chart on a printed or screen-shared slide into a jumping-off point to the live, interactive version.</description>
+  </item>
+  <item>
+    <title>Adding Deep-Linkable Anchor Links to Blog Post Headings in React</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-deep-linkable-anchor-links-to-blog-post-headings-in-react</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-deep-linkable-anchor-links-to-blog-post-headings-in-react</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Give every heading in a Markdown post a stable ID and a hover-to-copy link so readers can share a link straight to one section.</description>
+  </item>
+  <item>
+    <title>DAX SELECTEDVALUE: A Cleaner Way to Handle Single-Value Contexts in Titles and Measures</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-selectedvalue-a-cleaner-way-to-handle-single-value-contexts-in-titles-and-measures</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-selectedvalue-a-cleaner-way-to-handle-single-value-contexts-in-titles-and-measures</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Use SELECTEDVALUE to safely return a single filtered value instead of chaining IF and HASONEVALUE.</description>
+  </item>
+  <item>
+    <title>Writing Custom Columns in Power Query with the M Formula Language</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/writing-custom-columns-in-power-query-with-the-m-formula-language</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/writing-custom-columns-in-power-query-with-the-m-formula-language</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Go beyond the point-and-click Power Query UI by writing your own M expressions in the formula bar.</description>
+  </item>
+  <item>
     <title>Fixing React Router&apos;s Scroll Position So Blog Navigation Doesn&apos;t Jump to the Bottom</title>
     <link>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</guid>
