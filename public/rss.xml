@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Canonical URLs to Your React Blog to Avoid Duplicate-Content Issues from Pagination and Tag Pages</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-canonical-urls-to-your-react-blog-to-avoid-duplicate-content-issues-from-pagination-and-tag-pages</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-canonical-urls-to-your-react-blog-to-avoid-duplicate-content-issues-from-pagination-and-tag-pages</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A post that&apos;s reachable from /blog?page=2, from three different tag pages, and from its own permalink looks to Google like several separate pages competing for the same ranking — a canonical tag tells it which one actually counts.</description>
+  </item>
+  <item>
+    <title>Adding Source Notes and Data-As-Of Timestamps to PowerPoint Data Slides</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-source-notes-and-data-as-of-timestamps-to-powerpoint-data-slides</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-source-notes-and-data-as-of-timestamps-to-powerpoint-data-slides</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A chart without a visible source and refresh date invites the first question a skeptical stakeholder asks anyway — here&apos;s how to build both into a slide without cluttering it.</description>
+  </item>
+  <item>
+    <title>Circular References and Iterative Calculation in Excel: When a Formula Referencing Itself Is Intentional</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/circular-references-and-iterative-calculation-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/circular-references-and-iterative-calculation-in-excel</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Excel treats every circular reference as an error by default, but a small class of financial and allocation models genuinely need a formula that depends on its own result — here&apos;s how to build one safely.</description>
+  </item>
+  <item>
+    <title>Power BI Aggregations: Speeding Up DirectQuery with a Cached Summary Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-aggregations-speeding-up-directquery-with-a-cached-summary-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-aggregations-speeding-up-directquery-with-a-cached-summary-table</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Most report visuals only need a summary number, not a row-level query against a billion-row DirectQuery table — Aggregations let Power BI answer those from a small cached table instead.</description>
+  </item>
+  <item>
     <title>Adding a QR Code to a PowerPoint Data Slide That Links to a Live Dashboard</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-qr-code-to-a-powerpoint-data-slide-that-links-to-a-live-dashboard</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-qr-code-to-a-powerpoint-data-slide-that-links-to-a-live-dashboard</guid>

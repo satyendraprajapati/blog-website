@@ -107,6 +107,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-canonical-urls-to-your-react-blog-to-avoid-duplicate-content-issues-from-pagination-and-tag-pages</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-comments-to-your-react-blog-with-giscus</loc>
     <lastmod>2026-07-31</lastmod>
     <priority>0.7</priority>
@@ -154,6 +159,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-social-share-buttons-to-your-react-blog-posts-without-a-third-party-script</loc>
     <lastmod>2026-08-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-source-notes-and-data-as-of-timestamps-to-powerpoint-data-slides</loc>
+    <lastmod>2026-09-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -244,6 +254,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-slide-size-in-powerpoint-for-how-your-data-deck-will-actually-be-viewed</loc>
     <lastmod>2026-09-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/circular-references-and-iterative-calculation-in-excel</loc>
+    <lastmod>2026-09-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -634,6 +649,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/parsing-large-csv-files-in-the-browser-with-a-web-worker-so-your-react-blog-doesnt-freeze</loc>
     <lastmod>2026-08-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-aggregations-speeding-up-directquery-with-a-cached-summary-table</loc>
+    <lastmod>2026-09-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
