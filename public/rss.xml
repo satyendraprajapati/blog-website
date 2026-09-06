@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Content Security Policy to Your React Blog with Vercel Headers</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-content-security-policy-to-your-react-blog-with-vercel-headers</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-content-security-policy-to-your-react-blog-with-vercel-headers</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A Content Security Policy tells the browser which sources of scripts, styles, and embeds your blog actually trusts — set through vercel.json, no server code required.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Mark as Date Table: Why Time Intelligence Functions Need a Proper Date Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-mark-as-date-table-why-time-intelligence-needs-a-proper-date-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-mark-as-date-table-why-time-intelligence-needs-a-proper-date-table</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    <description>SAMEPERIODLASTYEAR and DATESYTD can silently return wrong numbers on an ordinary date column — marking a real date table fixes it.</description>
+  </item>
+  <item>
+    <title>Protecting Excel Workbooks and Worksheets for Handoff: Locking Formulas While Keeping Inputs Editable</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/protecting-excel-workbooks-and-worksheets-for-handoff-locking-formulas-while-keeping-inputs-editable</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/protecting-excel-workbooks-and-worksheets-for-handoff-locking-formulas-while-keeping-inputs-editable</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A quick way to stop a handed-off Excel report from breaking the first time someone edits the wrong cell — lock the formulas, leave the inputs open.</description>
+  </item>
+  <item>
+    <title>Restricting Access to Confidential PowerPoint Data Decks with Sensitivity Labels and Editing Restrictions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/restricting-access-to-confidential-powerpoint-data-decks-with-sensitivity-labels-and-editing-restrictions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/restricting-access-to-confidential-powerpoint-data-decks-with-sensitivity-labels-and-editing-restrictions</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Unfinished margins, unreleased pricing, or internal-only figures don&apos;t belong in a deck that anyone who receives the file can forward or edit freely.</description>
+  </item>
+  <item>
     <title>Adding Canonical URLs to Your React Blog to Avoid Duplicate-Content Issues from Pagination and Tag Pages</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-canonical-urls-to-your-react-blog-to-avoid-duplicate-content-issues-from-pagination-and-tag-pages</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-canonical-urls-to-your-react-blog-to-avoid-duplicate-content-issues-from-pagination-and-tag-pages</guid>

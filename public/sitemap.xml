@@ -32,6 +32,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-content-security-policy-to-your-react-blog-with-vercel-headers</loc>
+    <lastmod>2026-09-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-copy-to-clipboard-button-to-code-blocks-in-your-react-markdown-blog</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>0.7</priority>
@@ -867,6 +872,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-mark-as-date-table-why-time-intelligence-needs-a-proper-date-table</loc>
+    <lastmod>2026-09-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -902,6 +912,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/protecting-excel-workbooks-and-worksheets-for-handoff-locking-formulas-while-keeping-inputs-editable</loc>
+    <lastmod>2026-09-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-in-excel-running-pandas-analysis-inside-a-cell-with-py</loc>
     <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
@@ -929,6 +944,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</loc>
     <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/restricting-access-to-confidential-powerpoint-data-decks-with-sensitivity-labels-and-editing-restrictions</loc>
+    <lastmod>2026-09-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
