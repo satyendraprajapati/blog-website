@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Smooth Page Transitions to Your React Blog with the View Transitions API</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-smooth-page-transitions-to-your-react-blog-with-the-view-transitions-api</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-smooth-page-transitions-to-your-react-blog-with-the-view-transitions-api</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Clicking from the blog list into a post normally just snaps to the new page — the browser&apos;s View Transitions API adds a smooth crossfade with a few lines of code and no animation library.</description>
+  </item>
+  <item>
+    <title>Building a Clickable Menu Slide with Hyperlinks and Action Buttons for a Self-Serve PowerPoint Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-clickable-menu-slide-with-hyperlinks-and-action-buttons-for-a-self-serve-powerpoint-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-clickable-menu-slide-with-hyperlinks-and-action-buttons-for-a-self-serve-powerpoint-data-deck</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Turn a long, linear data deck into a menu-driven one so a stakeholder can jump straight to the region or metric they care about, then click back to the same starting point.</description>
+  </item>
+  <item>
+    <title>DAX CONCATENATEX: Turning Filter Selections into Dynamic Report Titles</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-concatenatex-turning-filter-selections-into-dynamic-report-titles</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-concatenatex-turning-filter-selections-into-dynamic-report-titles</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Use CONCATENATEX to turn a multi-select slicer into a readable, comma-separated subtitle instead of a blank card or a generic &quot;Multiple Values&quot; label.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Camera Tool: Building Live, Linked Snapshots for One-Page Dashboards</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A hidden Excel feature turns any range into a live picture you can drag onto a summary sheet, so a one-page dashboard can pull from tabs it never has to touch directly.</description>
+  </item>
+  <item>
     <title>Adding a Content Security Policy to Your React Blog with Vercel Headers</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-content-security-policy-to-your-react-blog-with-vercel-headers</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-content-security-policy-to-your-react-blog-with-vercel-headers</guid>
