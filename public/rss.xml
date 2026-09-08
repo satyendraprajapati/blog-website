@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Single-File HTML Dashboard with Chart.js (No Framework, No Build Step)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-single-file-html-dashboard-with-chart-js-no-framework-no-build-step</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-single-file-html-dashboard-with-chart-js-no-framework-no-build-step</guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a handful of numbers from a spreadsheet into a shareable interactive chart using nothing but one HTML file and a CDN script tag.</description>
+  </item>
+  <item>
+    <title>Power BI Data Categorization: Making Maps, URLs, and Images Work Automatically</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-data-categorization-making-maps-urls-and-images-work-automatically</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-data-categorization-making-maps-urls-and-images-work-automatically</guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How the Data Category setting tells Power BI to treat a column as a place, a web address, or an image instead of plain text.</description>
+  </item>
+  <item>
+    <title>Understanding Spill Ranges in Excel and Fixing #SPILL! Errors</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/understanding-spill-ranges-in-excel-and-fixing-spill-errors</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/understanding-spill-ranges-in-excel-and-fixing-spill-errors</guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>What a spill range actually is, why #SPILL! errors happen, and how to reference spilled results without breaking them.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Cameo Feature to Put Your Camera on a Data Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-cameo-feature-to-put-your-camera-on-a-data-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-cameo-feature-to-put-your-camera-on-a-data-slide</guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to embed your live webcam feed directly onto a PowerPoint slide so a remote data readout feels less like a screen share.</description>
+  </item>
+  <item>
     <title>Adding Smooth Page Transitions to Your React Blog with the View Transitions API</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-smooth-page-transitions-to-your-react-blog-with-the-view-transitions-api</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-smooth-page-transitions-to-your-react-blog-with-the-view-transitions-api</guid>
