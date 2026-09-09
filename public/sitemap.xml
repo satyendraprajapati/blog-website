@@ -97,6 +97,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -224,6 +229,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-style-timeline-chart-in-powerpoint-for-project-and-roadmap-data</loc>
     <lastmod>2026-08-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-heatmap-style-data-table-in-powerpoint-without-conditional-formatting</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -554,6 +564,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-quick-analysis-tool-one-click-totals-formatting-and-mini-charts-for-a-selected-range</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -889,6 +904,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-analyze-in-excel-building-a-live-pivottable-on-a-power-bi-dataset</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-anomaly-detection-automatically-flagging-unusual-points-on-a-line-chart</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
