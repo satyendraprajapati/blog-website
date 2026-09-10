@@ -1,6 +1,6 @@
 ---
 title: "Adding a Tool Filter to Your Data Portfolio's Projects Grid in React"
-date: "2026-09-09"
+date: "2026-09-10"
 tags: ["web-development", "react", "portfolio"]
 excerpt: "Let a visitor narrow your portfolio grid down to just the Power BI or SQL case studies with a row of filter chips, using nothing but React state and the frontmatter you already write."
 ---

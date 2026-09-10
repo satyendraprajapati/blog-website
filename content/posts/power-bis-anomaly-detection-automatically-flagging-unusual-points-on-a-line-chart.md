@@ -1,6 +1,6 @@
 ---
 title: "Power BI's Anomaly Detection: Automatically Flagging Unusual Points on a Line Chart"
-date: "2026-09-09"
+date: "2026-09-10"
 tags: ["power-bi", "data-visualization", "beginner"]
 excerpt: "A built-in analytics feature scans a line chart's history and circles the points a statistical model says don't fit the pattern, before a stakeholder has to ask why."
 ---

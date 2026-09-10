@@ -8,28 +8,28 @@
     <title>Adding a Tool Filter to Your Data Portfolio&apos;s Projects Grid in React</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     <description>Let a visitor narrow your portfolio grid down to just the Power BI or SQL case studies with a row of filter chips, using nothing but React state and the frontmatter you already write.</description>
   </item>
   <item>
     <title>Building a Heatmap-Style Data Table in PowerPoint Without Conditional Formatting</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-heatmap-style-data-table-in-powerpoint-without-conditional-formatting</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-heatmap-style-data-table-in-powerpoint-without-conditional-formatting</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     <description>PowerPoint tables have no Excel-style conditional formatting rule engine, so turning a grid of numbers into a scannable heatmap means shading it by hand — here&apos;s how to do it without it looking hand-done.</description>
   </item>
   <item>
     <title>Excel&apos;s Quick Analysis Tool: One-Click Totals, Formatting, and Mini Charts for a Selected Range</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excels-quick-analysis-tool-one-click-totals-formatting-and-mini-charts-for-a-selected-range</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excels-quick-analysis-tool-one-click-totals-formatting-and-mini-charts-for-a-selected-range</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     <description>A small icon that appears every time you select a range of numbers packs in conditional formatting, instant totals, tables, and charts without opening a single menu.</description>
   </item>
   <item>
     <title>Power BI&apos;s Anomaly Detection: Automatically Flagging Unusual Points on a Line Chart</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bis-anomaly-detection-automatically-flagging-unusual-points-on-a-line-chart</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-anomaly-detection-automatically-flagging-unusual-points-on-a-line-chart</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     <description>A built-in analytics feature scans a line chart&apos;s history and circles the points a statistical model says don&apos;t fit the pattern, before a stakeholder has to ask why.</description>
   </item>
   <item>

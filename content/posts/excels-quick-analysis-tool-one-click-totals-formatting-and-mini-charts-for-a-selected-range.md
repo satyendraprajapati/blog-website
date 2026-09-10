@@ -1,6 +1,6 @@
 ---
 title: "Excel's Quick Analysis Tool: One-Click Totals, Formatting, and Mini Charts for a Selected Range"
-date: "2026-09-09"
+date: "2026-09-10"
 tags: ["excel", "productivity", "beginner"]
 excerpt: "A small icon that appears every time you select a range of numbers packs in conditional formatting, instant totals, tables, and charts without opening a single menu."
 ---

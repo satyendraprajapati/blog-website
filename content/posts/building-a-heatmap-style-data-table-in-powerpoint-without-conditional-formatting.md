@@ -1,6 +1,6 @@
 ---
 title: "Building a Heatmap-Style Data Table in PowerPoint Without Conditional Formatting"
-date: "2026-09-09"
+date: "2026-09-10"
 tags: ["powerpoint", "data-visualization", "beginner"]
 excerpt: "PowerPoint tables have no Excel-style conditional formatting rule engine, so turning a grid of numbers into a scannable heatmap means shading it by hand — here's how to do it without it looking hand-done."
 ---
