@@ -107,6 +107,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-breadcrumb-navigation-with-schema-org-breadcrumblist-markup-to-your-react-blog</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.7</priority>
@@ -572,6 +577,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-treemap-sunburst-and-map-charts-native-chart-types-beyond-bar-and-line</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-watch-window-monitoring-key-cells-across-a-large-workbook-without-scrolling</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
@@ -789,6 +799,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-deployment-pipelines-moving-a-report-from-dev-to-test-to-production</loc>
     <lastmod>2026-08-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-direct-lake-mode-import-speed-without-the-refresh-directquery-freshness-without-the-lag</loc>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1129,6 +1144,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-icons-and-stock-images-library-to-illustrate-a-data-slide-without-custom-graphics</loc>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

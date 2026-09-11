@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding an llms.txt File to Your React Blog So AI Answer Engines Can Find and Cite Your Posts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A plain-text index at your site root that gives AI answer engines a clean list of your posts to read, instead of leaving them to guess at a client-rendered page.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Treemap, Sunburst, and Map Charts: Native Chart Types Beyond Bar and Line</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-treemap-sunburst-and-map-charts-native-chart-types-beyond-bar-and-line</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-treemap-sunburst-and-map-charts-native-chart-types-beyond-bar-and-line</guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Three built-in Excel chart types for hierarchical and geographic data that most analysts skip past because they&apos;ve never opened the full Insert Chart dialog.</description>
+  </item>
+  <item>
+    <title>Power BI Direct Lake Mode: Import Speed Without the Refresh, DirectQuery Freshness Without the Lag</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-direct-lake-mode-import-speed-without-the-refresh-directquery-freshness-without-the-lag</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-direct-lake-mode-import-speed-without-the-refresh-directquery-freshness-without-the-lag</guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A third storage mode alongside Import and DirectQuery that reads Delta tables straight from OneLake, sidestepping the refresh-vs-freshness tradeoff of the other two.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Icons and Stock Images Library to Illustrate a Data Slide Without Custom Graphics</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-icons-and-stock-images-library-to-illustrate-a-data-slide-without-custom-graphics</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-icons-and-stock-images-library-to-illustrate-a-data-slide-without-custom-graphics</guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s built-in Icons and Stock Images libraries let you label a KPI tile or section slide with a clean, on-theme visual without building a shape from scratch.</description>
+  </item>
+  <item>
     <title>Adding a Tool Filter to Your Data Portfolio&apos;s Projects Grid in React</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</guid>
