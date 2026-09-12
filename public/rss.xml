@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Sortable, Filterable Data Table Component for Your React Data Portfolio</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-sortable-filterable-data-table-component-for-your-react-data-portfolio</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-sortable-filterable-data-table-component-for-your-react-data-portfolio</guid>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A chart shows the trend, but letting a visitor sort and search the actual rows behind a case study gives them something a screenshot of a PivotTable never could — plain React state, no table library.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Advanced Filter: Extracting Unique Records and Complex Criteria Without a Formula</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-advanced-filter-extracting-unique-records-and-complex-criteria-without-a-formula</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-advanced-filter-extracting-unique-records-and-complex-criteria-without-a-formula</guid>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A pre-dynamic-array Excel tool that still does two things the ordinary AutoFilter dropdown can&apos;t: OR-across-columns criteria and copying the matching rows out to a separate range.</description>
+  </item>
+  <item>
+    <title>Fixing Screen Reader Reading Order on Complex Data Slides in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/fixing-screen-reader-reading-order-on-complex-data-slides-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/fixing-screen-reader-reading-order-on-complex-data-slides-in-powerpoint</guid>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Alt text tells a screen reader what a chart is, but a separate, easy-to-miss setting decides what order it announces everything on the slide in — and PowerPoint&apos;s default is just the order objects were added.</description>
+  </item>
+  <item>
+    <title>Power BI Power Query: Append vs. Merge Queries — Combining Data the Right Way</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-power-query-append-vs-merge-queries-combining-data-the-right-way</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-power-query-append-vs-merge-queries-combining-data-the-right-way</guid>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Append and Merge sound like the same &apos;combine two tables&apos; operation, but one stacks rows and the other joins columns — mixing them up is the fastest way to quietly duplicate or drop data before a model even loads.</description>
+  </item>
+  <item>
     <title>Adding an llms.txt File to Your React Blog So AI Answer Engines Can Find and Cite Your Posts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</guid>

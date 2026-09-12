@@ -262,6 +262,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-sortable-filterable-data-table-component-for-your-react-data-portfolio</loc>
+    <lastmod>2026-09-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -552,6 +557,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-advanced-filter-extracting-unique-records-and-complex-criteria-without-a-formula</loc>
+    <lastmod>2026-09-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-analysis-toolpak-descriptive-statistics-and-regression-without-leaving-the-spreadsheet</loc>
     <lastmod>2026-08-23</lastmod>
     <priority>0.7</priority>
@@ -609,6 +619,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/fixing-react-routers-scroll-position-so-blog-navigation-doesnt-jump-to-the-bottom</loc>
     <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/fixing-screen-reader-reading-order-on-complex-data-slides-in-powerpoint</loc>
+    <lastmod>2026-09-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -864,6 +879,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</loc>
     <lastmod>2026-07-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-power-query-append-vs-merge-queries-combining-data-the-right-way</loc>
+    <lastmod>2026-09-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
