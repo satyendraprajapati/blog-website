@@ -707,6 +707,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/loading-markdown-blog-posts-automatically-with-vites-import-meta-glob</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</loc>
     <lastmod>2026-08-05</lastmod>
     <priority>0.7</priority>
@@ -927,6 +932,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-usage-metrics-seeing-who-is-actually-using-your-reports</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-what-if-parameters-for-scenario-analysis</loc>
     <lastmod>2026-07-21</lastmod>
     <priority>0.7</priority>
@@ -999,6 +1009,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/protecting-excel-workbooks-and-worksheets-for-handoff-locking-formulas-while-keeping-inputs-editable</loc>
     <lastmod>2026-09-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/pulling-live-data-into-excel-from-a-web-api-with-webservice-and-filterxml</loc>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1094,6 +1109,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
     <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/translating-a-powerpoint-data-deck-for-international-stakeholders</loc>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
