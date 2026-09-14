@@ -262,6 +262,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-smarter-404-page-for-your-react-blog-that-suggests-posts-from-your-search-index</loc>
+    <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-sortable-filterable-data-table-component-for-your-react-data-portfolio</loc>
     <lastmod>2026-09-12</lastmod>
     <priority>0.7</priority>
@@ -562,6 +567,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-aggregate-function-ignoring-errors-and-hidden-rows-when-sum-and-average-wont</loc>
+    <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-analysis-toolpak-descriptive-statistics-and-regression-without-leaving-the-spreadsheet</loc>
     <lastmod>2026-08-23</lastmod>
     <priority>0.7</priority>
@@ -719,6 +729,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</loc>
     <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/organizing-power-bi-measures-with-display-folders-and-a-dedicated-measure-table</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1184,6 +1199,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-eyedropper-tool-to-match-chart-colors-to-your-brand-palette</loc>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
