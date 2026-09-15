@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Keyboard Command Palette for Fast Navigation on Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-keyboard-command-palette-for-fast-navigation-on-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-keyboard-command-palette-for-fast-navigation-on-your-react-blog</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A Cmd+K palette that jumps straight to any page or post beats clicking through the header nav, and you can build a working version in plain React with no extra dependency.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Data from Picture: Turning a Photo of a Printed Table into Real Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-data-from-picture-turning-a-photo-of-a-printed-table-into-real-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-data-from-picture-turning-a-photo-of-a-printed-table-into-real-data</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Excel can read a table straight out of a photo or screenshot and drop it in as real cells — here&apos;s how to use Data from Picture without ending up with garbled numbers.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Personalize This Visual: Letting Viewers Change a Chart Type Without Editing the Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-personalize-this-visual-letting-viewers-change-a-chart-type-without-editing-the-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-personalize-this-visual-letting-viewers-change-a-chart-type-without-editing-the-report</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Personalize This Visual lets a report viewer swap a chart type or measure on the fly, without edit access or touching the underlying report anyone else sees.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Screen Clipping Tool to Drop Live Dashboard Views into a Data Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-screen-clipping-tool-to-drop-live-dashboard-views-into-a-data-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-screen-clipping-tool-to-drop-live-dashboard-views-into-a-data-slide</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s built-in Screen Clipping tool captures exactly the region of a dashboard or report you need, straight into a slide, without a separate screenshot app or an awkward crop afterward.</description>
+  </item>
+  <item>
     <title>Building a Smarter 404 Page for Your React Blog That Suggests Posts from Your Search Index</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-smarter-404-page-for-your-react-blog-that-suggests-posts-from-your-search-index</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-smarter-404-page-for-your-react-blog-that-suggests-posts-from-your-search-index</guid>

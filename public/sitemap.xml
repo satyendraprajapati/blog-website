@@ -242,6 +242,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-keyboard-command-palette-for-fast-navigation-on-your-react-blog</loc>
+    <lastmod>2026-09-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-kpi-dashboard-slide-in-powerpoint-without-add-ins</loc>
     <lastmod>2026-08-09</lastmod>
     <priority>0.7</priority>
@@ -589,6 +594,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-data-from-picture-turning-a-photo-of-a-printed-table-into-real-data</loc>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -987,6 +997,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-personalize-this-visual-letting-viewers-change-a-chart-type-without-editing-the-report</loc>
+    <lastmod>2026-09-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -1219,6 +1234,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-reuse-slides-pane-to-pull-slides-from-old-decks-without-breaking-your-theme</loc>
     <lastmod>2026-08-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-screen-clipping-tool-to-drop-live-dashboard-views-into-a-data-slide</loc>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
