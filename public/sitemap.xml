@@ -402,6 +402,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</loc>
+    <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-rankx-building-a-dynamic-ranking-measure-in-power-bi</loc>
     <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
@@ -1027,6 +1032,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/prefetching-blog-post-content-on-hover-for-instant-navigation-in-your-react-blog</loc>
+    <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/preparing-an-excel-report-for-handoff-freeze-panes-print-titles-and-print-areas</loc>
     <lastmod>2026-08-27</lastmod>
     <priority>0.7</priority>
@@ -1074,6 +1084,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</loc>
     <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/reshaping-data-with-excels-vstack-hstack-tocol-and-torow-functions</loc>
+    <lastmod>2026-09-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1204,6 +1219,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-cameo-feature-to-put-your-camera-on-a-data-slide</loc>
     <lastmod>2026-09-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-chart-filters-to-show-or-hide-data-series-on-the-fly-during-a-presentation</loc>
+    <lastmod>2026-09-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

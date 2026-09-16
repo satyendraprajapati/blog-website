@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX HASONEVALUE and ISFILTERED: Writing Measures That Adapt to What&apos;s Selected</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</guid>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Two functions for detecting filter state so a measure can change its behavior depending on how much is selected.</description>
+  </item>
+  <item>
+    <title>Prefetching Blog Post Content on Hover for Instant Navigation in Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/prefetching-blog-post-content-on-hover-for-instant-navigation-in-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/prefetching-blog-post-content-on-hover-for-instant-navigation-in-your-react-blog</guid>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Load a post&apos;s markdown as soon as a visitor hovers its link, so the click itself feels instant.</description>
+  </item>
+  <item>
+    <title>Reshaping Data with Excel&apos;s VSTACK, HSTACK, TOCOL, and TOROW Functions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/reshaping-data-with-excels-vstack-hstack-tocol-and-torow-functions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/reshaping-data-with-excels-vstack-hstack-tocol-and-torow-functions</guid>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Four dynamic-array functions that stack, combine, and reshape ranges without copy-pasting or Power Query.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Chart Filters to Show or Hide Data Series On the Fly During a Presentation</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-chart-filters-to-show-or-hide-data-series-on-the-fly-during-a-presentation</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-chart-filters-to-show-or-hide-data-series-on-the-fly-during-a-presentation</guid>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The funnel icon on a selected chart lets you toggle series and categories without touching the source data or building duplicate slides.</description>
+  </item>
+  <item>
     <title>Building a Keyboard Command Palette for Fast Navigation on Your React Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-keyboard-command-palette-for-fast-navigation-on-your-react-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-keyboard-command-palette-for-fast-navigation-on-your-react-blog</guid>
