@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Excel&apos;s SEQUENCE and RANDARRAY Functions: Generating Number Series, Dates, and Sample Data Without Dragging a Formula</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-sequence-and-randarray-functions-generating-number-series-dates-and-sample-data-without-dragging-a-formula</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-sequence-and-randarray-functions-generating-number-series-dates-and-sample-data-without-dragging-a-formula</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How SEQUENCE and RANDARRAY generate number series, date ranges, and random sample data directly from one formula, without dragging a fill handle or building helper columns.</description>
+  </item>
+  <item>
+    <title>Hiding Slides in PowerPoint to Keep Backup Data On Hand Without Cluttering Your Main Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/hiding-slides-in-powerpoint-to-keep-backup-data-on-hand-without-cluttering-your-main-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/hiding-slides-in-powerpoint-to-keep-backup-data-on-hand-without-cluttering-your-main-deck</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Hide Slide feature keeps appendix charts and backup calculations one click away during Q&amp;A without padding out the main data story.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Relative Date and Between Slicers: Filters That Update Themselves</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-relative-date-and-between-slicers-filters-that-update-themselves</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-relative-date-and-between-slicers-filters-that-update-themselves</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How Power BI&apos;s Relative Date and Between slicer types keep a report showing the last N days or a numeric range without anyone manually resetting dates after every refresh.</description>
+  </item>
+  <item>
+    <title>Prerendering Your Vite + React Blog So Search Engines See Content Without Running JavaScript</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/prerendering-your-vite-react-blog-so-search-engines-see-content-without-running-javascript</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/prerendering-your-vite-react-blog-so-search-engines-see-content-without-running-javascript</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A plain React SPA ships an empty shell HTML file — how a post-build prerender script renders real content and per-route meta tags into static HTML before it ever reaches a crawler.</description>
+  </item>
+  <item>
     <title>DAX HASONEVALUE and ISFILTERED: Writing Measures That Adapt to What&apos;s Selected</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</guid>

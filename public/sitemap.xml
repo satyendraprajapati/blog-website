@@ -612,6 +612,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-sequence-and-randarray-functions-generating-number-series-dates-and-sample-data-without-dragging-a-formula</loc>
+    <lastmod>2026-09-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-treemap-sunburst-and-map-charts-native-chart-types-beyond-bar-and-line</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
@@ -694,6 +699,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/handling-missing-data-a-practical-checklist</loc>
     <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/hiding-slides-in-powerpoint-to-keep-backup-data-on-hand-without-cluttering-your-main-deck</loc>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1007,6 +1017,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-relative-date-and-between-slicers-filters-that-update-themselves</loc>
+    <lastmod>2026-09-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
     <priority>0.7</priority>
@@ -1039,6 +1054,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/preparing-an-excel-report-for-handoff-freeze-panes-print-titles-and-print-areas</loc>
     <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/prerendering-your-vite-react-blog-so-search-engines-see-content-without-running-javascript</loc>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
