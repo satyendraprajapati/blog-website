@@ -607,6 +607,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-native-waterfall-chart-for-bridging-budget-to-actual-and-other-variance-stories</loc>
+    <lastmod>2026-09-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-quick-analysis-tool-one-click-totals-formatting-and-mini-charts-for-a-selected-range</loc>
     <lastmod>2026-09-10</lastmod>
     <priority>0.7</priority>
@@ -664,6 +669,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/formatting-data-tables-in-powerpoint-so-theyre-actually-readable</loc>
     <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/generating-a-unique-open-graph-preview-image-for-each-post-at-build-time</loc>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -997,6 +1007,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-export-data-getting-the-numbers-behind-a-visual-into-excel-or-csv</loc>
+    <lastmod>2026-09-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-filters-pane-visual-page-and-report-level-filters-and-when-to-use-each</loc>
     <lastmod>2026-08-24</lastmod>
     <priority>0.7</priority>
@@ -1224,6 +1239,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-morph-transition-for-before-and-after-data-reveals-in-powerpoint</loc>
     <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-motion-path-animation-in-powerpoint-to-show-movement-not-just-reveal-data</loc>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
