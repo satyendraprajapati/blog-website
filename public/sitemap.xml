@@ -192,6 +192,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-the-web-share-api-to-your-react-blog-for-a-native-mobile-share-sheet</loc>
+    <lastmod>2026-09-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-trendlines-and-error-bars-to-powerpoint-charts-to-show-direction-not-just-data</loc>
     <lastmod>2026-08-20</lastmod>
     <priority>0.7</priority>
@@ -457,6 +462,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-web-dashboard-in-powerpoint-with-the-web-viewer-add-in</loc>
+    <lastmod>2026-09-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
@@ -489,6 +499,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-error-handling-iferror-ifna-and-building-formulas-that-fail-gracefully</loc>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-financial-functions-npv-irr-and-pmt-for-quick-payback-and-roi-checks</loc>
+    <lastmod>2026-09-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -984,6 +999,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-usage-metrics-seeing-who-is-actually-using-your-reports</loc>
     <lastmod>2026-09-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-visual-calculations-running-totals-and-comparisons-without-a-dax-measure</loc>
+    <lastmod>2026-09-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

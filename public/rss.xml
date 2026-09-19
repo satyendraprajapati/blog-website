@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding the Web Share API to Your React Blog for a Native Mobile Share Sheet</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-the-web-share-api-to-your-react-blog-for-a-native-mobile-share-sheet</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-the-web-share-api-to-your-react-blog-for-a-native-mobile-share-sheet</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A single browser API opens the phone&apos;s actual share sheet — Messages, Mail, WhatsApp, whatever&apos;s installed — instead of limiting a reader to the one or two networks your share buttons happened to hardcode.</description>
+  </item>
+  <item>
+    <title>Embedding a Live Web Dashboard in PowerPoint with the Web Viewer Add-In</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-web-dashboard-in-powerpoint-with-the-web-viewer-add-in</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-web-dashboard-in-powerpoint-with-the-web-viewer-add-in</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Not every dashboard a stakeholder needs on a slide lives in Power BI — the Web Viewer add-in embeds any public dashboard URL as a live, scrollable web page right inside the deck.</description>
+  </item>
+  <item>
+    <title>Excel Financial Functions: NPV, IRR, and PMT for Quick Payback and ROI Checks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-financial-functions-npv-irr-and-pmt-for-quick-payback-and-roi-checks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-financial-functions-npv-irr-and-pmt-for-quick-payback-and-roi-checks</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Three built-in Excel functions that answer &apos;is this investment worth it?&apos; without building a full discounted cash flow model from scratch.</description>
+  </item>
+  <item>
+    <title>Power BI Visual Calculations: Running Totals and Comparisons Without a DAX Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-visual-calculations-running-totals-and-comparisons-without-a-dax-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-visual-calculations-running-totals-and-comparisons-without-a-dax-measure</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Visual calculations run directly on what&apos;s already plotted on a chart or matrix, sidestepping filter context and relationships entirely for a running total, a rank, or a period-over-period comparison.</description>
+  </item>
+  <item>
     <title>Excel&apos;s Native Waterfall Chart: Bridging Budget to Actual and Other Variance Stories</title>
     <link>https://blog-website-navy-one.vercel.app/blog/excels-native-waterfall-chart-for-bridging-budget-to-actual-and-other-variance-stories</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/excels-native-waterfall-chart-for-bridging-budget-to-actual-and-other-variance-stories</guid>
