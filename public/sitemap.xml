@@ -472,6 +472,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-fonts-in-powerpoint-so-your-data-deck-doesnt-break-on-another-machine</loc>
+    <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-interactive-charts-in-your-react-blog-with-recharts</loc>
     <lastmod>2026-07-21</lastmod>
     <priority>0.7</priority>
@@ -912,6 +917,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-goals-building-a-metrics-scorecard-to-track-kpis-over-time</loc>
+    <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-import-vs-directquery-choosing-storage-mode</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -1207,6 +1217,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/take-drop-chooserows-choosecols-and-expand-excels-array-reshaping-functions</loc>
+    <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
     <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
@@ -1349,6 +1364,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/web-scraping-basics-for-data-analysts-pulling-data-from-a-website-with-python</loc>
+    <lastmod>2026-09-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

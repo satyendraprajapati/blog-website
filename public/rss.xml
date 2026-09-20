@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Embedding Fonts in PowerPoint So Your Data Deck Doesn&apos;t Break on Another Machine</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-fonts-in-powerpoint-so-your-data-deck-doesnt-break-on-another-machine</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-fonts-in-powerpoint-so-your-data-deck-doesnt-break-on-another-machine</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to embed fonts in a PowerPoint file so custom typography on chart titles and callouts survives being opened on a computer that doesn&apos;t have that font installed.</description>
+  </item>
+  <item>
+    <title>Power BI Goals: Building a Metrics Scorecard to Track KPIs Over Time</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-goals-building-a-metrics-scorecard-to-track-kpis-over-time</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-goals-building-a-metrics-scorecard-to-track-kpis-over-time</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power BI&apos;s Goals (Metrics) feature to track a KPI&apos;s progress against a target over time instead of just showing its current value.</description>
+  </item>
+  <item>
+    <title>TAKE, DROP, CHOOSEROWS, CHOOSECOLS, and EXPAND: Excel&apos;s Array-Reshaping Functions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/take-drop-chooserows-choosecols-and-expand-excels-array-reshaping-functions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/take-drop-chooserows-choosecols-and-expand-excels-array-reshaping-functions</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Five newer dynamic array functions for slicing rows and columns out of a range without a single helper column.</description>
+  </item>
+  <item>
+    <title>Web Scraping Basics for Data Analysts: Pulling Data From a Website With Python</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/web-scraping-basics-for-data-analysts-pulling-data-from-a-website-with-python</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/web-scraping-basics-for-data-analysts-pulling-data-from-a-website-with-python</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A practical first pass at pulling a table off a public webpage with requests and BeautifulSoup when there&apos;s no API or download button available.</description>
+  </item>
+  <item>
     <title>Adding the Web Share API to Your React Blog for a Native Mobile Share Sheet</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-the-web-share-api-to-your-react-blog-for-a-native-mobile-share-sheet</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-the-web-share-api-to-your-react-blog-for-a-native-mobile-share-sheet</guid>
