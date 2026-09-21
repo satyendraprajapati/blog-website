@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Caching Parsed CSV Data in IndexedDB So a Data Portfolio&apos;s Big Dataset Only Loads Once</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A sortable table or chart backed by a large CSV re-fetches and re-parses the whole file on every visit — IndexedDB lets a React portfolio page store the parsed rows and skip both steps after the first load.</description>
+  </item>
+  <item>
+    <title>Fuzzy Matching in Power Query: Merging Tables When the Keys Don&apos;t Match Exactly</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/fuzzy-matching-in-power-query-merging-tables-when-the-keys-dont-match-exactly</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/fuzzy-matching-in-power-query-merging-tables-when-the-keys-dont-match-exactly</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <description>An exact Merge Queries join fails the moment two systems spell the same customer or product differently — Power Query&apos;s Fuzzy Matching option joins on similarity instead of an identical string.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Explain the Increase/Decrease: Right-Click Root-Cause Analysis on Any Visual</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-explain-the-increase-decrease-right-click-root-cause-analysis-on-any-visual</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-explain-the-increase-decrease-right-click-root-cause-analysis-on-any-visual</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Before you build a Key Influencers visual or a Decomposition Tree, right-click a single point on almost any Power BI chart and let Explain the Increase/Decrease suggest what moved it.</description>
+  </item>
+  <item>
+    <title>Using Trigger Animations in PowerPoint to Let Viewers Click Their Way Through a Data Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-trigger-animations-in-powerpoint-to-let-viewers-click-their-way-through-a-data-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-trigger-animations-in-powerpoint-to-let-viewers-click-their-way-through-a-data-slide</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A normal entrance animation plays in a fixed order when you click anywhere on the slide — a Trigger animation waits for a click on one specific object, so a legend item or icon can control what appears next.</description>
+  </item>
+  <item>
     <title>Embedding Fonts in PowerPoint So Your Data Deck Doesn&apos;t Break on Another Machine</title>
     <link>https://blog-website-navy-one.vercel.app/blog/embedding-fonts-in-powerpoint-so-your-data-deck-doesnt-break-on-another-machine</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/embedding-fonts-in-powerpoint-so-your-data-deck-doesnt-break-on-another-machine</guid>

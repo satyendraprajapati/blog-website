@@ -292,6 +292,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</loc>
+    <lastmod>2026-09-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</loc>
     <lastmod>2026-08-23</lastmod>
     <priority>0.7</priority>
@@ -692,6 +697,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/fuzzy-matching-in-power-query-merging-tables-when-the-keys-dont-match-exactly</loc>
+    <lastmod>2026-09-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/generating-a-unique-open-graph-preview-image-for-each-post-at-build-time</loc>
     <lastmod>2026-09-18</lastmod>
     <priority>0.7</priority>
@@ -1037,6 +1047,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-explain-the-increase-decrease-right-click-root-cause-analysis-on-any-visual</loc>
+    <lastmod>2026-09-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-export-data-getting-the-numbers-behind-a-visual-into-excel-or-csv</loc>
     <lastmod>2026-09-18</lastmod>
     <priority>0.7</priority>
@@ -1359,6 +1374,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-the-selection-pane-to-organize-complex-multi-object-data-slides-in-powerpoint</loc>
     <lastmod>2026-08-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-trigger-animations-in-powerpoint-to-let-viewers-click-their-way-through-a-data-slide</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
