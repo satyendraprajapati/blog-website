@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Skip-to-Content Link and Visible Focus Styles to Your React Blog for Keyboard Users</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-skip-to-content-link-and-visible-focus-styles-to-your-react-blog-for-keyboard-users</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-skip-to-content-link-and-visible-focus-styles-to-your-react-blog-for-keyboard-users</guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A reader navigating with a keyboard or screen reader has to tab through your entire header before reaching a post&apos;s content -- a skip link and visible focus outlines fix that in a few lines of CSS and JSX.</description>
+  </item>
+  <item>
+    <title>Building a Bump Chart to Show Ranking Changes Over Time Natively in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-bump-chart-to-show-ranking-changes-over-time-natively-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-bump-chart-to-show-ranking-changes-over-time-natively-in-powerpoint</guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    <description>When the story is who moved up and who fell behind, a bump chart tracks rank instead of raw value -- and PowerPoint can build one from a plain line chart with an inverted axis.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Analytics Pane: Adding Trend Lines, Forecasts, and Reference Lines to Any Chart</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-analytics-pane-adding-trend-lines-forecasts-and-reference-lines-to-any-chart</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-analytics-pane-adding-trend-lines-forecasts-and-reference-lines-to-any-chart</guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A tab most report builders never open lets you drop a trend line, a short-term forecast, or a constant reference line onto a chart without writing a single DAX measure.</description>
+  </item>
+  <item>
+    <title>VLOOKUP&apos;s Approximate Match: Building Tax and Commission Tier Lookups in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/vlookups-approximate-match-building-tax-and-commission-tier-lookups-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/vlookups-approximate-match-building-tax-and-commission-tier-lookups-in-excel</guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    <description>VLOOKUP&apos;s exact-match mode gets all the attention, but its lesser-known approximate-match mode is the simplest built-in way to assign a tax bracket, commission tier, or grade band from a single sorted table.</description>
+  </item>
+  <item>
     <title>Caching Parsed CSV Data in IndexedDB So a Data Portfolio&apos;s Big Dataset Only Loads Once</title>
     <link>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</guid>

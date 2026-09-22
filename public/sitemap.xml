@@ -97,6 +97,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-skip-to-content-link-and-visible-focus-styles-to-your-react-blog-for-keyboard-users</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-tool-filter-to-your-data-portfolios-projects-grid-in-react</loc>
     <lastmod>2026-09-10</lastmod>
     <priority>0.7</priority>
@@ -229,6 +234,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-bump-chart-to-show-ranking-changes-over-time-natively-in-powerpoint</loc>
+    <lastmod>2026-09-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1037,6 +1047,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-analytics-pane-adding-trend-lines-forecasts-and-reference-lines-to-any-chart</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-analyze-in-excel-building-a-live-pivottable-on-a-power-bi-dataset</loc>
     <lastmod>2026-08-18</lastmod>
     <priority>0.7</priority>
@@ -1384,6 +1399,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/vlookups-approximate-match-building-tax-and-commission-tier-lookups-in-excel</loc>
+    <lastmod>2026-09-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
