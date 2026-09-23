@@ -232,6 +232,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/bad-excel-habits-that-quietly-corrupt-your-data-and-what-to-do-instead</loc>
+    <lastmod>2026-09-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</loc>
     <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
@@ -917,6 +922,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-down-and-drill-up-navigating-hierarchies-in-a-visual</loc>
+    <lastmod>2026-09-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-through-pages-from-summary-to-detail</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.7</priority>
@@ -1287,6 +1297,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-browser-devtools-to-find-the-hidden-api-behind-a-website-no-scraping-library-needed</loc>
+    <lastmod>2026-09-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-comments-and-version-history-in-powerpoint-for-stakeholder-review-cycles-on-data-decks</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.7</priority>
@@ -1354,6 +1369,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-outline-view-to-plan-a-data-story-before-you-build-a-single-slide</loc>
     <lastmod>2026-08-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-photo-album-feature-to-quickly-build-a-slide-per-chart-deck-from-exported-images</loc>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

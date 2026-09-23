@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Bad Excel Habits That Quietly Corrupt Your Data (and What to Do Instead)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/bad-excel-habits-that-quietly-corrupt-your-data-and-what-to-do-instead</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/bad-excel-habits-that-quietly-corrupt-your-data-and-what-to-do-instead</guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Six common spreadsheet habits that look harmless but silently break formulas, sorting, and filtering — and the fix for each.</description>
+  </item>
+  <item>
+    <title>Power BI Drill Down and Drill Up: Navigating Hierarchies in a Visual</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-down-and-drill-up-navigating-hierarchies-in-a-visual</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-drill-down-and-drill-up-navigating-hierarchies-in-a-visual</guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The drill icons in a Power BI visual&apos;s header let report viewers move between Year, Quarter, and Month (or Country, State, and City) without a single extra measure.</description>
+  </item>
+  <item>
+    <title>Using Browser DevTools to Find the Hidden API Behind a Website (No Scraping Library Needed)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-browser-devtools-to-find-the-hidden-api-behind-a-website-no-scraping-library-needed</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-browser-devtools-to-find-the-hidden-api-behind-a-website-no-scraping-library-needed</guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Many pages that look like they have no API are actually loading their data from one behind the scenes — the browser&apos;s Network tab will show you exactly where.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Photo Album Feature to Quickly Build a Slide-Per-Chart Deck from Exported Images</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-photo-album-feature-to-quickly-build-a-slide-per-chart-deck-from-exported-images</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-photo-album-feature-to-quickly-build-a-slide-per-chart-deck-from-exported-images</guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A folder of exported chart images turns into a full one-chart-per-slide deck in a couple of clicks with a feature most data analysts never open.</description>
+  </item>
+  <item>
     <title>Adding a Skip-to-Content Link and Visible Focus Styles to Your React Blog for Keyboard Users</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-skip-to-content-link-and-visible-focus-styles-to-your-react-blog-for-keyboard-users</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-skip-to-content-link-and-visible-focus-styles-to-your-react-blog-for-keyboard-users</guid>
