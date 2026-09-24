@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Pre-Commit Hooks with Husky and lint-staged to Catch Lint Errors Before They&apos;re Committed</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-pre-commit-hooks-with-husky-and-lint-staged-to-catch-lint-errors-before-theyre-committed</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-pre-commit-hooks-with-husky-and-lint-staged-to-catch-lint-errors-before-theyre-committed</guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    <description>ESLint and a GitHub Actions check both catch problems after the fact — a pre-commit hook with Husky and lint-staged stops a lint error from ever reaching a commit in the first place.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Linked Data Types: Turning Plain Text Into Live Stock, Currency, and Geography Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-linked-data-types-turning-plain-text-into-live-stock-currency-and-geography-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-linked-data-types-turning-plain-text-into-live-stock-currency-and-geography-data</guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A built-in Excel feature turns a plain text column of tickers, currency codes, or place names into a connected data source you can pull dozens of live fields from.</description>
+  </item>
+  <item>
+    <title>Grouping and Binning Data in Power BI Without Writing a DAX Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-power-bi-without-writing-a-dax-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-power-bi-without-writing-a-dax-measure</guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Power BI&apos;s built-in Groups feature buckets categories or numeric ranges into a new field you can slice and chart by, without a nested SWITCH measure or a Power Query step.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Format Painter to Keep Chart Formatting Consistent Across a Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-format-painter-to-keep-chart-formatting-consistent-across-a-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-format-painter-to-keep-chart-formatting-consistent-across-a-data-deck</guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A quick way to make every chart in a deck match without rebuilding a Slide Master: copy one chart&apos;s full formatting and paint it onto the rest in a couple of clicks.</description>
+  </item>
+  <item>
     <title>Bad Excel Habits That Quietly Corrupt Your Data (and What to Do Instead)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/bad-excel-habits-that-quietly-corrupt-your-data-and-what-to-do-instead</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/bad-excel-habits-that-quietly-corrupt-your-data-and-what-to-do-instead</guid>

@@ -167,6 +167,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-pre-commit-hooks-with-husky-and-lint-staged-to-catch-lint-errors-before-theyre-committed</loc>
+    <lastmod>2026-09-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-previous-next-post-navigation-to-your-react-blog</loc>
     <lastmod>2026-08-28</lastmod>
     <priority>0.7</priority>
@@ -647,6 +652,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-linked-data-types-turning-plain-text-into-live-stock-currency-and-geography-data</loc>
+    <lastmod>2026-09-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-native-waterfall-chart-for-bridging-budget-to-actual-and-other-variance-stories</loc>
     <lastmod>2026-09-18</lastmod>
     <priority>0.7</priority>
@@ -749,6 +759,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-excel-pivottables-dates-numbers-and-custom-bins</loc>
     <lastmod>2026-08-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-power-bi-without-writing-a-dax-measure</loc>
+    <lastmod>2026-09-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1359,6 +1374,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-eyedropper-tool-to-match-chart-colors-to-your-brand-palette</loc>
     <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-format-painter-to-keep-chart-formatting-consistent-across-a-data-deck</loc>
+    <lastmod>2026-09-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
