@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX SUMMARIZECOLUMNS: Building a Custom Summary Table Without a Matrix Visual</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-summarizecolumns-building-a-custom-summary-table-without-a-matrix-visual</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-summarizecolumns-building-a-custom-summary-table-without-a-matrix-visual</guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    <description>SUMMARIZECOLUMNS is the function powering every matrix and table visual behind the scenes — writing it yourself lets you build a calculated table or a portable DAX query on demand.</description>
+  </item>
+  <item>
+    <title>Formatting Numbers Consistently in Your React Data Portfolio with Intl.NumberFormat</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/formatting-numbers-consistently-in-your-react-data-portfolio-with-intl-numberformat</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/formatting-numbers-consistently-in-your-react-data-portfolio-with-intl-numberformat</guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Stop hand-rolling toFixed and string concatenation for every stat card — the browser&apos;s built-in Intl.NumberFormat handles currency, percentages, and compact notation with no library.</description>
+  </item>
+  <item>
+    <title>Real-Time Co-Authoring in PowerPoint: Building a Data Deck with a Teammate at the Same Time</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-in-powerpoint-building-a-data-deck-with-a-teammate-at-the-same-time</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-in-powerpoint-building-a-data-deck-with-a-teammate-at-the-same-time</guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Comments and Version History are built for reviewing a deck after the fact — Co-Authoring lets two analysts edit the same file, live, at the same time, without emailing copies back and forth.</description>
+  </item>
+  <item>
+    <title>Using Excel Form Controls to Build an Interactive Dashboard Without a Single Slicer</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excel-form-controls-to-build-an-interactive-dashboard-without-a-single-slicer</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excel-form-controls-to-build-an-interactive-dashboard-without-a-single-slicer</guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Slicers only work against tables and PivotTables — Form Controls like combo boxes and option buttons drive any formula or chart directly from a plain cell.</description>
+  </item>
+  <item>
     <title>Adding Pre-Commit Hooks with Husky and lint-staged to Catch Lint Errors Before They&apos;re Committed</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-pre-commit-hooks-with-husky-and-lint-staged-to-catch-lint-errors-before-theyre-committed</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-pre-commit-hooks-with-husky-and-lint-staged-to-catch-lint-errors-before-theyre-committed</guid>
