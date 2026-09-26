@@ -92,6 +92,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-save-for-later-reading-list-to-your-react-blog-with-localstorage</loc>
+    <lastmod>2026-09-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-service-worker-for-offline-reading-to-your-vite-react-blog</loc>
     <lastmod>2026-08-22</lastmod>
     <priority>0.7</priority>
@@ -434,6 +439,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</loc>
     <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-keepfilters-adding-a-filter-without-overwriting-whats-already-there</loc>
+    <lastmod>2026-09-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1232,6 +1242,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/round-roundup-rounddown-and-mround-getting-rounding-right-in-excel-reports</loc>
+    <lastmod>2026-09-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.7</priority>
@@ -1414,6 +1429,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-photo-album-feature-to-quickly-build-a-slide-per-chart-deck-from-exported-images</loc>
     <lastmod>2026-09-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-remove-background-tool-to-clean-up-dashboard-screenshots-on-a-data-slide</loc>
+    <lastmod>2026-09-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
