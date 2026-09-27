@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building an Interactive Dashboard with Plotly Dash: A Python Alternative to Streamlit</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How Dash&apos;s callback model differs from Streamlit&apos;s rerun-the-script approach, and when that difference actually matters for a data dashboard.</description>
+  </item>
+  <item>
+    <title>DAX PATH and PATHITEM: Flattening a Parent-Child Hierarchy in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-path-and-pathitem-flattening-a-parent-child-hierarchy-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-path-and-pathitem-flattening-a-parent-child-hierarchy-in-power-bi</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to use PATH and PATHITEM to turn a self-referencing parent-child table — like an org chart or a chart of accounts — into flat, filterable level columns.</description>
+  </item>
+  <item>
+    <title>Paste Link vs. Embed: Keeping a PowerPoint Table in Sync with Its Source Excel Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/paste-link-vs-embed-keeping-a-powerpoint-table-in-sync-with-its-source-excel-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/paste-link-vs-embed-keeping-a-powerpoint-table-in-sync-with-its-source-excel-data</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The difference between linking, embedding, and plain pasting an Excel table into PowerPoint, and which one to pick depending on whether the deck needs to stay current or travel to another machine.</description>
+  </item>
+  <item>
+    <title>Writing Your First Excel VBA Macro From Scratch (Beyond the Macro Recorder)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/writing-your-first-excel-vba-macro-from-scratch-beyond-the-macro-recorder</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/writing-your-first-excel-vba-macro-from-scratch-beyond-the-macro-recorder</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to write a small VBA routine by hand — with a variable, a loop, and a decision — once a task outgrows what the Macro Recorder can capture.</description>
+  </item>
+  <item>
     <title>Adding a &apos;Save for Later&apos; Reading List to Your React Blog with localStorage</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-save-for-later-reading-list-to-your-react-blog-with-localstorage</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-save-for-later-reading-list-to-your-react-blog-with-localstorage</guid>

@@ -307,6 +307,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</loc>
+    <lastmod>2026-09-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -444,6 +449,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-keepfilters-adding-a-filter-without-overwriting-whats-already-there</loc>
     <lastmod>2026-09-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-path-and-pathitem-flattening-a-parent-child-hierarchy-in-power-bi</loc>
+    <lastmod>2026-09-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -854,6 +864,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/parsing-large-csv-files-in-the-browser-with-a-web-worker-so-your-react-blog-doesnt-freeze</loc>
     <lastmod>2026-08-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/paste-link-vs-embed-keeping-a-powerpoint-table-in-sync-with-its-source-excel-data</loc>
+    <lastmod>2026-09-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1499,6 +1514,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/writing-slide-titles-that-state-the-insight-bluf-powerpoint</loc>
     <lastmod>2026-07-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/writing-your-first-excel-vba-macro-from-scratch-beyond-the-macro-recorder</loc>
+    <lastmod>2026-09-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
