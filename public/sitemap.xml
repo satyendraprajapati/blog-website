@@ -292,6 +292,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-single-file-html-dashboard-with-chart-js-no-framework-no-build-step</loc>
     <lastmod>2026-09-08</lastmod>
     <priority>0.7</priority>
@@ -317,6 +322,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-rolling-12-month-totals-and-moving-averages-in-excel</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-waterfall-and-funnel-charts-natively-in-powerpoint-for-data-slides</loc>
     <lastmod>2026-07-29</lastmod>
     <priority>0.7</priority>
@@ -329,6 +339,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/catching-broken-internal-links-in-your-react-blog-before-they-reach-production</loc>
     <lastmod>2026-08-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/certifying-and-endorsing-datasets-in-power-bi-so-people-build-on-the-right-one</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1319,6 +1334,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/take-drop-chooserows-choosecols-and-expand-excels-array-reshaping-functions</loc>
     <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-components-with-vitest-and-react-testing-library</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

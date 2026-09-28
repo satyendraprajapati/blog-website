@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Simple Sankey-Style Flow Diagram in PowerPoint Using Stacked Bars</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint has no native Sankey chart, but a stacked bar chart and a few reshaped connector shapes get close enough to show where a quantity splits and where it flows to.</description>
+  </item>
+  <item>
+    <title>Building Rolling 12-Month Totals and Moving Averages in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-rolling-12-month-totals-and-moving-averages-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-rolling-12-month-totals-and-moving-averages-in-excel</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Calendar-year summaries hide the trend inside them — here&apos;s how to build a rolling 12-month total and moving average in Excel that updates automatically as new months of data arrive.</description>
+  </item>
+  <item>
+    <title>Certifying and Endorsing Datasets in Power BI (So People Build on the Right One)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/certifying-and-endorsing-datasets-in-power-bi-so-people-build-on-the-right-one</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/certifying-and-endorsing-datasets-in-power-bi-so-people-build-on-the-right-one</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Once a few teams start building their own reports on your model, endorsement badges are how you tell them which dataset is the trustworthy, maintained one to connect to.</description>
+  </item>
+  <item>
+    <title>Testing Your React Blog&apos;s Components with Vitest and React Testing Library</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-components-with-vitest-and-react-testing-library</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-components-with-vitest-and-react-testing-library</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Unit-testing the parsing logic behind a Markdown blog catches bad data, but it won&apos;t catch a component that renders the wrong thing — here&apos;s how to test components directly with React Testing Library.</description>
+  </item>
+  <item>
     <title>Building an Interactive Dashboard with Plotly Dash: A Python Alternative to Streamlit</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</guid>
