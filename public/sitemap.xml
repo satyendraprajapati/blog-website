@@ -327,6 +327,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</loc>
+    <lastmod>2026-09-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-waterfall-and-funnel-charts-natively-in-powerpoint-for-data-slides</loc>
     <lastmod>2026-07-29</lastmod>
     <priority>0.7</priority>
@@ -619,6 +624,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivot-tables-for-quick-data-summaries</loc>
     <lastmod>2026-07-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-pivotcharts-turning-a-pivottable-into-an-interactive-chart-with-its-own-filters</loc>
+    <lastmod>2026-09-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1152,6 +1162,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-format-painter-copying-visual-formatting-without-building-a-custom-theme</loc>
+    <lastmod>2026-09-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-key-influencers-visual-letting-the-report-find-whats-driving-a-metric</loc>
     <lastmod>2026-08-27</lastmod>
     <priority>0.7</priority>
@@ -1299,6 +1314,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-eslint-and-prettier-in-your-vite-react-blog-for-consistent-error-free-code</loc>
     <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/showing-a-last-updated-date-on-blog-posts-using-git-history</loc>
+    <lastmod>2026-09-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

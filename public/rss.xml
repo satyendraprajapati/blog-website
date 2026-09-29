@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building Small-Multiples Chart Grids in PowerPoint When Your Data Isn&apos;t in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Power BI turns one visual into a grid of mini-charts with a single setting -- PowerPoint has no equivalent button, so here&apos;s how to fake it convincingly with regular charts and an invisible grid.</description>
+  </item>
+  <item>
+    <title>Excel PivotCharts: Turning a PivotTable Into an Interactive Chart with Its Own Filters</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-pivotcharts-turning-a-pivottable-into-an-interactive-chart-with-its-own-filters</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-pivotcharts-turning-a-pivottable-into-an-interactive-chart-with-its-own-filters</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A PivotChart isn&apos;t just a chart pointed at a PivotTable — it carries its own clickable field buttons, so a viewer can change what it shows without touching a filter pane.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Format Painter: Copying Visual Formatting Without Building a Custom Theme</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-format-painter-copying-visual-formatting-without-building-a-custom-theme</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-format-painter-copying-visual-formatting-without-building-a-custom-theme</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A custom report theme is the right fix for a new report, but for one visual that already looks correct, Format Painter copies its exact formatting onto every other visual in a couple of clicks.</description>
+  </item>
+  <item>
+    <title>Showing a &apos;Last Updated&apos; Date on Blog Posts Using Git History</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/showing-a-last-updated-date-on-blog-posts-using-git-history</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/showing-a-last-updated-date-on-blog-posts-using-git-history</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    <description>A frontmatter `date` field only ever shows when a post was first published -- pulling the real last-modified date from git log tells a reader whether a technical post has been touched since a function changed.</description>
+  </item>
+  <item>
     <title>Building a Simple Sankey-Style Flow Diagram in PowerPoint Using Stacked Bars</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</guid>
