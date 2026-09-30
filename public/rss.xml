@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building Self-Expanding Chart Ranges in Excel with OFFSET and COUNTA</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-self-expanding-chart-ranges-in-excel-with-offset-and-counta</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-self-expanding-chart-ranges-in-excel-with-offset-and-counta</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to make a chart&apos;s data range grow automatically as new rows are added, using an OFFSET-based dynamic named range instead of re-selecting the source every month.</description>
+  </item>
+  <item>
+    <title>DAX ISINSCOPE: Building Matrix Subtotals That Change by Level</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-isinscope-building-matrix-subtotals-that-change-by-level</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-isinscope-building-matrix-subtotals-that-change-by-level</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How ISINSCOPE lets a single measure show different logic at the region subtotal, category subtotal, and grand total rows of the same matrix visual.</description>
+  </item>
+  <item>
+    <title>Lazy-Mounting Heavy Embeds in Your React Blog with Intersection Observer</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to delay mounting a heavy Recharts or embedded Power BI dashboard until it&apos;s about to scroll into view, so a post&apos;s initial render stays light even with several charts further down the page.</description>
+  </item>
+  <item>
+    <title>Setting Up Presenter View on a Second Monitor for a Live Data Readout in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-presenter-view-on-a-second-monitor-for-a-live-data-readout-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-presenter-view-on-a-second-monitor-for-a-live-data-readout-in-powerpoint</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    <description>How to configure Presenter View across two displays so you can see speaker notes, the next slide, and a timer while the audience only ever sees the current chart.</description>
+  </item>
+  <item>
     <title>Building Small-Multiples Chart Grids in PowerPoint When Your Data Isn&apos;t in Power BI</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</guid>

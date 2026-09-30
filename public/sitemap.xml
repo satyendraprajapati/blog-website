@@ -327,6 +327,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-self-expanding-chart-ranges-in-excel-with-offset-and-counta</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-small-multiples-chart-grids-in-powerpoint-when-your-data-isnt-in-power-bi</loc>
     <lastmod>2026-09-29</lastmod>
     <priority>0.7</priority>
@@ -464,6 +469,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</loc>
     <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-isinscope-building-matrix-subtotals-that-change-by-level</loc>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -859,6 +869,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/keeping-vercel-preview-deployments-out-of-googles-index</loc>
     <lastmod>2026-09-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</loc>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1314,6 +1329,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-eslint-and-prettier-in-your-vite-react-blog-for-consistent-error-free-code</loc>
     <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-presenter-view-on-a-second-monitor-for-a-live-data-readout-in-powerpoint</loc>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
