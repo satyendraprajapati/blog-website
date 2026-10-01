@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Radar (Spider) Chart Natively in PowerPoint to Compare Multiple Metrics at Once</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When you need to compare several products or teams across half a dozen metrics at once, a radar chart fits more dimensions onto one slide than a bar chart ever could — and PowerPoint builds one natively.</description>
+  </item>
+  <item>
+    <title>Building a Responsive Mobile Navigation Menu for Your React Data Portfolio with Tailwind</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-responsive-mobile-navigation-menu-for-your-react-data-portfolio-with-tailwind</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-responsive-mobile-navigation-menu-for-your-react-data-portfolio-with-tailwind</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A header nav built for desktop width quietly breaks on a phone — here&apos;s how to add a hamburger menu that collapses it into a usable mobile drawer with just React state and Tailwind classes.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Checkbox Cells: Building a Click-to-Toggle Dashboard Filter Without VBA or Form Controls</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-checkbox-cells-building-a-click-to-toggle-dashboard-filter-without-vba-or-form-controls</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-checkbox-cells-building-a-click-to-toggle-dashboard-filter-without-vba-or-form-controls</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s native checkbox data type turns a single click into a live dashboard filter, with no VBA, no Form Controls, and no linked-cell setup.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Edit Interactions: Controlling Whether One Visual Filters, Highlights, or Ignores Another</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-edit-interactions-controlling-whether-one-visual-filters-highlights-or-ignores-another</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-edit-interactions-controlling-whether-one-visual-filters-highlights-or-ignores-another</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Every visual on a Power BI page cross-filters every other one by default — Edit Interactions is the per-visual switch that decides whether that&apos;s filter, highlight, or nothing at all.</description>
+  </item>
+  <item>
     <title>Building Self-Expanding Chart Ranges in Excel with OFFSET and COUNTA</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-self-expanding-chart-ranges-in-excel-with-offset-and-counta</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-self-expanding-chart-ranges-in-excel-with-offset-and-counta</guid>

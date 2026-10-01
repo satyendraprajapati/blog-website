@@ -287,6 +287,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-responsive-mobile-navigation-menu-for-your-react-data-portfolio-with-tailwind</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -704,6 +714,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-checkbox-cells-building-a-click-to-toggle-dashboard-filter-without-vba-or-form-controls</loc>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1159,6 +1174,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-anomaly-detection-automatically-flagging-unusual-points-on-a-line-chart</loc>
     <lastmod>2026-09-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-edit-interactions-controlling-whether-one-visual-filters-highlights-or-ignores-another</loc>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
