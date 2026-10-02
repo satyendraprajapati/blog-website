@@ -217,6 +217,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-typescript-to-your-vite-react-blog-without-a-full-rewrite</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/auditing-and-fixing-accessibility-issues-on-your-react-blog-with-axe-devtools</loc>
     <lastmod>2026-08-20</lastmod>
     <priority>0.7</priority>
@@ -224,6 +229,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</loc>
     <lastmod>2026-07-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/automatically-emailing-an-excel-report-every-morning-with-power-automate-no-vba-required</loc>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -987,6 +997,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-datamarts-a-no-code-sql-layer-on-top-of-your-dataflows</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dax-all-allexcept-and-allselected-controlling-what-a-filter-removes</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>0.7</priority>
@@ -1604,6 +1619,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/xlookup-why-it-replaces-vlookup-for-data-analysts-and-when-it-doesnt</loc>
     <lastmod>2026-08-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/zooming-into-a-dense-chart-or-table-live-during-a-presentation-without-leaving-slide-show</loc>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding TypeScript to Your Vite + React Blog Without a Full Rewrite</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-typescript-to-your-vite-react-blog-without-a-full-rewrite</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-typescript-to-your-vite-react-blog-without-a-full-rewrite</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to introduce TypeScript into an existing JavaScript Vite + React blog one file at a time, instead of converting the whole codebase in one risky pass.</description>
+  </item>
+  <item>
+    <title>Automatically Emailing an Excel Report Every Morning with Power Automate (No VBA Required)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automatically-emailing-an-excel-report-every-morning-with-power-automate-no-vba-required</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automatically-emailing-an-excel-report-every-morning-with-power-automate-no-vba-required</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power Automate to email a live Excel report on a schedule, without writing a macro or opening the file yourself.</description>
+  </item>
+  <item>
+    <title>Power BI Datamarts: A No-Code SQL Layer on Top of Your Dataflows</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-datamarts-a-no-code-sql-layer-on-top-of-your-dataflows</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-datamarts-a-no-code-sql-layer-on-top-of-your-dataflows</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <description>What a Power BI datamart adds on top of a plain dataflow — a real queryable SQL database plus an auto-built dataset — and when that extra layer earns its keep.</description>
+  </item>
+  <item>
+    <title>Zooming Into a Dense Chart or Table Live During a Presentation Without Leaving Slide Show</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/zooming-into-a-dense-chart-or-table-live-during-a-presentation-without-leaving-slide-show</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/zooming-into-a-dense-chart-or-table-live-during-a-presentation-without-leaving-slide-show</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s built-in Slide Show zoom lets you temporarily magnify a cluttered chart or table during a live readout, without editing the slide or losing your place.</description>
+  </item>
+  <item>
     <title>Building a Radar (Spider) Chart Natively in PowerPoint to Compare Multiple Metrics at Once</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</guid>
