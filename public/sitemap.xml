@@ -47,6 +47,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</loc>
     <lastmod>2026-08-16</lastmod>
     <priority>0.7</priority>
@@ -299,6 +304,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</loc>
     <lastmod>2026-10-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-rag-red-amber-green-status-table-for-project-and-kpi-reporting-in-powerpoint</loc>
+    <lastmod>2026-10-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -737,6 +747,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-getpivotdata-function-pulling-fixed-numbers-out-of-a-pivottable-for-a-summary-dashboard</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-linked-data-types-turning-plain-text-into-live-stock-currency-and-geography-data</loc>
     <lastmod>2026-09-24</lastmod>
     <priority>0.7</priority>
@@ -1109,6 +1124,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-performance-analyzer-finding-and-fixing-slow-visuals</loc>
     <lastmod>2026-07-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-personal-bookmarks-letting-report-viewers-save-and-return-to-their-own-filtered-view</loc>
+    <lastmod>2026-10-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

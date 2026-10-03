@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a &apos;Download as PDF&apos; Button to Your Data Portfolio&apos;s Case Study Pages with react-to-print</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A recruiter who found one project page through a job application link shouldn&apos;t have to bookmark your whole site to revisit it later — a one-click PDF export gives them something they can actually save and forward.</description>
+  </item>
+  <item>
+    <title>Building a RAG (Red/Amber/Green) Status Table for Project and KPI Reporting in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-rag-red-amber-green-status-table-for-project-and-kpi-reporting-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-rag-red-amber-green-status-table-for-project-and-kpi-reporting-in-powerpoint</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A status report isn&apos;t really about the numbers, it&apos;s about which ones need attention right now — a RAG table answers that at a glance, before anyone reads a single figure.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s GETPIVOTDATA Function: Pulling Fixed Numbers Out of a PivotTable for a Summary Dashboard</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-getpivotdata-function-pulling-fixed-numbers-out-of-a-pivottable-for-a-summary-dashboard</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-getpivotdata-function-pulling-fixed-numbers-out-of-a-pivottable-for-a-summary-dashboard</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A PivotTable is great for exploring data but awkward to build a one-page dashboard on top of — GETPIVOTDATA lets you pull one fixed number out of it into any cell, formula, or chart title.</description>
+  </item>
+  <item>
+    <title>Power BI Personal Bookmarks: Letting Report Viewers Save and Return to Their Own Filtered View</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-personal-bookmarks-letting-report-viewers-save-and-return-to-their-own-filtered-view</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-personal-bookmarks-letting-report-viewers-save-and-return-to-their-own-filtered-view</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A regional manager who re-applies the same three slicer selections every Monday doesn&apos;t need edit access to your report — Personal Bookmarks let them save that exact view for themselves.</description>
+  </item>
+  <item>
     <title>Adding TypeScript to Your Vite + React Blog Without a Full Rewrite</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-typescript-to-your-vite-react-blog-without-a-full-rewrite</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-typescript-to-your-vite-react-blog-without-a-full-rewrite</guid>
