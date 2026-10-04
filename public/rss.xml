@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Honeypot Spam Protection to Your React Blog&apos;s Contact Form Without a CAPTCHA</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A contact form that works without a backend is still an open target for spam bots -- a honeypot field blocks most of them without making a real visitor solve a puzzle.</description>
+  </item>
+  <item>
+    <title>DAX COALESCE: A Cleaner Way to Handle Blanks Than Nested ISBLANK Checks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-coalesce-a-cleaner-way-to-handle-blanks-than-nested-isblank-checks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-coalesce-a-cleaner-way-to-handle-blanks-than-nested-isblank-checks</guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    <description>COALESCE returns the first non-blank value from a list of expressions, replacing a wall of nested IF(ISBLANK()) checks with one readable function.</description>
+  </item>
+  <item>
+    <title>Finding and Fixing Broken External Links in Excel Workbooks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/finding-and-fixing-broken-external-links-in-excel-workbooks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/finding-and-fixing-broken-external-links-in-excel-workbooks</guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Why a workbook that pulls numbers from another file quietly breaks when that file moves or gets renamed, and how to find, update, or remove the links causing it.</description>
+  </item>
+  <item>
+    <title>Linking a Live Excel Number Into Your PowerPoint Slide Text So a Stat Updates Itself</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/linking-a-live-excel-number-into-your-powerpoint-slide-text-so-a-stat-updates-itself</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/linking-a-live-excel-number-into-your-powerpoint-slide-text-so-a-stat-updates-itself</guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A linked chart or table updates on refresh, but a number typed directly into a slide&apos;s bullet text doesn&apos;t -- here&apos;s how to link a single Excel cell into a sentence so it does too.</description>
+  </item>
+  <item>
     <title>Adding a &apos;Download as PDF&apos; Button to Your Data Portfolio&apos;s Case Study Pages with react-to-print</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</guid>

@@ -152,6 +152,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-json-ld-structured-data-to-your-react-blog-for-rich-search-results</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -482,6 +487,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-coalesce-a-cleaner-way-to-handle-blanks-than-nested-isblank-checks</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-concatenatex-turning-filter-selections-into-dynamic-report-titles</loc>
     <lastmod>2026-09-07</lastmod>
     <priority>0.7</priority>
@@ -797,6 +807,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/finding-and-fixing-broken-external-links-in-excel-workbooks</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</loc>
     <lastmod>2026-07-15</lastmod>
     <priority>0.7</priority>
@@ -914,6 +929,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</loc>
     <lastmod>2026-09-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/linking-a-live-excel-number-into-your-powerpoint-slide-text-so-a-stat-updates-itself</loc>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
