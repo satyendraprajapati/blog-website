@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Lightweight Cookie Consent Banner to Your React Blog Without a Bloated Library</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-lightweight-cookie-consent-banner-to-your-react-blog-without-a-bloated-library</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-lightweight-cookie-consent-banner-to-your-react-blog-without-a-bloated-library</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Gating analytics behind a simple consent banner built with localStorage and a context provider, instead of pulling in a full consent-management library for a personal blog.</description>
+  </item>
+  <item>
+    <title>Building Reusable Hierarchies in Power BI&apos;s Model View</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-reusable-hierarchies-in-power-bis-model-view</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-reusable-hierarchies-in-power-bis-model-view</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Building a named hierarchy once in Model view, instead of re-stacking the same fields in every new visual, so drill-down behaves consistently across a whole report.</description>
+  </item>
+  <item>
+    <title>Power Query Parameters: Making a Query Reusable Without Editing the M Code</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-query-parameters-making-a-query-reusable-without-editing-the-m-code</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-query-parameters-making-a-query-reusable-without-editing-the-m-code</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a hard-coded file path or date filter in a Power Query step into a parameter you can change from a dropdown instead of editing M code.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Ink Equation Tool to Add Statistical Formulas to a Data Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-ink-equation-tool-to-add-statistical-formulas-to-a-data-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-ink-equation-tool-to-add-statistical-formulas-to-a-data-slide</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Hand-drawing a statistical formula with Ink Equation turns it into a clean, editable typeset equation instead of a screenshot or a shape built out of text boxes.</description>
+  </item>
+  <item>
     <title>Adding Honeypot Spam Protection to Your React Blog&apos;s Contact Form Without a CAPTCHA</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</guid>
