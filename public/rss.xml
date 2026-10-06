@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>BYROW, BYCOL, and MAP: Applying a Calculation Across Every Row or Column Without a Helper Column</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/byrow-bycol-and-map-applying-a-calculation-across-every-row-or-column-without-a-helper-column</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/byrow-bycol-and-map-applying-a-calculation-across-every-row-or-column-without-a-helper-column</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How BYROW, BYCOL, and MAP let you apply a custom calculation to every row, column, or pair of arrays at once, without a helper column dragged down the sheet.</description>
+  </item>
+  <item>
+    <title>DAX TOPN: Building a Dynamic Top N Measure With an &apos;Others&apos; Bucket</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-topn-building-a-dynamic-top-n-measure-with-an-others-bucket</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-topn-building-a-dynamic-top-n-measure-with-an-others-bucket</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to use TOPN to show only the top performing products or reps in a visual while rolling everyone else into a single &apos;Others&apos; total, instead of a long tail of small bars.</description>
+  </item>
+  <item>
+    <title>Turning a Jupyter Notebook Into a Shareable Static Web Page With nbconvert</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/turning-a-jupyter-notebook-into-a-shareable-static-web-page-with-nbconvert</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/turning-a-jupyter-notebook-into-a-shareable-static-web-page-with-nbconvert</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to export a Jupyter notebook to a clean, standalone HTML page with nbconvert so a non-technical stakeholder can see your analysis without opening Jupyter or GitHub.</description>
+  </item>
+  <item>
+    <title>Using Rehearse Timings to Make Sure Your Data Readout Fits a Fixed Meeting Slot</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-rehearse-timings-to-make-sure-your-data-readout-fits-a-fixed-meeting-slot</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-rehearse-timings-to-make-sure-your-data-readout-fits-a-fixed-meeting-slot</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s Rehearse Timings feature records exactly how long you spend on each slide, so you can find and fix the slide that&apos;s eating your 15-minute meeting slot before you&apos;re in front of the room.</description>
+  </item>
+  <item>
     <title>Adding a Lightweight Cookie Consent Banner to Your React Blog Without a Bloated Library</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-lightweight-cookie-consent-banner-to-your-react-blog-without-a-bloated-library</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-lightweight-cookie-consent-banner-to-your-react-blog-without-a-bloated-library</guid>

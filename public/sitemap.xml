@@ -387,6 +387,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/byrow-bycol-and-map-applying-a-calculation-across-every-row-or-column-without-a-helper-column</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/caching-parsed-csv-data-in-indexeddb-so-a-data-portfolios-big-dataset-only-loads-once</loc>
     <lastmod>2026-09-21</lastmod>
     <priority>0.7</priority>
@@ -564,6 +569,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-switch-replacing-nested-ifs-for-bucketing-and-tiering-measures</loc>
     <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-topn-building-a-dynamic-top-n-measure-with-an-others-bucket</loc>
+    <lastmod>2026-10-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1482,6 +1492,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-jupyter-notebook-into-a-shareable-static-web-page-with-nbconvert</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</loc>
     <lastmod>2026-08-17</lastmod>
     <priority>0.7</priority>
@@ -1624,6 +1639,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-presenter-coach-to-rehearse-a-data-readout-before-you-present-it</loc>
     <lastmod>2026-08-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-rehearse-timings-to-make-sure-your-data-readout-fits-a-fixed-meeting-slot</loc>
+    <lastmod>2026-10-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
