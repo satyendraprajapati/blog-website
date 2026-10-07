@@ -122,6 +122,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-vercel-serverless-function-to-hide-a-third-party-api-key-when-fetching-live-data-for-a-chart</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-auto-generated-table-of-contents-to-long-blog-posts-in-react</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
@@ -534,6 +539,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-keepfilters-adding-a-filter-without-overwriting-whats-already-there</loc>
     <lastmod>2026-09-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-lookupvalue-power-bis-answer-to-vlookup-for-analysts-coming-from-excel</loc>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -969,6 +979,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</loc>
     <lastmod>2026-08-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/median-mode-and-trimmean-excels-other-measures-of-central-tendency-beyond-average</loc>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1679,6 +1694,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/web-scraping-basics-for-data-analysts-pulling-data-from-a-website-with-python</loc>
     <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/when-native-charts-arent-enough-a-look-at-data-focused-powerpoint-add-ins-like-think-cell</loc>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

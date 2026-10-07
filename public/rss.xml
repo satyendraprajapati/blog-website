@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Vercel Serverless Function to Hide a Third-Party API Key When Fetching Live Data for a Chart</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-vercel-serverless-function-to-hide-a-third-party-api-key-when-fetching-live-data-for-a-chart</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-vercel-serverless-function-to-hide-a-third-party-api-key-when-fetching-live-data-for-a-chart</guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    <description>If a chart on your data portfolio needs a live API key, putting it in a Vite environment variable still ships it to every visitor&apos;s browser — here&apos;s how a Vercel serverless function keeps it server-side instead.</description>
+  </item>
+  <item>
+    <title>DAX LOOKUPVALUE: Power BI&apos;s Answer to VLOOKUP for Analysts Coming from Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-lookupvalue-power-bis-answer-to-vlookup-for-analysts-coming-from-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-lookupvalue-power-bis-answer-to-vlookup-for-analysts-coming-from-excel</guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When two tables aren&apos;t related and you just need to pull one value across, LOOKUPVALUE does the job VLOOKUP and XLOOKUP do in Excel — with a few DAX-specific rules to know first.</description>
+  </item>
+  <item>
+    <title>MEDIAN, MODE, and TRIMMEAN: Excel&apos;s Other Measures of Central Tendency (Beyond AVERAGE)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/median-mode-and-trimmean-excels-other-measures-of-central-tendency-beyond-average</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/median-mode-and-trimmean-excels-other-measures-of-central-tendency-beyond-average</guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    <description>AVERAGE isn&apos;t always the right summary number — when to reach for MEDIAN, MODE, or TRIMMEAN instead, and what each one protects you from.</description>
+  </item>
+  <item>
+    <title>When Native Charts Aren&apos;t Enough: A Look at Data-Focused PowerPoint Add-Ins Like Think-Cell</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/when-native-charts-arent-enough-a-look-at-data-focused-powerpoint-add-ins-like-think-cell</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/when-native-charts-arent-enough-a-look-at-data-focused-powerpoint-add-ins-like-think-cell</guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Native PowerPoint charts handle most data decks fine, but there&apos;s a point where a dedicated add-in starts saving real time -- here&apos;s how to tell if you&apos;ve hit it.</description>
+  </item>
+  <item>
     <title>BYROW, BYCOL, and MAP: Applying a Calculation Across Every Row or Column Without a Helper Column</title>
     <link>https://blog-website-navy-one.vercel.app/blog/byrow-bycol-and-map-applying-a-calculation-across-every-row-or-column-without-a-helper-column</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/byrow-bycol-and-map-applying-a-calculation-across-every-row-or-column-without-a-helper-column</guid>
