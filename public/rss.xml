@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a draft Flag to Markdown Frontmatter So Work-in-Progress Posts Never Reach Production</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-draft-flag-to-markdown-frontmatter-so-work-in-progress-posts-never-reach-production</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-draft-flag-to-markdown-frontmatter-so-work-in-progress-posts-never-reach-production</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A half-finished post saved into content/posts/ is picked up by Vite&apos;s import.meta.glob the moment you commit it -- a draft flag in frontmatter keeps it local until it&apos;s actually ready.</description>
+  </item>
+  <item>
+    <title>Building a Combo Chart with a Secondary Axis Natively in PowerPoint</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-combo-chart-with-a-secondary-axis-natively-in-powerpoint</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-combo-chart-with-a-secondary-axis-natively-in-powerpoint</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When revenue and a growth percentage sit on the same chart, one of them flattens into a straight line unless you give it its own axis -- PowerPoint builds that natively, no add-in required.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s DAX Query View: Testing and Debugging Measures Without Touching the Report Canvas</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-dax-query-view-testing-and-debugging-measures-without-touching-the-report-canvas</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-dax-query-view-testing-and-debugging-measures-without-touching-the-report-canvas</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    <description>DAX Query View lets you run EVALUATE statements straight against your model and see the result as a table instantly -- no scratch visual, no external tool required.</description>
+  </item>
+  <item>
+    <title>Using Copilot in Excel to Write Formulas, Explain Data, and Summarize a Sheet</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-excel-to-write-formulas-explain-data-and-summarize-a-sheet</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-excel-to-write-formulas-explain-data-and-summarize-a-sheet</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Copilot in Excel can write a formula from a plain-English request, explain one you inherited, and summarize a table in words -- here&apos;s where it actually earns its keep.</description>
+  </item>
+  <item>
     <title>Adding a Vercel Serverless Function to Hide a Third-Party API Key When Fetching Live Data for a Chart</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-vercel-serverless-function-to-hide-a-third-party-api-key-when-fetching-live-data-for-a-chart</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-vercel-serverless-function-to-hide-a-third-party-api-key-when-fetching-live-data-for-a-chart</guid>

@@ -52,6 +52,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-draft-flag-to-markdown-frontmatter-so-work-in-progress-posts-never-reach-production</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-favicon-and-web-app-manifest-to-your-react-blog</loc>
     <lastmod>2026-08-16</lastmod>
     <priority>0.7</priority>
@@ -289,6 +294,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-clickable-menu-slide-with-hyperlinks-and-action-buttons-for-a-self-serve-powerpoint-data-deck</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-combo-chart-with-a-secondary-axis-natively-in-powerpoint</loc>
+    <lastmod>2026-10-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1267,6 +1277,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-dax-query-view-testing-and-debugging-measures-without-touching-the-report-canvas</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-edit-interactions-controlling-whether-one-visual-filters-highlights-or-ignores-another</loc>
     <lastmod>2026-10-01</lastmod>
     <priority>0.7</priority>
@@ -1544,6 +1559,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-comments-and-version-history-in-powerpoint-for-stakeholder-review-cycles-on-data-decks</loc>
     <lastmod>2026-08-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-excel-to-write-formulas-explain-data-and-summarize-a-sheet</loc>
+    <lastmod>2026-10-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
