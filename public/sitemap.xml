@@ -27,6 +27,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-click-to-zoom-lightbox-for-dashboard-screenshots-in-your-react-blog-posts</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-contact-form-to-a-static-react-site-with-formspree</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -617,6 +622,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-poll-in-powerpoint-for-real-time-audience-feedback-on-a-data-readout</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-live-power-bi-dashboard-in-your-react-portfolio-site</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.7</priority>
@@ -819,6 +829,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-sequence-and-randarray-functions-generating-number-series-dates-and-sample-data-without-dragging-a-formula</loc>
     <lastmod>2026-09-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-stockhistory-function-pulling-historical-stock-and-currency-data-without-an-api</loc>
+    <lastmod>2026-10-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1719,6 +1734,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/when-native-charts-arent-enough-a-look-at-data-focused-powerpoint-add-ins-like-think-cell</loc>
     <lastmod>2026-10-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/why-power-bi-flags-implicit-measures-and-how-to-fix-them-with-explicit-dax</loc>
+    <lastmod>2026-10-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
