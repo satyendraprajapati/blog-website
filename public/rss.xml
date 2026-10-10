@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Loan Amortization Schedule in Excel with PMT, IPMT, and PPMT</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-loan-amortization-schedule-in-excel-with-pmt-ipmt-and-ppmt</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-loan-amortization-schedule-in-excel-with-pmt-ipmt-and-ppmt</guid>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to break a fixed loan payment into its interest and principal components row by row, instead of just knowing the total payment.</description>
+  </item>
+  <item>
+    <title>Building a Scatter or Bubble Chart Natively in PowerPoint to Show Correlation, Not Just Trend Over Time</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-scatter-or-bubble-chart-natively-in-powerpoint-to-show-correlation-not-just-trend-over-time</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-scatter-or-bubble-chart-natively-in-powerpoint-to-show-correlation-not-just-trend-over-time</guid>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to build a native PowerPoint scatter or bubble chart to show the relationship between two numeric variables, instead of forcing a line or bar chart to do that job.</description>
+  </item>
+  <item>
+    <title>Power BI Template Files (.pbit): Building a Reusable Report Shell Without the Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-template-files-pbit-building-a-reusable-report-shell-without-the-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-template-files-pbit-building-a-reusable-report-shell-without-the-data</guid>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to save a Power BI report&apos;s visuals, measures, and layout as a .pbit file so the next report starts from a finished shell instead of a blank canvas.</description>
+  </item>
+  <item>
+    <title>Validating Blog Post Frontmatter at Build Time with Zod</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/validating-blog-post-frontmatter-at-build-time-with-zod</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/validating-blog-post-frontmatter-at-build-time-with-zod</guid>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Using a Zod schema in a build-time script to catch a missing title, bad date, or malformed tags array before a broken post ever reaches production.</description>
+  </item>
+  <item>
     <title>Adding a Click-to-Zoom Lightbox for Dashboard Screenshots in Your React Blog Posts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-click-to-zoom-lightbox-for-dashboard-screenshots-in-your-react-blog-posts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-click-to-zoom-lightbox-for-dashboard-screenshots-in-your-react-blog-posts</guid>

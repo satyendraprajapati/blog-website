@@ -332,6 +332,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-loan-amortization-schedule-in-excel-with-pmt-ipmt-and-ppmt</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</loc>
     <lastmod>2026-10-01</lastmod>
     <priority>0.7</priority>
@@ -349,6 +354,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-reusable-slide-template-for-data-analysis-reports-in-powerpoint</loc>
     <lastmod>2026-07-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-scatter-or-bubble-chart-natively-in-powerpoint-to-show-correlation-not-just-trend-over-time</loc>
+    <lastmod>2026-10-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1252,6 +1262,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-template-files-pbit-building-a-reusable-report-shell-without-the-data</loc>
+    <lastmod>2026-10-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-time-intelligence-comparing-this-period-to-last-year</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -1719,6 +1734,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-vercel-preview-deployments-to-review-blog-changes-before-they-go-live</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/validating-blog-post-frontmatter-at-build-time-with-zod</loc>
+    <lastmod>2026-10-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
