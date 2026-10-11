@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Lightweight i18n to Your React Blog Without a Translation Library</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-lightweight-i18n-to-your-react-blog-without-a-translation-library</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-lightweight-i18n-to-your-react-blog-without-a-translation-library</guid>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A plain-object translation setup for a small React data portfolio, for when a full i18next install is more machinery than a handful of UI strings need.</description>
+  </item>
+  <item>
+    <title>DAX ADDCOLUMNS and GENERATE: Building a Virtual Table Inside a Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-addcolumns-and-generate-building-a-virtual-table-inside-a-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-addcolumns-and-generate-building-a-virtual-table-inside-a-measure</guid>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to build a one-off calculated table inside a DAX measure with ADDCOLUMNS and GENERATE, for calculations that need an intermediate step a single formula can&apos;t express.</description>
+  </item>
+  <item>
+    <title>Saving a Custom PowerPoint Theme So Every Data Deck Matches Your Brand</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/saving-a-custom-powerpoint-theme-so-every-data-deck-matches-your-brand</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/saving-a-custom-powerpoint-theme-so-every-data-deck-matches-your-brand</guid>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How PowerPoint&apos;s Design &gt; Variants &gt; Save Current Theme turns your colors and fonts into a reusable .thmx file you can apply to any deck, not just the one you built it in.</description>
+  </item>
+  <item>
+    <title>Using Excel&apos;s IMAGE Function to Pull Pictures Directly Into Cells</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excels-image-function-to-pull-pictures-directly-into-cells</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excels-image-function-to-pull-pictures-directly-into-cells</guid>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How Excel&apos;s IMAGE function puts an actual picture inside a cell so product shots, logos, and ID photos can live next to your data instead of floating over it.</description>
+  </item>
+  <item>
     <title>Building a Loan Amortization Schedule in Excel with PMT, IPMT, and PPMT</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-loan-amortization-schedule-in-excel-with-pmt-ipmt-and-ppmt</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-loan-amortization-schedule-in-excel-with-pmt-ipmt-and-ppmt</guid>

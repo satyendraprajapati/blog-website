@@ -192,6 +192,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-lightweight-i18n-to-your-react-blog-without-a-translation-library</loc>
+    <lastmod>2026-10-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-open-graph-and-twitter-card-meta-tags-to-your-react-blog</loc>
     <lastmod>2026-07-24</lastmod>
     <priority>0.7</priority>
@@ -524,6 +529,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</loc>
     <lastmod>2026-07-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-addcolumns-and-generate-building-a-virtual-table-inside-a-measure</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1472,6 +1482,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/saving-a-custom-powerpoint-theme-so-every-data-deck-matches-your-brand</loc>
+    <lastmod>2026-10-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/self-hosting-google-fonts-in-a-vite-react-blog-to-cut-a-render-blocking-request</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
@@ -1599,6 +1614,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-excel-form-controls-to-build-an-interactive-dashboard-without-a-single-slicer</loc>
     <lastmod>2026-09-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-image-function-to-pull-pictures-directly-into-cells</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
