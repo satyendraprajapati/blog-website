@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Footnotes and Source Citations to Data-Analysis Posts with remark-gfm</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A data-analysis blog lives or dies on citing its sources, and remark-gfm&apos;s footnote syntax handles that in plain Markdown with no custom components.</description>
+  </item>
+  <item>
+    <title>Building a Data Entry Form in Excel with the Hidden Form Command</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-data-entry-form-in-excel-with-the-hidden-form-command</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-data-entry-form-in-excel-with-the-hidden-form-command</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s old Form command gives you a validated, one-record-at-a-time entry screen for a table, with no VBA and no add-in.</description>
+  </item>
+  <item>
+    <title>DAX UNION, INTERSECT, and EXCEPT: Combining and Comparing Tables Without a Merge</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-union-intersect-and-except-combining-and-comparing-tables-without-a-merge</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-union-intersect-and-except-combining-and-comparing-tables-without-a-merge</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Three table functions let you stack, intersect, or diff tables inside a DAX measure instead of reaching for Power Query.</description>
+  </item>
+  <item>
+    <title>Repairing Broken Links to Excel Data in PowerPoint with Edit Links to Files</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/repairing-broken-links-to-excel-data-in-powerpoint-with-edit-links-to-files</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/repairing-broken-links-to-excel-data-in-powerpoint-with-edit-links-to-files</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When a linked chart or table goes stale or shows an error after a file move, Edit Links to Files is where you re-point it without rebuilding the slide.</description>
+  </item>
+  <item>
     <title>Adding Lightweight i18n to Your React Blog Without a Translation Library</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-lightweight-i18n-to-your-react-blog-without-a-translation-library</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-lightweight-i18n-to-your-react-blog-without-a-translation-library</guid>

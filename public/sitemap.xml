@@ -172,6 +172,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-honeypot-spam-protection-to-your-react-blogs-contact-form-without-a-captcha</loc>
     <lastmod>2026-10-04</lastmod>
     <priority>0.7</priority>
@@ -309,6 +314,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-combo-chart-with-a-secondary-axis-natively-in-powerpoint</loc>
     <lastmod>2026-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-data-entry-form-in-excel-with-the-hidden-form-command</loc>
+    <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -619,6 +629,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-topn-building-a-dynamic-top-n-measure-with-an-others-bucket</loc>
     <lastmod>2026-10-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-union-intersect-and-except-combining-and-comparing-tables-without-a-merge</loc>
+    <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1459,6 +1474,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</loc>
     <lastmod>2026-08-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/repairing-broken-links-to-excel-data-in-powerpoint-with-edit-links-to-files</loc>
+    <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
