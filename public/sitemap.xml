@@ -397,6 +397,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-an-interactive-dashboard-with-plotly-dash-a-python-alternative-to-streamlit</loc>
     <lastmod>2026-09-27</lastmod>
     <priority>0.7</priority>
@@ -414,6 +419,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-rolling-12-month-totals-and-moving-averages-in-excel</loc>
     <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-self-documenting-excel-reports-with-cell-and-info-functions</loc>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1332,6 +1342,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-column-profiling-tools-quality-distribution-and-statistics-in-power-query</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-dax-query-view-testing-and-debugging-measures-without-touching-the-report-canvas</loc>
     <lastmod>2026-10-08</lastmod>
     <priority>0.7</priority>
@@ -1779,6 +1794,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/validating-blog-post-frontmatter-at-build-time-with-zod</loc>
     <lastmod>2026-10-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/visualizing-geographic-data-with-leafletjs-a-beginners-guide-for-data-analysts</loc>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

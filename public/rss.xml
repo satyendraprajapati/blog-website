@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Treemap or Sunburst Chart Natively in PowerPoint for Hierarchical Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When your data has a region-within-category-within-total structure, a treemap or sunburst shows the hierarchy a stacked bar chart can only hint at.</description>
+  </item>
+  <item>
+    <title>Building Self-Documenting Excel Reports With CELL and INFO Functions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-self-documenting-excel-reports-with-cell-and-info-functions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-self-documenting-excel-reports-with-cell-and-info-functions</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A footer formula that stamps a workbook with its own file path and last-calculated time, so a handed-off report never gets separated from the context it needs.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Column Profiling Tools: Quality, Distribution, and Statistics in Power Query</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-column-profiling-tools-quality-distribution-and-statistics-in-power-query</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-column-profiling-tools-quality-distribution-and-statistics-in-power-query</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Three panels in the Power Query Editor that show you exactly how messy a column is before you write a single transformation step.</description>
+  </item>
+  <item>
+    <title>Visualizing Geographic Data With Leaflet.js: A Beginner&apos;s Guide for Data Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/visualizing-geographic-data-with-leafletjs-a-beginners-guide-for-data-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/visualizing-geographic-data-with-leafletjs-a-beginners-guide-for-data-analysts</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to drop an interactive, zoomable map of your location data into a React page with Leaflet.js, without a paid mapping API key.</description>
+  </item>
+  <item>
     <title>Adding Footnotes and Source Citations to Data-Analysis Posts with remark-gfm</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</guid>
