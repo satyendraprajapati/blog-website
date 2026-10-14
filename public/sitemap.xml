@@ -277,6 +277,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/automating-power-bi-dataset-refreshes-with-the-power-bi-rest-api</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automating-powerpoint-reports-with-python-pptx</loc>
     <lastmod>2026-07-21</lastmod>
     <priority>0.7</priority>
@@ -399,6 +404,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</loc>
     <lastmod>2026-10-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-year-and-month-archive-page-for-your-react-blog</loc>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -869,6 +879,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-quick-analysis-tool-one-click-totals-formatting-and-mini-charts-for-a-selected-range</loc>
     <lastmod>2026-09-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-report-connections-one-slicer-controlling-multiple-pivottables</loc>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1424,6 +1439,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-align-distribute-and-smart-guides-for-pixel-perfect-data-slide-layouts</loc>
     <lastmod>2026-08-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-edit-data-in-excel-updating-a-native-charts-numbers-without-reinserting-it</loc>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

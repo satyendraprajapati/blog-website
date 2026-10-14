@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Automating Power BI Dataset Refreshes with the Power BI REST API</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automating-power-bi-dataset-refreshes-with-the-power-bi-rest-api</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automating-power-bi-dataset-refreshes-with-the-power-bi-rest-api</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to kick off a Power BI dataset refresh from outside the Power BI Service, using the REST API instead of waiting on the built-in Scheduled Refresh clock.</description>
+  </item>
+  <item>
+    <title>Building a Year-and-Month Archive Page for Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-year-and-month-archive-page-for-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-year-and-month-archive-page-for-your-react-blog</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to group every post by year and month into a browsable archive page, for readers who want to skim your blog&apos;s history instead of scrolling the main feed.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Report Connections: One Slicer Controlling Multiple PivotTables</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-report-connections-one-slicer-controlling-multiple-pivottables</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-report-connections-one-slicer-controlling-multiple-pivottables</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to wire a single Slicer to filter several PivotTables at once with Report Connections, instead of clicking a separate filter on every table in a one-page summary.</description>
+  </item>
+  <item>
+    <title>PowerPoint&apos;s Edit Data in Excel: Updating a Native Chart&apos;s Numbers Without Reinserting It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoints-edit-data-in-excel-updating-a-native-charts-numbers-without-reinserting-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoints-edit-data-in-excel-updating-a-native-charts-numbers-without-reinserting-it</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to update the numbers behind a native PowerPoint chart without deleting it and starting over, using the Edit Data in Excel panel every chart already carries.</description>
+  </item>
+  <item>
     <title>Building a Treemap or Sunburst Chart Natively in PowerPoint for Hierarchical Data</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-treemap-or-sunburst-chart-natively-in-powerpoint-for-hierarchical-data</guid>
