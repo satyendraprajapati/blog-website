@@ -347,6 +347,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-lightweight-web-app-on-google-sheets-data-with-google-apps-script-no-server-required</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-live-composite-summary-slide-in-powerpoint-by-linking-multiple-excel-ranges-as-pictures</loc>
     <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
@@ -904,6 +909,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-watch-window-monitoring-key-cells-across-a-large-workbook-without-scrolling</loc>
     <lastmod>2026-09-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-xmatch-function-a-more-flexible-replacement-for-match-in-lookup-formulas</loc>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1477,6 +1487,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/python-and-r-visuals-in-power-bi-embedding-custom-charts-native-visuals-cant-make</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/python-in-excel-running-pandas-analysis-inside-a-cell-with-py</loc>
     <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
@@ -1664,6 +1679,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-excel-to-write-formulas-explain-data-and-summarize-a-sheet</loc>
     <lastmod>2026-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-powerpoint-to-turn-a-data-analysis-draft-into-a-polished-slide-deck</loc>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
