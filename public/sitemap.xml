@@ -427,6 +427,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-in-cell-data-bars-inside-a-powerpoint-table-to-mimic-excels-conditional-formatting</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-reusable-hierarchies-in-power-bis-model-view</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -824,6 +829,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excel-tables-structured-references-for-formulas-that-dont-break</loc>
     <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excel-tables-totals-row-one-click-column-summaries-without-a-formula</loc>
+    <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1412,6 +1422,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-on-premises-data-gateway-connecting-cloud-reports-to-local-data</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-personalize-this-visual-letting-viewers-change-a-chart-type-without-editing-the-report</loc>
     <lastmod>2026-09-15</lastmod>
     <priority>0.7</priority>
@@ -1684,6 +1699,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-copilot-in-powerpoint-to-turn-a-data-analysis-draft-into-a-polished-slide-deck</loc>
     <lastmod>2026-10-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-css-container-queries-to-make-blog-post-cards-responsive-to-their-container-not-the-viewport</loc>
+    <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

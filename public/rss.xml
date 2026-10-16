@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building In-Cell Data Bars Inside a PowerPoint Table to Mimic Excel&apos;s Conditional Formatting</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-in-cell-data-bars-inside-a-powerpoint-table-to-mimic-excels-conditional-formatting</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-in-cell-data-bars-inside-a-powerpoint-table-to-mimic-excels-conditional-formatting</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint tables have no built-in data bars like Excel&apos;s conditional formatting -- stacking thin rectangle shapes behind the numbers gets you the same at-a-glance magnitude cue natively.</description>
+  </item>
+  <item>
+    <title>Excel Tables&apos; Totals Row: One-Click Column Summaries Without a Formula</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-tables-totals-row-one-click-column-summaries-without-a-formula</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-tables-totals-row-one-click-column-summaries-without-a-formula</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <description>An Excel Table&apos;s built-in Totals Row gives you a SUM, AVERAGE, or COUNT per column from a dropdown, without writing a single formula or worrying about it breaking when the table grows.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s On-Premises Data Gateway: Connecting Cloud Reports to Local Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-on-premises-data-gateway-connecting-cloud-reports-to-local-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-on-premises-data-gateway-connecting-cloud-reports-to-local-data</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When a dataset&apos;s source is a local SQL Server or a network file share, a published Power BI report can&apos;t reach it directly -- the On-Premises Data Gateway is the piece that bridges the two.</description>
+  </item>
+  <item>
+    <title>Using CSS Container Queries to Make Blog Post Cards Responsive to Their Container, Not the Viewport</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-css-container-queries-to-make-blog-post-cards-responsive-to-their-container-not-the-viewport</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-css-container-queries-to-make-blog-post-cards-responsive-to-their-container-not-the-viewport</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A PostCard that looks right in a 3-column grid often breaks when you reuse it in a narrow sidebar -- container queries let the card respond to its own width instead of the browser window&apos;s.</description>
+  </item>
+  <item>
     <title>Building a Lightweight Web App on Google Sheets Data with Google Apps Script (No Server Required)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-lightweight-web-app-on-google-sheets-data-with-google-apps-script-no-server-required</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-lightweight-web-app-on-google-sheets-data-with-google-apps-script-no-server-required</guid>
