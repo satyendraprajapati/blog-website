@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a 100% Stacked Bar Chart in PowerPoint to Show Share of Total, Not Just Totals</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-100-stacked-bar-chart-in-powerpoint-to-show-share-of-total-not-just-totals</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-100-stacked-bar-chart-in-powerpoint-to-show-share-of-total-not-just-totals</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When the story is about composition rather than magnitude, a 100% stacked bar chart makes the share of each category the whole point of the chart.</description>
+  </item>
+  <item>
+    <title>Building a Custom Interactive Chart with D3.js: A Beginner&apos;s Guide for Data Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-custom-interactive-chart-with-d3js-a-beginners-guide-for-data-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-custom-interactive-chart-with-d3js-a-beginners-guide-for-data-analysts</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <description>An introduction to D3.js for analysts who are comfortable with Excel or Power BI charts and want to build a visualization no canned chart library offers.</description>
+  </item>
+  <item>
+    <title>Building a Gantt Chart in Excel with Conditional Formatting (No Add-In Required)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-chart-in-excel-with-conditional-formatting-no-add-in-required</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-chart-in-excel-with-conditional-formatting-no-add-in-required</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Turn a plain task list into a Gantt-style project timeline using nothing but a formula and conditional formatting.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Lineage View: Tracing How Your Data Flows from Source to Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-lineage-view-tracing-how-your-data-flows-from-source-to-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-lineage-view-tracing-how-your-data-flows-from-source-to-report</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Use Power BI&apos;s Lineage View to see exactly which dataflows, datasets, and reports depend on each other before you change or delete anything.</description>
+  </item>
+  <item>
     <title>Building In-Cell Data Bars Inside a PowerPoint Table to Mimic Excel&apos;s Conditional Formatting</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-in-cell-data-bars-inside-a-powerpoint-table-to-mimic-excels-conditional-formatting</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-in-cell-data-bars-inside-a-powerpoint-table-to-mimic-excels-conditional-formatting</guid>

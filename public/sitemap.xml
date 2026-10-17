@@ -307,6 +307,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-100-stacked-bar-chart-in-powerpoint-to-show-share-of-total-not-just-totals</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-bump-chart-to-show-ranking-changes-over-time-natively-in-powerpoint</loc>
     <lastmod>2026-09-22</lastmod>
     <priority>0.7</priority>
@@ -322,8 +327,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-custom-interactive-chart-with-d3js-a-beginners-guide-for-data-analysts</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-data-entry-form-in-excel-with-the-hidden-form-command</loc>
     <lastmod>2026-10-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-chart-in-excel-with-conditional-formatting-no-add-in-required</loc>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1414,6 +1429,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-key-influencers-visual-letting-the-report-find-whats-driving-a-metric</loc>
     <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-lineage-view-tracing-how-your-data-flows-from-source-to-report</loc>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
