@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Custom Visuals from AppSource to Power BI: Extending Beyond the Default Visual Gallery</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-custom-visuals-from-appsource-to-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-custom-visuals-from-appsource-to-power-bi</guid>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Power BI&apos;s built-in visual gallery doesn&apos;t cover everything a report needs -- AppSource&apos;s library of free and certified custom visuals fills the gap without writing a line of code.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Go To Special: Selecting Blanks, Visible Cells Only, and Formulas Without Scrolling</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-go-to-special-selecting-blanks-visible-cells-and-formulas-without-scrolling</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-go-to-special-selecting-blanks-visible-cells-and-formulas-without-scrolling</guid>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Go To Special selects cells by what they contain instead of where they sit, which turns several slow manual cleanup tasks in Excel into one dialog and a click.</description>
+  </item>
+  <item>
+    <title>Grouping, Layering, and Z-Order in PowerPoint: Building Complex Data Slide Compositions Without Losing Track of Objects</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/grouping-layering-and-z-order-in-powerpoint-for-complex-data-slide-compositions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/grouping-layering-and-z-order-in-powerpoint-for-complex-data-slide-compositions</guid>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A data slide with a chart, callouts, icons, and a background shape quickly turns into a pile of overlapping objects -- grouping and z-order keep it manageable.</description>
+  </item>
+  <item>
+    <title>Respecting prefers-reduced-motion in Your React Blog&apos;s Chart Animations and Page Transitions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/respecting-prefers-reduced-motion-in-your-react-blogs-chart-animations-and-page-transitions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/respecting-prefers-reduced-motion-in-your-react-blogs-chart-animations-and-page-transitions</guid>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A data blog full of animated charts and page transitions can trigger real discomfort for visitors with vestibular disorders -- prefers-reduced-motion lets you keep the polish for everyone else.</description>
+  </item>
+  <item>
     <title>Building a 100% Stacked Bar Chart in PowerPoint to Show Share of Total, Not Just Totals</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-100-stacked-bar-chart-in-powerpoint-to-show-share-of-total-not-just-totals</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-100-stacked-bar-chart-in-powerpoint-to-show-share-of-total-not-just-totals</guid>

@@ -167,6 +167,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-custom-visuals-from-appsource-to-power-bi</loc>
+    <lastmod>2026-10-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-deep-linkable-anchor-links-to-blog-post-headings-in-react</loc>
     <lastmod>2026-09-04</lastmod>
     <priority>0.7</priority>
@@ -897,6 +902,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-go-to-special-selecting-blanks-visible-cells-and-formulas-without-scrolling</loc>
+    <lastmod>2026-10-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-linked-data-types-turning-plain-text-into-live-stock-currency-and-geography-data</loc>
     <lastmod>2026-09-24</lastmod>
     <priority>0.7</priority>
@@ -1034,6 +1044,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/grouping-and-binning-data-in-power-bi-without-writing-a-dax-measure</loc>
     <lastmod>2026-09-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/grouping-layering-and-z-order-in-powerpoint-for-complex-data-slide-compositions</loc>
+    <lastmod>2026-10-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1569,6 +1584,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/reshaping-data-with-excels-vstack-hstack-tocol-and-torow-functions</loc>
     <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/respecting-prefers-reduced-motion-in-your-react-blogs-chart-animations-and-page-transitions</loc>
+    <lastmod>2026-10-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
