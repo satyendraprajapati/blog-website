@@ -587,6 +587,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</loc>
+    <lastmod>2026-10-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/data-analyst-portfolio-and-interview-tips</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -609,6 +614,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-concatenatex-turning-filter-selections-into-dynamic-report-titles</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-datesinperiod-and-dateadd-building-custom-time-windows-beyond-power-bis-built-in-time-intelligence</loc>
+    <lastmod>2026-10-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -937,6 +947,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-text-function-formatting-numbers-and-dates-inside-a-formula-string</loc>
+    <lastmod>2026-10-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-treemap-sunburst-and-map-charts-native-chart-types-beyond-bar-and-line</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
@@ -994,6 +1009,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/formatting-data-tables-in-powerpoint-so-theyre-actually-readable</loc>
     <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/formatting-dates-consistently-in-your-react-blog-with-intl-datetimeformat</loc>
+    <lastmod>2026-10-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

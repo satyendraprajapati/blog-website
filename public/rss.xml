@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Customizing the Quick Access Toolbar and Ribbon in PowerPoint to Speed Up Building Data Decks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The commands you use most for data decks -- Align, Send Backward, Paste Special -- are usually buried two or three clicks deep until you pin them where you can reach them in one.</description>
+  </item>
+  <item>
+    <title>DAX DATESINPERIOD and DATEADD: Building Custom Time Windows Beyond Power BI&apos;s Built-In Time Intelligence</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-datesinperiod-and-dateadd-building-custom-time-windows-beyond-power-bis-built-in-time-intelligence</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-datesinperiod-and-dateadd-building-custom-time-windows-beyond-power-bis-built-in-time-intelligence</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    <description>SAMEPERIODLASTYEAR covers the standard year-over-year comparison -- DATESINPERIOD and DATEADD cover every time window that doesn&apos;t line up with a calendar boundary.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s TEXT Function: Formatting Numbers and Dates Inside a Formula String</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-text-function-formatting-numbers-and-dates-inside-a-formula-string</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-text-function-formatting-numbers-and-dates-inside-a-formula-string</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Cell formatting changes how a number looks, not what a formula sees -- the TEXT function is how you bake a specific format into the string itself.</description>
+  </item>
+  <item>
+    <title>Formatting Dates Consistently in Your React Blog with Intl.DateTimeFormat</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/formatting-dates-consistently-in-your-react-blog-with-intl-datetimeformat</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/formatting-dates-consistently-in-your-react-blog-with-intl-datetimeformat</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A post date, a case-study timeline, and a chart axis label all end up formatted differently when each component hand-rolls its own date string -- Intl.DateTimeFormat fixes that with no library.</description>
+  </item>
+  <item>
     <title>Adding Custom Visuals from AppSource to Power BI: Extending Beyond the Default Visual Gallery</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-custom-visuals-from-appsource-to-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-custom-visuals-from-appsource-to-power-bi</guid>
