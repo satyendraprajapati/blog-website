@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>End-to-End Testing Your React Blog&apos;s Critical Flows with Playwright</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/end-to-end-testing-your-react-blogs-critical-flows-with-playwright</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/end-to-end-testing-your-react-blogs-critical-flows-with-playwright</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to add Playwright end-to-end tests that click through your React blog&apos;s real user flows instead of only unit-testing components in isolation.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s CHOOSE Function: Picking a Value from a List by Position</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-choose-function-picking-a-value-from-a-list-by-position</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-choose-function-picking-a-value-from-a-list-by-position</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How CHOOSE lets you pick one value out of a list by its position, for building scenario toggles and flexible lookups without a chain of nested IFs.</description>
+  </item>
+  <item>
+    <title>Power BI Projects (.pbip): Version-Controlling Your Reports with Git</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-projects-pbip-version-controlling-your-reports-with-git</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-projects-pbip-version-controlling-your-reports-with-git</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How enabling Power BI Project files turns a binary .pbix into readable, diffable text so you can actually track changes to a report in Git.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Document Inspector to Strip Hidden Data Before Sending a Deck Externally</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-document-inspector-to-strip-hidden-data-before-sending-a-deck-externally</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-document-inspector-to-strip-hidden-data-before-sending-a-deck-externally</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to run PowerPoint&apos;s Document Inspector to catch speaker notes, hidden slides, comments, and personal information before a data deck leaves your organization.</description>
+  </item>
+  <item>
     <title>Customizing the Quick Access Toolbar and Ribbon in PowerPoint to Speed Up Building Data Decks</title>
     <link>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</guid>

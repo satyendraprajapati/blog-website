@@ -747,6 +747,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/end-to-end-testing-your-react-blogs-critical-flows-with-playwright</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/environment-variables-in-vite-keeping-api-keys-out-of-your-react-blogs-source-code</loc>
     <lastmod>2026-08-08</lastmod>
     <priority>0.7</priority>
@@ -899,6 +904,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-checkbox-cells-building-a-click-to-toggle-dashboard-filter-without-vba-or-form-controls</loc>
     <lastmod>2026-10-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-choose-function-picking-a-value-from-a-list-by-position</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1344,6 +1354,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-power-query-append-vs-merge-queries-combining-data-the-right-way</loc>
     <lastmod>2026-09-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-projects-pbip-version-controlling-your-reports-with-git</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1824,6 +1839,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-document-inspector-to-strip-hidden-data-before-sending-a-deck-externally</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
