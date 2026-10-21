@@ -452,6 +452,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-native-histogram-pareto-and-box-whisker-charts-in-powerpoint-for-statistical-data-slides</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-reusable-hierarchies-in-power-bis-model-view</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -1047,6 +1052,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/generating-per-tag-rss-feeds-for-your-react-blog-so-readers-can-subscribe-to-just-one-topic</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/getting-data-from-a-website-or-pdf-into-excel-with-power-query</loc>
     <lastmod>2026-08-31</lastmod>
     <priority>0.7</priority>
@@ -1349,6 +1359,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-personal-bookmarks-letting-report-viewers-save-and-return-to-their-own-filtered-view</loc>
     <lastmod>2026-10-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-perspectives-giving-different-teams-a-simplified-view-of-a-large-data-model</loc>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1719,6 +1734,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
     <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/the-personal-macro-workbook-making-your-excel-macros-available-in-every-workbook-you-open</loc>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building Native Histogram, Pareto, and Box &amp; Whisker Charts in PowerPoint for Statistical Data Slides</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-native-histogram-pareto-and-box-whisker-charts-in-powerpoint-for-statistical-data-slides</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-native-histogram-pareto-and-box-whisker-charts-in-powerpoint-for-statistical-data-slides</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to insert PowerPoint&apos;s built-in statistical chart types directly on a slide, instead of pasting a static image from Excel every time the numbers change.</description>
+  </item>
+  <item>
+    <title>Generating Per-Tag RSS Feeds for Your React Blog So Readers Can Subscribe to Just One Topic</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/generating-per-tag-rss-feeds-for-your-react-blog-so-readers-can-subscribe-to-just-one-topic</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/generating-per-tag-rss-feeds-for-your-react-blog-so-readers-can-subscribe-to-just-one-topic</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Extending a Markdown blog&apos;s feed-generation script to output one RSS feed per tag, so a reader who only cares about Power BI isn&apos;t subscribed to your PowerPoint posts too.</description>
+  </item>
+  <item>
+    <title>Power BI Perspectives: Giving Different Teams a Simplified View of a Large Data Model</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-perspectives-giving-different-teams-a-simplified-view-of-a-large-data-model</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-perspectives-giving-different-teams-a-simplified-view-of-a-large-data-model</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to use Perspectives to show each team only the tables and fields relevant to them, without duplicating the model or hiding fields for everyone.</description>
+  </item>
+  <item>
+    <title>The Personal Macro Workbook: Making Your Excel Macros Available in Every Workbook You Open</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/the-personal-macro-workbook-making-your-excel-macros-available-in-every-workbook-you-open</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/the-personal-macro-workbook-making-your-excel-macros-available-in-every-workbook-you-open</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to store your everyday Excel macros in PERSONAL.XLSB so they run from the Quick Access Toolbar in any workbook, instead of rebuilding them in every new file.</description>
+  </item>
+  <item>
     <title>End-to-End Testing Your React Blog&apos;s Critical Flows with Playwright</title>
     <link>https://blog-website-navy-one.vercel.app/blog/end-to-end-testing-your-react-blogs-critical-flows-with-playwright</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/end-to-end-testing-your-react-blogs-critical-flows-with-playwright</guid>
