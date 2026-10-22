@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX DATEDIFF: Calculating Tenure, Age, and Days-Since Metrics in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-datediff-calculating-tenure-age-and-days-since-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-datediff-calculating-tenure-age-and-days-since-in-power-bi</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <description>DATEDIFF turns two date columns into a clean duration measure -- customer tenure, days since last order, time to ship -- without a subtraction and a manual unit conversion.</description>
+  </item>
+  <item>
+    <title>Letting Readers Drag-and-Drop Their Own CSV Into a Blog Post to Preview It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/letting-readers-drag-and-drop-their-own-csv-into-a-blog-post-to-preview-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/letting-readers-drag-and-drop-their-own-csv-into-a-blog-post-to-preview-it</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A client-side file drop zone that lets a visitor preview their own CSV in a table right inside a post, with nothing ever leaving their browser.</description>
+  </item>
+  <item>
+    <title>Setting Up Slide Numbers, Footers, and Date Stamps Across a PowerPoint Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-slide-numbers-footers-and-date-stamps-across-a-powerpoint-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-slide-numbers-footers-and-date-stamps-across-a-powerpoint-data-deck</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The Header &amp; Footer dialog handles slide numbers, dates, and a footer label across a whole deck in one pass -- here&apos;s how to set it up without typing any of it by hand.</description>
+  </item>
+  <item>
+    <title>TEXTJOIN and CONCAT: Combining Cells Into Clean, Report-Ready Text in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/textjoin-and-concat-combining-cells-into-clean-report-ready-text-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/textjoin-and-concat-combining-cells-into-clean-report-ready-text-in-excel</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A dedicated look at TEXTJOIN and CONCAT for building full names, labels, and concatenated keys without a string of &amp; signs.</description>
+  </item>
+  <item>
     <title>Building Native Histogram, Pareto, and Box &amp; Whisker Charts in PowerPoint for Statistical Data Slides</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-native-histogram-pareto-and-box-whisker-charts-in-powerpoint-for-statistical-data-slides</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-native-histogram-pareto-and-box-whisker-charts-in-powerpoint-for-statistical-data-slides</guid>

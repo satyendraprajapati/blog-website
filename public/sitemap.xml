@@ -622,6 +622,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-datediff-calculating-tenure-age-and-days-since-in-power-bi</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-datesinperiod-and-dateadd-building-custom-time-windows-beyond-power-bis-built-in-time-intelligence</loc>
     <lastmod>2026-10-19</lastmod>
     <priority>0.7</priority>
@@ -1134,6 +1139,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</loc>
     <lastmod>2026-09-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/letting-readers-drag-and-drop-their-own-csv-into-a-blog-post-to-preview-it</loc>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1687,6 +1697,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-slide-numbers-footers-and-date-stamps-across-a-powerpoint-data-deck</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/showing-a-last-updated-date-on-blog-posts-using-git-history</loc>
     <lastmod>2026-09-29</lastmod>
     <priority>0.7</priority>
@@ -1734,6 +1749,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/testing-your-react-blogs-markdown-parsing-logic-with-vitest</loc>
     <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/textjoin-and-concat-combining-cells-into-clean-report-ready-text-in-excel</loc>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
