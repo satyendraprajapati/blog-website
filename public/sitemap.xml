@@ -1587,6 +1587,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/printing-powerpoint-data-decks-handout-layouts-grayscale-preview-and-avoiding-washed-out-charts</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/protecting-excel-workbooks-and-worksheets-for-handoff-locking-formulas-while-keeping-inputs-editable</loc>
     <lastmod>2026-09-06</lastmod>
     <priority>0.7</priority>
@@ -1677,6 +1682,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/sensitivity-labels-in-power-bi-classifying-and-protecting-confidential-reports-and-datasets</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</loc>
     <lastmod>2026-08-06</lastmod>
     <priority>0.7</priority>
@@ -1684,6 +1694,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-self-running-looping-data-deck-for-an-office-display-or-kiosk-in-powerpoint</loc>
     <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-dependabot-to-keep-your-react-blogs-dependencies-patched-automatically</loc>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1824,6 +1839,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-excel-form-controls-to-build-an-interactive-dashboard-without-a-single-slicer</loc>
     <lastmod>2026-09-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-document-inspector-to-find-and-remove-hidden-data-before-sharing-a-workbook</loc>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

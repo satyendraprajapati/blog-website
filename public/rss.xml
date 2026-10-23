@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Printing PowerPoint Data Decks: Handout Layouts, Grayscale Preview, and Avoiding Washed-Out Charts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/printing-powerpoint-data-decks-handout-layouts-grayscale-preview-and-avoiding-washed-out-charts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/printing-powerpoint-data-decks-handout-layouts-grayscale-preview-and-avoiding-washed-out-charts</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A chart that reads perfectly on screen can turn into an unreadable gray smear on a photocopied handout -- here&apos;s how to catch it before you print.</description>
+  </item>
+  <item>
+    <title>Sensitivity Labels in Power BI: Classifying and Protecting Confidential Reports and Datasets</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/sensitivity-labels-in-power-bi-classifying-and-protecting-confidential-reports-and-datasets</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/sensitivity-labels-in-power-bi-classifying-and-protecting-confidential-reports-and-datasets</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Sensitivity labels classify a report as confidential and can travel with the data when it&apos;s exported, which row-level security alone doesn&apos;t do.</description>
+  </item>
+  <item>
+    <title>Setting Up Dependabot to Keep Your React Blog&apos;s Dependencies Patched Automatically</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-dependabot-to-keep-your-react-blogs-dependencies-patched-automatically</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-dependabot-to-keep-your-react-blogs-dependencies-patched-automatically</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A GitHub-native config that opens a pull request whenever one of your blog&apos;s npm dependencies has a security fix or version bump, so you&apos;re not the one who has to remember to check.</description>
+  </item>
+  <item>
+    <title>Using Excel&apos;s Document Inspector to Find and Remove Hidden Data Before Sharing a Workbook</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excels-document-inspector-to-find-and-remove-hidden-data-before-sharing-a-workbook</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excels-document-inspector-to-find-and-remove-hidden-data-before-sharing-a-workbook</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to run Excel&apos;s Document Inspector to catch hidden sheets, stale formulas, and personal metadata before a workbook leaves your hands.</description>
+  </item>
+  <item>
     <title>DAX DATEDIFF: Calculating Tenure, Age, and Days-Since Metrics in Power BI</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-datediff-calculating-tenure-age-and-days-since-in-power-bi</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-datediff-calculating-tenure-age-and-days-since-in-power-bi</guid>
