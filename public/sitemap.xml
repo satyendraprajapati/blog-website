@@ -407,6 +407,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-simple-nodejs-and-express-api-to-serve-your-own-dataset-to-a-portfolio-dashboard</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</loc>
     <lastmod>2026-09-28</lastmod>
     <priority>0.7</priority>
@@ -1402,6 +1407,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-report-server-publishing-interactive-reports-on-premises-when-you-cant-use-the-power-bi-service</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-scheduled-refresh-keeping-your-dashboard-current-without-manual-republishing</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.7</priority>
@@ -1627,6 +1637,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-and-track-changes-in-excel-collaborating-on-a-shared-report-without-version-chaos</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-in-powerpoint-building-a-data-deck-with-a-teammate-at-the-same-time</loc>
     <lastmod>2026-09-25</lastmod>
     <priority>0.7</priority>
@@ -1774,6 +1789,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/the-personal-macro-workbook-making-your-excel-macros-available-in-every-workbook-you-open</loc>
     <lastmod>2026-10-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/tracking-a-data-decks-source-and-refresh-date-with-powerpoints-custom-document-properties</loc>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

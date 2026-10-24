@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Simple Node.js and Express API to Serve Your Own Dataset to a Portfolio Dashboard</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-simple-nodejs-and-express-api-to-serve-your-own-dataset-to-a-portfolio-dashboard</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-simple-nodejs-and-express-api-to-serve-your-own-dataset-to-a-portfolio-dashboard</guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A minimal Express server that turns a local CSV into a real JSON API, so a portfolio dashboard fetches data instead of importing a static file.</description>
+  </item>
+  <item>
+    <title>Power BI Report Server: Publishing Interactive Reports On-Premises When You Can&apos;t Use the Power BI Service</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-report-server-publishing-interactive-reports-on-premises-when-you-cant-use-the-power-bi-service</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-report-server-publishing-interactive-reports-on-premises-when-you-cant-use-the-power-bi-service</guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A separate, on-premises product for organizations that can&apos;t put reports in the cloud at all -- not just a gateway back to a cloud service.</description>
+  </item>
+  <item>
+    <title>Real-Time Co-Authoring and Track Changes in Excel: Collaborating on a Shared Report Without Version Chaos</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-and-track-changes-in-excel-collaborating-on-a-shared-report-without-version-chaos</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/real-time-co-authoring-and-track-changes-in-excel-collaborating-on-a-shared-report-without-version-chaos</guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to let two or more people edit the same Excel report at once without ending up with five conflicting copies named final-v3.xlsx.</description>
+  </item>
+  <item>
+    <title>Tracking a Data Deck&apos;s Source and Refresh Date with PowerPoint&apos;s Custom Document Properties</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/tracking-a-data-decks-source-and-refresh-date-with-powerpoints-custom-document-properties</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/tracking-a-data-decks-source-and-refresh-date-with-powerpoints-custom-document-properties</guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A place to record a deck&apos;s data source, refresh date, and approval status that doesn&apos;t clutter the slides themselves, hiding in File &gt; Info instead.</description>
+  </item>
+  <item>
     <title>Printing PowerPoint Data Decks: Handout Layouts, Grayscale Preview, and Avoiding Washed-Out Charts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/printing-powerpoint-data-decks-handout-layouts-grayscale-preview-and-avoiding-washed-out-charts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/printing-powerpoint-data-decks-handout-layouts-grayscale-preview-and-avoiding-washed-out-charts</guid>
