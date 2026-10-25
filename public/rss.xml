@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Web Push Notifications for New Posts to Your React Blog (No Backend Required)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-web-push-notifications-for-new-posts-to-your-react-blog-no-backend-required</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-web-push-notifications-for-new-posts-to-your-react-blog-no-backend-required</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Letting readers opt in to a browser notification whenever you publish, using a free push service instead of standing up your own server to manage subscriptions.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Database Functions: DSUM, DCOUNT, and DAVERAGE for Criteria-Based Analysis</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-database-functions-dsum-dcount-and-daverage-for-criteria-based-analysis</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-database-functions-dsum-dcount-and-daverage-for-criteria-based-analysis</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A little-used family of Excel functions that answers multi-condition questions using a plain criteria range instead of nested logic inside the formula.</description>
+  </item>
+  <item>
+    <title>Power Query&apos;s Query Diagnostics: Finding the Slow Step in a Refresh</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-querys-query-diagnostics-finding-the-slow-step-in-a-refresh</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-querys-query-diagnostics-finding-the-slow-step-in-a-refresh</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A built-in recording tool that times every Power Query step individually, instead of leaving you to guess which transformation is actually slowing down a refresh.</description>
+  </item>
+  <item>
+    <title>PowerPoint&apos;s Replace Fonts Feature: Swapping a Data Deck&apos;s Font Family in One Click</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoints-replace-fonts-feature-swapping-a-data-decks-font-family-in-one-click</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoints-replace-fonts-feature-swapping-a-data-decks-font-family-in-one-click</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A one-step way to standardize every font in an existing deck to match a brand or theme, instead of manually reselecting text box by text box.</description>
+  </item>
+  <item>
     <title>Building a Simple Node.js and Express API to Serve Your Own Dataset to a Portfolio Dashboard</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-simple-nodejs-and-express-api-to-serve-your-own-dataset-to-a-portfolio-dashboard</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-simple-nodejs-and-express-api-to-serve-your-own-dataset-to-a-portfolio-dashboard</guid>

@@ -267,6 +267,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-web-push-notifications-for-new-posts-to-your-react-blog-no-backend-required</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/auditing-and-fixing-accessibility-issues-on-your-react-blog-with-axe-devtools</loc>
     <lastmod>2026-08-20</lastmod>
     <priority>0.7</priority>
@@ -932,6 +937,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-database-functions-dsum-dcount-and-daverage-for-criteria-based-analysis</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-getpivotdata-function-pulling-fixed-numbers-out-of-a-pivottable-for-a-summary-dashboard</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.7</priority>
@@ -1552,6 +1562,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-querys-query-diagnostics-finding-the-slow-step-in-a-refresh</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-custom-shows-one-deck-multiple-audiences</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>0.7</priority>
@@ -1574,6 +1589,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-edit-data-in-excel-updating-a-native-charts-numbers-without-reinserting-it</loc>
     <lastmod>2026-10-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-replace-fonts-feature-swapping-a-data-decks-font-family-in-one-click</loc>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
