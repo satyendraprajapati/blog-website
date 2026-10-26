@@ -312,6 +312,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/blocking-or-allowing-ai-crawlers-like-gptbot-and-claudebot-in-your-react-blogs-robots-txt</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/build-a-data-portfolio-website-with-react-tailwind</loc>
     <lastmod>2026-07-14</lastmod>
     <priority>0.7</priority>
@@ -652,6 +657,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-geomean-medianx-and-percentilex-statistical-measures-beyond-average-in-power-bi</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</loc>
     <lastmod>2026-09-16</lastmod>
     <priority>0.7</priority>
@@ -929,6 +939,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-choose-function-picking-a-value-from-a-list-by-position</loc>
     <lastmod>2026-10-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-cubevalue-and-cubemember-pulling-single-numbers-from-your-data-model-without-a-pivottable</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1974,6 +1989,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-photo-album-feature-to-quickly-build-a-slide-per-chart-deck-from-exported-images</loc>
     <lastmod>2026-09-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-read-aloud-feature-to-proofread-a-data-decks-narrative-before-you-present-it</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

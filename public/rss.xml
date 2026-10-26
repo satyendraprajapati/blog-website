@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Blocking or Allowing AI Crawlers Like GPTBot and ClaudeBot in Your React Blog&apos;s robots.txt</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/blocking-or-allowing-ai-crawlers-like-gptbot-and-claudebot-in-your-react-blogs-robots-txt</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/blocking-or-allowing-ai-crawlers-like-gptbot-and-claudebot-in-your-react-blogs-robots-txt</guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The AI training crawlers now showing up in your server logs, and how to opt them in or out through robots.txt instead of leaving the default wide open by accident.</description>
+  </item>
+  <item>
+    <title>DAX GEOMEAN, MEDIANX, and PERCENTILEX: Statistical Measures Beyond AVERAGE in Power BI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-geomean-medianx-and-percentilex-statistical-measures-beyond-average-in-power-bi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-geomean-medianx-and-percentilex-statistical-measures-beyond-average-in-power-bi</guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    <description>When a plain AVERAGE measure is quietly misleading your report, and the DAX functions that give you a median, a percentile, or a growth-rate-safe mean instead.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s CUBEVALUE and CUBEMEMBER: Pulling Single Numbers From Your Data Model Without a PivotTable</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-cubevalue-and-cubemember-pulling-single-numbers-from-your-data-model-without-a-pivottable</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-cubevalue-and-cubemember-pulling-single-numbers-from-your-data-model-without-a-pivottable</guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s CUBE functions to pull one live number out of a Power Pivot data model directly into a cell, without building or maintaining a PivotTable behind it.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Read Aloud Feature to Proofread a Data Deck&apos;s Narrative Before You Present It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-read-aloud-feature-to-proofread-a-data-decks-narrative-before-you-present-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-read-aloud-feature-to-proofread-a-data-decks-narrative-before-you-present-it</guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Why listening to your own slide titles and takeaways read back to you catches awkward phrasing and typos that silent proofreading misses.</description>
+  </item>
+  <item>
     <title>Adding Web Push Notifications for New Posts to Your React Blog (No Backend Required)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-web-push-notifications-for-new-posts-to-your-react-blog-no-backend-required</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-web-push-notifications-for-new-posts-to-your-react-blog-no-backend-required</guid>
