@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Scroll-to-Top Button That Appears After Scrolling, in React</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-scroll-to-top-button-that-appears-after-scrolling-in-react</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-scroll-to-top-button-that-appears-after-scrolling-in-react</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A small floating button that only shows up once a visitor has scrolled past a threshold, so it helps on long blog posts without cluttering short ones.</description>
+  </item>
+  <item>
+    <title>Choosing the Right Power BI Map Visual: Map, Filled Map, Shape Map, and ArcGIS Maps</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-power-bi-map-visual-map-filled-map-shape-map-and-arcgis-maps</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-power-bi-map-visual-map-filled-map-shape-map-and-arcgis-maps</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Power BI ships four different map visuals, and picking the wrong one is the fastest way to turn a simple geography question into a confusing report page.</description>
+  </item>
+  <item>
+    <title>PowerPoint&apos;s AutoFit Text Options: Keeping KPI Numbers from Overflowing a Data Slide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoints-autofit-text-options-keeping-kpi-numbers-from-overflowing-a-data-slide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoints-autofit-text-options-keeping-kpi-numbers-from-overflowing-a-data-slide</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Three AutoFit behaviors control what happens when text outgrows its placeholder, and the default one is usually the wrong choice for a KPI callout.</description>
+  </item>
+  <item>
+    <title>Using Icon Sets in Excel Conditional Formatting for At-a-Glance Status Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-icon-sets-in-excel-conditional-formatting-for-at-a-glance-status-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-icon-sets-in-excel-conditional-formatting-for-at-a-glance-status-reports</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a column of numbers into traffic lights, arrows, or ratings with Excel&apos;s icon sets, and how to control the thresholds instead of accepting the defaults.</description>
+  </item>
+  <item>
     <title>Blocking or Allowing AI Crawlers Like GPTBot and ClaudeBot in Your React Blog&apos;s robots.txt</title>
     <link>https://blog-website-navy-one.vercel.app/blog/blocking-or-allowing-ai-crawlers-like-gptbot-and-claudebot-in-your-react-blogs-robots-txt</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/blocking-or-allowing-ai-crawlers-like-gptbot-and-claudebot-in-your-react-blogs-robots-txt</guid>
