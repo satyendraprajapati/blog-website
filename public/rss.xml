@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Exporting a Narrated PowerPoint Data Deck as an MP4 Video File</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/exporting-a-narrated-powerpoint-data-deck-as-an-mp4-video-file</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/exporting-a-narrated-powerpoint-data-deck-as-an-mp4-video-file</guid>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Once a data readout is recorded with narration, PowerPoint&apos;s Export to Video turns it into a standalone MP4 anyone can watch without opening the deck -- here&apos;s how to choose the right settings.</description>
+  </item>
+  <item>
+    <title>LEFT, RIGHT, MID, and FIND: Extracting Pieces of Text in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/left-right-mid-and-find-extracting-pieces-of-text-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/left-right-mid-and-find-extracting-pieces-of-text-in-excel</guid>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The four classic text functions for pulling a specific piece out of a longer string, before you reach for anything fancier.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Rename to &apos;Semantic Models&apos;: What It Actually Changes for Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-rename-to-semantic-models-what-it-actually-changes-for-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-rename-to-semantic-models-what-it-actually-changes-for-analysts</guid>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Microsoft renamed the Power BI dataset to a &apos;semantic model&apos; as part of the Fabric rollout -- here&apos;s what&apos;s cosmetic and what actually affects how you build reports.</description>
+  </item>
+  <item>
+    <title>Serving a Pandas DataFrame as a JSON API with FastAPI</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/serving-a-pandas-dataframe-as-a-json-api-with-fastapi</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/serving-a-pandas-dataframe-as-a-json-api-with-fastapi</guid>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a pandas analysis into a small, filterable JSON endpoint other tools can call, using FastAPI instead of emailing around a CSV.</description>
+  </item>
+  <item>
     <title>Adding a Scroll-to-Top Button That Appears After Scrolling, in React</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-scroll-to-top-button-that-appears-after-scrolling-in-react</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-scroll-to-top-button-that-appears-after-scrolling-in-react</guid>

@@ -1027,6 +1027,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-narrated-powerpoint-data-deck-as-an-mp4-video-file</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.7</priority>
@@ -1179,6 +1184,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/lazy-mounting-heavy-embeds-in-your-react-blog-with-intersection-observer</loc>
     <lastmod>2026-09-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/left-right-mid-and-find-extracting-pieces-of-text-in-excel</loc>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1577,6 +1587,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-rename-to-semantic-models-what-it-actually-changes-for-analysts</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-parameters-making-a-query-reusable-without-editing-the-m-code</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -1749,6 +1764,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sensitivity-labels-in-power-bi-classifying-and-protecting-confidential-reports-and-datasets</loc>
     <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/serving-a-pandas-dataframe-as-a-json-api-with-fastapi</loc>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
