@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Power BI Live Connection: Building Thin Reports on a Shared Dataset Without Importing Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How Live Connection lets you build a new Power BI report on top of someone else&apos;s published semantic model, and what you give up compared to Import or DirectQuery.</description>
+  </item>
+  <item>
+    <title>Recording Per-Slide Audio Narration in PowerPoint for Async Review</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/recording-per-slide-audio-narration-in-powerpoint-for-async-review</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/recording-per-slide-audio-narration-in-powerpoint-for-async-review</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to record a short voice clip on individual slides of a data deck so stakeholders can hear your explanation without watching a full screen-recorded walkthrough.</description>
+  </item>
+  <item>
+    <title>Understanding REST APIs: A Data Analyst&apos;s Guide to Pulling Data Without a Library</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/understanding-rest-apis-a-data-analysts-guide-to-pulling-data-without-a-library</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/understanding-rest-apis-a-data-analysts-guide-to-pulling-data-without-a-library</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description>What&apos;s actually happening when a script &apos;calls an API&apos; — URLs, query parameters, API keys, and JSON responses — explained without any particular library or language.</description>
+  </item>
+  <item>
+    <title>Using Data Bars in Excel Conditional Formatting for At-a-Glance Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-data-bars-in-excel-conditional-formatting-for-at-a-glance-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-data-bars-in-excel-conditional-formatting-for-at-a-glance-reports</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a plain column of numbers into an in-cell bar chart with Excel&apos;s Data Bars, and the settings that keep them from lying about the data.</description>
+  </item>
+  <item>
     <title>Exporting a Narrated PowerPoint Data Deck as an MP4 Video File</title>
     <link>https://blog-website-navy-one.vercel.app/blog/exporting-a-narrated-powerpoint-data-deck-as-an-mp4-video-file</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/exporting-a-narrated-powerpoint-data-deck-as-an-mp4-video-file</guid>

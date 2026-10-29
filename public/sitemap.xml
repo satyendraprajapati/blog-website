@@ -1392,6 +1392,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-many-to-many-relationships-and-bi-directional-filtering-when-you-need-them-and-when-you-dont</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.7</priority>
@@ -1717,6 +1722,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/recording-per-slide-audio-narration-in-powerpoint-for-async-review</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/removing-chart-junk-decluttering-data-labels-gridlines-and-legends-in-powerpoint</loc>
     <lastmod>2026-08-02</lastmod>
     <priority>0.7</priority>
@@ -1887,6 +1897,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/understanding-rest-apis-a-data-analysts-guide-to-pulling-data-without-a-library</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/understanding-spill-ranges-in-excel-and-fixing-spill-errors</loc>
     <lastmod>2026-09-08</lastmod>
     <priority>0.7</priority>
@@ -1924,6 +1939,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-css-container-queries-to-make-blog-post-cards-responsive-to-their-container-not-the-viewport</loc>
     <lastmod>2026-10-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-data-bars-in-excel-conditional-formatting-for-at-a-glance-reports</loc>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
