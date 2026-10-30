@@ -1052,6 +1052,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/finding-what-changed-between-two-versions-of-an-excel-workbook-with-spreadsheet-compare</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/first-power-bi-dashboard-from-excel</loc>
     <lastmod>2026-07-15</lastmod>
     <priority>0.7</priority>
@@ -1212,6 +1217,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/matrix-vs-table-visual-in-power-bi-choosing-the-right-one-for-hierarchical-and-flat-data</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/measuring-and-improving-core-web-vitals-on-a-vite-react-blog</loc>
     <lastmod>2026-08-05</lastmod>
     <priority>0.7</priority>
@@ -1224,6 +1234,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/merging-two-excel-tables-with-power-query-instead-of-vlookup</loc>
     <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/observable-plot-a-lighter-weight-alternative-to-d3-for-quick-code-based-data-charts</loc>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1894,6 +1909,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/turning-on-live-captions-and-subtitles-for-more-accessible-data-presentations-in-powerpoint</loc>
     <lastmod>2026-08-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/typing-statistical-notation-and-greek-symbols-in-powerpoint-with-the-equation-editor-no-ink-required</loc>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

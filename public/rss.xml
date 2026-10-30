@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Finding What Changed Between Two Versions of an Excel Workbook with Spreadsheet Compare</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/finding-what-changed-between-two-versions-of-an-excel-workbook-with-spreadsheet-compare</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/finding-what-changed-between-two-versions-of-an-excel-workbook-with-spreadsheet-compare</guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A faster, more reliable way to find what actually changed between two versions of a workbook than scrolling two windows side by side.</description>
+  </item>
+  <item>
+    <title>Matrix vs. Table Visual in Power BI: Choosing the Right One for Hierarchical and Flat Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/matrix-vs-table-visual-in-power-bi-choosing-the-right-one-for-hierarchical-and-flat-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/matrix-vs-table-visual-in-power-bi-choosing-the-right-one-for-hierarchical-and-flat-data</guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Table and Matrix look almost identical in the visual gallery, but they&apos;re built for different shapes of data and picking the wrong one costs you drill-down and subtotals.</description>
+  </item>
+  <item>
+    <title>Observable Plot: A Lighter-Weight Alternative to D3 for Quick, Code-Based Data Charts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/observable-plot-a-lighter-weight-alternative-to-d3-for-quick-code-based-data-charts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/observable-plot-a-lighter-weight-alternative-to-d3-for-quick-code-based-data-charts</guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A grammar-of-graphics JavaScript library that gets you from a raw array of data to a labeled chart in a few lines, without D3&apos;s low-level setup.</description>
+  </item>
+  <item>
+    <title>Typing Statistical Notation and Greek Symbols in PowerPoint with the Equation Editor (No Ink Required)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/typing-statistical-notation-and-greek-symbols-in-powerpoint-with-the-equation-editor-no-ink-required</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/typing-statistical-notation-and-greek-symbols-in-powerpoint-with-the-equation-editor-no-ink-required</guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    <description>A faster way to put a p-value, a confidence interval, or a regression formula on a data slide than drawing it with a mouse or a stylus.</description>
+  </item>
+  <item>
     <title>Power BI Live Connection: Building Thin Reports on a Shared Dataset Without Importing Data</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</guid>
