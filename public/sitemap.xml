@@ -22,6 +22,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/absolute-vs-relative-cell-references-in-excel-and-the-f4-key-shortcut</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/add-client-side-search-to-your-data-portfolio-site-with-flexsearch</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
@@ -1602,6 +1607,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-publish-to-web-sharing-a-report-publicly-without-a-license</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-relative-date-and-between-slicers-filters-that-update-themselves</loc>
     <lastmod>2026-09-17</lastmod>
     <priority>0.7</priority>
@@ -1902,6 +1912,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-into-an-interactive-web-demo-with-gradio</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-script-into-a-shareable-web-app-with-streamlit</loc>
     <lastmod>2026-08-17</lastmod>
     <priority>0.7</priority>
@@ -2094,6 +2109,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-master-to-keep-chart-formatting-consistent-across-a-data-deck</loc>
     <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-sorter-view-to-reorganize-a-long-data-deck-fast</loc>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

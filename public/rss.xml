@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Absolute vs Relative Cell References in Excel and the F4 Key Shortcut</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/absolute-vs-relative-cell-references-in-excel-and-the-f4-key-shortcut</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/absolute-vs-relative-cell-references-in-excel-and-the-f4-key-shortcut</guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Why some Excel formulas break when you copy them and others don&apos;t, and how the dollar sign and the F4 key fix it.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Publish to Web: Sharing a Report Publicly Without a License</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-publish-to-web-sharing-a-report-publicly-without-a-license</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-publish-to-web-sharing-a-report-publicly-without-a-license</guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How Publish to Web turns a Power BI report into a public, licenseless embed — and why it&apos;s the wrong tool for anything containing real data.</description>
+  </item>
+  <item>
+    <title>Turning a Python Data Analysis Into an Interactive Web Demo with Gradio</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-into-an-interactive-web-demo-with-gradio</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/turning-a-python-data-analysis-into-an-interactive-web-demo-with-gradio</guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    <description>How to wrap a pandas function or trained model in a shareable web interface with Gradio in under 20 lines of code.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Slide Sorter View to Reorganize a Long Data Deck Fast</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-sorter-view-to-reorganize-a-long-data-deck-fast</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-slide-sorter-view-to-reorganize-a-long-data-deck-fast</guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Why Slide Sorter view is the fastest way to restructure a long data deck before a stakeholder review.</description>
+  </item>
+  <item>
     <title>Finding What Changed Between Two Versions of an Excel Workbook with Spreadsheet Compare</title>
     <link>https://blog-website-navy-one.vercel.app/blog/finding-what-changed-between-two-versions-of-an-excel-workbook-with-spreadsheet-compare</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/finding-what-changed-between-two-versions-of-an-excel-workbook-with-spreadsheet-compare</guid>
