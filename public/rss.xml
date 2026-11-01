@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>INDEX/MATCH: The Classic Two-Function Lookup Every Data Analyst Should Still Know</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/index-match-the-classic-two-function-lookup-every-data-analyst-should-still-know</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/index-match-the-classic-two-function-lookup-every-data-analyst-should-still-know</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How INDEX and MATCH work together as a lookup combo, and the specific situations where this older pair still beats XLOOKUP.</description>
+  </item>
+  <item>
+    <title>Power BI Semantic Link: Querying Your Semantic Model with Pandas from a Fabric Notebook</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-semantic-link-querying-your-semantic-model-with-pandas-from-a-fabric-notebook</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-semantic-link-querying-your-semantic-model-with-pandas-from-a-fabric-notebook</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How Semantic Link pulls a Power BI semantic model straight into a pandas DataFrame from a Microsoft Fabric notebook, without DAX or an export button.</description>
+  </item>
+  <item>
+    <title>Structuring a Data Deck with the Pyramid Principle: Lead With the Conclusion, Then the Evidence</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/structuring-a-data-deck-with-the-pyramid-principle-lead-with-the-conclusion-then-the-evidence</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/structuring-a-data-deck-with-the-pyramid-principle-lead-with-the-conclusion-then-the-evidence</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why ordering a deck answer-first, then grouped reasons, then supporting detail works better than building it in the order you did the analysis.</description>
+  </item>
+  <item>
+    <title>Understanding CORS Errors: Why Your Browser Blocks That API Call (A Data Analyst&apos;s Guide)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/understanding-cors-errors-why-your-browser-blocks-that-api-call-a-data-analysts-guide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/understanding-cors-errors-why-your-browser-blocks-that-api-call-a-data-analysts-guide</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>What a &apos;blocked by CORS policy&apos; console error actually means, why it only shows up in the browser, and the realistic ways to work around it.</description>
+  </item>
+  <item>
     <title>Absolute vs Relative Cell References in Excel and the F4 Key Shortcut</title>
     <link>https://blog-website-navy-one.vercel.app/blog/absolute-vs-relative-cell-references-in-excel-and-the-f4-key-shortcut</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/absolute-vs-relative-cell-references-in-excel-and-the-f4-key-shortcut</guid>

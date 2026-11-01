@@ -1182,6 +1182,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/index-match-the-classic-two-function-lookup-every-data-analyst-should-still-know</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</loc>
     <lastmod>2026-08-29</lastmod>
     <priority>0.7</priority>
@@ -1484,6 +1489,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-scheduled-refresh-keeping-your-dashboard-current-without-manual-republishing</loc>
     <lastmod>2026-08-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-semantic-link-querying-your-semantic-model-with-pandas-from-a-fabric-notebook</loc>
+    <lastmod>2026-11-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1867,6 +1877,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/structuring-a-data-deck-with-the-pyramid-principle-lead-with-the-conclusion-then-the-evidence</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/submitting-your-react-blogs-sitemap-to-google-search-console</loc>
     <lastmod>2026-08-07</lastmod>
     <priority>0.7</priority>
@@ -1929,6 +1944,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/typing-statistical-notation-and-greek-symbols-in-powerpoint-with-the-equation-editor-no-ink-required</loc>
     <lastmod>2026-10-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/understanding-cors-errors-why-your-browser-blocks-that-api-call-a-data-analysts-guide</loc>
+    <lastmod>2026-11-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
