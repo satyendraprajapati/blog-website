@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX FORMAT: Converting Numbers and Dates to Custom Text Inside a Power BI Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-format-converting-numbers-and-dates-to-custom-text-inside-a-power-bi-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-format-converting-numbers-and-dates-to-custom-text-inside-a-power-bi-measure</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>FORMAT turns a number or date into a text string inside a measure, which is what you actually need when you&apos;re building a label rather than just displaying a value in a card.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Show Formulas View: Documenting and Auditing a Workbook Before Handoff</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-show-formulas-view-documenting-and-auditing-a-workbook-before-handoff</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-show-formulas-view-documenting-and-auditing-a-workbook-before-handoff</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Toggling Show Formulas with Ctrl+` turns every cell into its underlying formula at once, making it a fast way to audit or document a workbook before someone else inherits it.</description>
+  </item>
+  <item>
+    <title>Making Filter Selections Shareable in a React Data Dashboard with URLSearchParams</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/making-filter-selections-shareable-in-a-react-data-dashboard-with-urlsearchparams</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/making-filter-selections-shareable-in-a-react-data-dashboard-with-urlsearchparams</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Component state loses a visitor&apos;s filter choices on refresh and can&apos;t be linked to — mirroring it into the URL with React Router&apos;s useSearchParams fixes both for almost no extra code.</description>
+  </item>
+  <item>
+    <title>Recovering an Unsaved or Corrupted PowerPoint Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/recovering-an-unsaved-or-corrupted-powerpoint-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/recovering-an-unsaved-or-corrupted-powerpoint-data-deck</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>AutoRecover, the Document Recovery pane, and Open and Repair cover most of the ways a PowerPoint data deck can disappear or stop opening — knowing which one applies saves a lot of panic.</description>
+  </item>
+  <item>
     <title>INDEX/MATCH: The Classic Two-Function Lookup Every Data Analyst Should Still Know</title>
     <link>https://blog-website-navy-one.vercel.app/blog/index-match-the-classic-two-function-lookup-every-data-analyst-should-still-know</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/index-match-the-classic-two-function-lookup-every-data-analyst-should-still-know</guid>

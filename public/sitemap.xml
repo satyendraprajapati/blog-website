@@ -672,6 +672,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-format-converting-numbers-and-dates-to-custom-text-inside-a-power-bi-measure</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-geomean-medianx-and-percentilex-statistical-measures-beyond-average-in-power-bi</loc>
     <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
@@ -1007,6 +1012,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-show-formulas-view-documenting-and-auditing-a-workbook-before-handoff</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-stockhistory-function-pulling-historical-stock-and-currency-data-without-an-api</loc>
     <lastmod>2026-10-09</lastmod>
     <priority>0.7</priority>
@@ -1224,6 +1234,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/loading-markdown-blog-posts-automatically-with-vites-import-meta-glob</loc>
     <lastmod>2026-09-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/making-filter-selections-shareable-in-a-react-data-dashboard-with-urlsearchparams</loc>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1759,6 +1774,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/recording-per-slide-audio-narration-in-powerpoint-for-async-review</loc>
     <lastmod>2026-10-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/recovering-an-unsaved-or-corrupted-powerpoint-data-deck</loc>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
