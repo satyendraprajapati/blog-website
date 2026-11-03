@@ -1612,6 +1612,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-kpi-visual-tracking-a-metric-against-its-target</loc>
+    <lastmod>2026-11-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-lineage-view-tracing-how-your-data-flows-from-source-to-report</loc>
     <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
@@ -1654,6 +1659,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-vs-excel-formulas</loc>
     <lastmod>2026-07-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-querys-group-by-aggregating-data-without-a-pivottable</loc>
+    <lastmod>2026-11-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2062,6 +2072,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-power-automate-to-build-a-weekly-powerpoint-status-deck-from-an-excel-tracker</loc>
+    <lastmod>2026-11-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoint-live-presentations-in-microsoft-teams-for-remote-data-readouts</loc>
     <lastmod>2026-08-10</lastmod>
     <priority>0.7</priority>
@@ -2199,6 +2214,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/visualizing-geographic-data-with-leafletjs-a-beginners-guide-for-data-analysts</loc>
     <lastmod>2026-10-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/visualizing-your-vite-react-blogs-bundle-size-with-rollup-plugin-visualizer</loc>
+    <lastmod>2026-11-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

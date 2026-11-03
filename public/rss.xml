@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Power BI&apos;s KPI Visual: Tracking a Metric Against Its Target</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-kpi-visual-tracking-a-metric-against-its-target</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-kpi-visual-tracking-a-metric-against-its-target</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to set up Power BI&apos;s native KPI visual to show a metric, its trend, and its progress against a goal in one compact tile.</description>
+  </item>
+  <item>
+    <title>Power Query&apos;s Group By: Aggregating Data Without a PivotTable</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-querys-group-by-aggregating-data-without-a-pivottable</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-querys-group-by-aggregating-data-without-a-pivottable</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use Power Query&apos;s Group By transformation to summarize data by category as a repeatable, refreshable step instead of a one-off PivotTable.</description>
+  </item>
+  <item>
+    <title>Using Power Automate to Build a Weekly PowerPoint Status Deck from an Excel Tracker</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-power-automate-to-build-a-weekly-powerpoint-status-deck-from-an-excel-tracker</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-power-automate-to-build-a-weekly-powerpoint-status-deck-from-an-excel-tracker</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Setting up a Power Automate flow that regenerates a weekly PowerPoint status deck straight from an Excel tracker, no code or add-in required.</description>
+  </item>
+  <item>
+    <title>Visualizing Your Vite + React Blog&apos;s Bundle Size with rollup-plugin-visualizer</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/visualizing-your-vite-react-blogs-bundle-size-with-rollup-plugin-visualizer</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/visualizing-your-vite-react-blogs-bundle-size-with-rollup-plugin-visualizer</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Using rollup-plugin-visualizer to see exactly which dependencies are inflating your production bundle before you decide what to cut or lazy-load.</description>
+  </item>
+  <item>
     <title>DAX FORMAT: Converting Numbers and Dates to Custom Text Inside a Power BI Measure</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-format-converting-numbers-and-dates-to-custom-text-inside-a-power-bi-measure</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-format-converting-numbers-and-dates-to-custom-text-inside-a-power-bi-measure</guid>
