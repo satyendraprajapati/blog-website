@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Power BI Licensing for Data Analysts: Free, Pro, Premium Per User, and Fabric Capacity Explained</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-licensing-free-pro-premium-per-user-and-fabric-capacity-explained</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-licensing-free-pro-premium-per-user-and-fabric-capacity-explained</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    <description>What each Power BI license tier actually unlocks for an analyst, so you know what you&apos;re blocked on when sharing a report suddenly doesn&apos;t work.</description>
+  </item>
+  <item>
+    <title>Running SQL Queries on a CSV File Directly in the Browser with DuckDB-Wasm</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/running-sql-queries-on-a-csv-file-directly-in-the-browser-with-duckdb-wasm</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/running-sql-queries-on-a-csv-file-directly-in-the-browser-with-duckdb-wasm</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How DuckDB-Wasm lets you drop a CSV into a web page and run real SQL against it entirely in the browser, with no server and no upload of the data anywhere.</description>
+  </item>
+  <item>
+    <title>Using Excel&apos;s Accessibility Checker to Build Screen-Reader-Friendly Data Reports</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excels-accessibility-checker-to-build-screen-reader-friendly-data-reports</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excels-accessibility-checker-to-build-screen-reader-friendly-data-reports</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s built-in Accessibility Checker to catch the table and chart issues that make a report unusable with a screen reader before you send it out.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Dictate Feature to Draft Speaker Notes for a Data Readout Fast</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-dictate-feature-to-draft-speaker-notes-for-a-data-readout-fast</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-dictate-feature-to-draft-speaker-notes-for-a-data-readout-fast</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use PowerPoint&apos;s built-in Dictate tool to talk through a data deck out loud and turn that into a first draft of speaker notes, instead of typing them slide by slide.</description>
+  </item>
+  <item>
     <title>Power BI&apos;s KPI Visual: Tracking a Metric Against Its Target</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bis-kpi-visual-tracking-a-metric-against-its-target</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-kpi-visual-tracking-a-metric-against-its-target</guid>

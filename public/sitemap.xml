@@ -1432,6 +1432,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-licensing-free-pro-premium-per-user-and-fabric-capacity-explained</loc>
+    <lastmod>2026-11-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-live-connection-building-thin-reports-on-a-shared-dataset-without-importing-data</loc>
     <lastmod>2026-10-29</lastmod>
     <priority>0.7</priority>
@@ -1827,6 +1832,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/running-sql-queries-on-a-csv-file-directly-in-the-browser-with-duckdb-wasm</loc>
+    <lastmod>2026-11-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/saving-a-custom-powerpoint-theme-so-every-data-deck-matches-your-brand</loc>
     <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
@@ -2037,6 +2047,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-accessibility-checker-to-build-screen-reader-friendly-data-reports</loc>
+    <lastmod>2026-11-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-document-inspector-to-find-and-remove-hidden-data-before-sharing-a-workbook</loc>
     <lastmod>2026-10-23</lastmod>
     <priority>0.7</priority>
@@ -2104,6 +2119,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-create-handouts-to-turn-a-slide-deck-into-a-word-leave-behind-outline</loc>
     <lastmod>2026-08-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-dictate-feature-to-draft-speaker-notes-for-a-data-readout-fast</loc>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
