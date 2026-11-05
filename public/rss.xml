@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Custom Views in Excel: Saving Your Own Filter and Print Setup Without Disrupting a Shared Workbook</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/custom-views-in-excel-saving-your-own-filter-and-print-setup-without-disrupting-a-shared-workbook</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/custom-views-in-excel-saving-your-own-filter-and-print-setup-without-disrupting-a-shared-workbook</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s Custom Views feature saves your own filters, hidden columns, and print setup on a shared workbook without changing what anyone else sees when they open it.</description>
+  </item>
+  <item>
+    <title>Fetching and Parsing JSON From a Public API With JavaScript: A Data Analyst&apos;s Guide</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/fetching-and-parsing-json-from-a-public-api-with-javascript-a-data-analysts-guide</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/fetching-and-parsing-json-from-a-public-api-with-javascript-a-data-analysts-guide</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A practical walkthrough of fetch(), async/await, and turning a nested JSON response into a flat array you can actually chart or table.</description>
+  </item>
+  <item>
+    <title>Organizing a Team PowerPoint Template Library So Every Data Deck Starts Consistent</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/organizing-a-team-powerpoint-template-library-so-every-data-deck-starts-consistent</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/organizing-a-team-powerpoint-template-library-so-every-data-deck-starts-consistent</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A shared, well-organized folder of PowerPoint templates saves a team from rebuilding the same KPI slide, title page, and chart layout from scratch every reporting cycle.</description>
+  </item>
+  <item>
+    <title>Power BI Push Datasets: Streaming Live Data to a Dashboard Tile Without Waiting on a Scheduled Refresh</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-push-datasets-streaming-live-data-to-a-dashboard-tile-without-waiting-on-a-scheduled-refresh</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-push-datasets-streaming-live-data-to-a-dashboard-tile-without-waiting-on-a-scheduled-refresh</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Push datasets skip Power Query and refresh schedules entirely — you POST rows straight into a Power BI dataset&apos;s memory, and a dashboard tile updates within seconds.</description>
+  </item>
+  <item>
     <title>Power BI Licensing for Data Analysts: Free, Pro, Premium Per User, and Fabric Capacity Explained</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bi-licensing-free-pro-premium-per-user-and-fabric-capacity-explained</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-licensing-free-pro-premium-per-user-and-fabric-capacity-explained</guid>

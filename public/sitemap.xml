@@ -622,6 +622,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/custom-views-in-excel-saving-your-own-filter-and-print-setup-without-disrupting-a-shared-workbook</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</loc>
     <lastmod>2026-10-19</lastmod>
     <priority>0.7</priority>
@@ -1062,6 +1067,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/fetching-and-parsing-json-from-a-public-api-with-javascript-a-data-analysts-guide</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/finding-and-fixing-broken-external-links-in-excel-workbooks</loc>
     <lastmod>2026-10-04</lastmod>
     <priority>0.7</priority>
@@ -1264,6 +1274,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/observable-plot-a-lighter-weight-alternative-to-d3-for-quick-code-based-data-charts</loc>
     <lastmod>2026-10-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/organizing-a-team-powerpoint-template-library-so-every-data-deck-starts-consistent</loc>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1484,6 +1499,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-projects-pbip-version-controlling-your-reports-with-git</loc>
     <lastmod>2026-10-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-push-datasets-streaming-live-data-to-a-dashboard-tile-without-waiting-on-a-scheduled-refresh</loc>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
