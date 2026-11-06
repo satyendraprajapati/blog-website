@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Gauge Chart Natively in PowerPoint to Show a Single KPI Against a Target Range</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-gauge-chart-natively-in-powerpoint-to-show-a-single-kpi-against-a-target-range</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-gauge-chart-natively-in-powerpoint-to-show-a-single-kpi-against-a-target-range</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to build a speedometer-style gauge chart in PowerPoint using a doughnut chart, without an add-in.</description>
+  </item>
+  <item>
+    <title>Building In-Cell Bar Charts in Excel with the REPT Function</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-in-cell-bar-charts-in-excel-with-the-rept-function</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-in-cell-bar-charts-in-excel-with-the-rept-function</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A text-formula trick for drawing simple bar charts directly inside a cell, without Sparklines or Data Bars.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s &apos;Show Items With No Data&apos;: Keeping Empty Categories Visible in Your Visuals</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-show-items-with-no-data-keeping-empty-categories-visible</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-show-items-with-no-data-keeping-empty-categories-visible</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why Power BI visuals silently drop categories with zero rows, and the toggle that keeps them on the chart.</description>
+  </item>
+  <item>
+    <title>Virtualizing a Long Data Table in React with react-window So Large Datasets Don&apos;t Lag the Page</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/virtualizing-a-long-data-table-in-react-with-react-window</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/virtualizing-a-long-data-table-in-react-with-react-window</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Rendering only the visible rows of a large dataset in React keeps scrolling smooth where mapping the full array doesn&apos;t.</description>
+  </item>
+  <item>
     <title>Custom Views in Excel: Saving Your Own Filter and Print Setup Without Disrupting a Shared Workbook</title>
     <link>https://blog-website-navy-one.vercel.app/blog/custom-views-in-excel-saving-your-own-filter-and-print-setup-without-disrupting-a-shared-workbook</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/custom-views-in-excel-saving-your-own-filter-and-print-setup-without-disrupting-a-shared-workbook</guid>

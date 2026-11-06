@@ -372,6 +372,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-gauge-chart-natively-in-powerpoint-to-show-a-single-kpi-against-a-target-range</loc>
+    <lastmod>2026-11-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-heatmap-style-data-table-in-powerpoint-without-conditional-formatting</loc>
     <lastmod>2026-09-10</lastmod>
     <priority>0.7</priority>
@@ -469,6 +474,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</loc>
     <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-in-cell-bar-charts-in-excel-with-the-rept-function</loc>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1677,6 +1687,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-show-items-with-no-data-keeping-empty-categories-visible</loc>
+    <lastmod>2026-11-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-parameters-making-a-query-reusable-without-editing-the-m-code</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -2249,6 +2264,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/validating-blog-post-frontmatter-at-build-time-with-zod</loc>
     <lastmod>2026-10-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/virtualizing-a-long-data-table-in-react-with-react-window</loc>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
