@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Auto-Generating Social Preview Images for Every Blog Post in Your React/Vite Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/auto-generating-social-preview-images-for-every-blog-post-in-your-react-vite-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/auto-generating-social-preview-images-for-every-blog-post-in-your-react-vite-blog</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Without a dedicated og:image, a shared link falls back to a generic screenshot or nothing at all -- generating a branded preview image per post at build time fixes that without hand-designing one in Figma for every article.</description>
+  </item>
+  <item>
+    <title>Making Your Power BI Reports Accessible: Alt Text, Tab Order, and Color-Blind-Safe Visuals</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/making-your-power-bi-reports-accessible-alt-text-tab-order-and-color-blind-safe-visuals</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/making-your-power-bi-reports-accessible-alt-text-tab-order-and-color-blind-safe-visuals</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A Power BI report that reads fine to you can be unusable for a colleague on a screen reader or with color blindness -- three built-in settings fix most of the common problems.</description>
+  </item>
+  <item>
+    <title>Using Excel&apos;s Remove Duplicates Tool Correctly (and When a Formula Beats It)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excels-remove-duplicates-tool-correctly-and-when-a-formula-beats-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excels-remove-duplicates-tool-correctly-and-when-a-formula-beats-it</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s Remove Duplicates button looks like a one-click fix, but it silently deletes rows based on whichever columns you select -- here&apos;s how to use it safely, and when a formula is the better tool.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Rehearse with Coach to Practice a Data Readout Before You Present It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-rehearse-with-coach-to-practice-a-data-readout-before-you-present-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-rehearse-with-coach-to-practice-a-data-readout-before-you-present-it</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint&apos;s built-in rehearsal tool listens to a full run-through of your data deck and flags pacing, filler words, and slides you&apos;re reading verbatim -- before a stakeholder ever sees it.</description>
+  </item>
+  <item>
     <title>Building a Gauge Chart Natively in PowerPoint to Show a Single KPI Against a Target Range</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-gauge-chart-natively-in-powerpoint-to-show-a-single-kpi-against-a-target-range</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-gauge-chart-natively-in-powerpoint-to-show-a-single-kpi-against-a-target-range</guid>

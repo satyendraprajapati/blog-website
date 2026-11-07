@@ -287,6 +287,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/auto-generating-social-preview-images-for-every-blog-post-in-your-react-vite-blog</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/automate-weekly-excel-report-power-query</loc>
     <lastmod>2026-07-19</lastmod>
     <priority>0.7</priority>
@@ -1262,6 +1267,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/making-your-power-bi-reports-accessible-alt-text-tab-order-and-color-blind-safe-visuals</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/matrix-vs-table-visual-in-power-bi-choosing-the-right-one-for-hierarchical-and-flat-data</loc>
     <lastmod>2026-10-30</lastmod>
     <priority>0.7</priority>
@@ -2097,6 +2107,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-remove-duplicates-tool-correctly-and-when-a-formula-beats-it</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-icon-sets-in-excel-conditional-formatting-for-at-a-glance-status-reports</loc>
     <lastmod>2026-10-27</lastmod>
     <priority>0.7</priority>
@@ -2199,6 +2214,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-read-aloud-feature-to-proofread-a-data-decks-narrative-before-you-present-it</loc>
     <lastmod>2026-10-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-rehearse-with-coach-to-practice-a-data-readout-before-you-present-it</loc>
+    <lastmod>2026-11-07</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
