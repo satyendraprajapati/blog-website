@@ -802,6 +802,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-pdf-or-word-appendix-in-a-powerpoint-slide-with-insert-object</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/embedding-a-screen-recorded-dashboard-walkthrough-in-powerpoint-with-insert-screen-recording</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
@@ -1702,6 +1707,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-treemap-visual-showing-hierarchical-proportions-at-a-glance</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-query-parameters-making-a-query-reusable-without-editing-the-m-code</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -1969,6 +1979,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/submitting-your-react-blogs-sitemap-to-google-search-console</loc>
     <lastmod>2026-08-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/sumifs-summing-data-by-multiple-criteria-in-excel</loc>
+    <lastmod>2026-11-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2309,6 +2324,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/web-scraping-basics-for-data-analysts-pulling-data-from-a-website-with-python</loc>
     <lastmod>2026-09-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/webhooks-explained-getting-your-data-pipeline-notified-the-moment-something-changes</loc>
+    <lastmod>2026-11-08</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

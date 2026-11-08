@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Embedding a PDF or Word Appendix in a PowerPoint Slide with Insert Object</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-pdf-or-word-appendix-in-a-powerpoint-slide-with-insert-object</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-pdf-or-word-appendix-in-a-powerpoint-slide-with-insert-object</guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Dropping a double-clickable document icon into a data slide, so the detailed methodology or raw tables stay one click away without bloating the deck&apos;s main story.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Treemap Visual: Showing Hierarchical Proportions at a Glance</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-treemap-visual-showing-hierarchical-proportions-at-a-glance</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-treemap-visual-showing-hierarchical-proportions-at-a-glance</guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    <description>When a treemap&apos;s nested rectangles communicate share-of-total faster than a bar chart, how Power BI builds one from a hierarchy, and the cases where it quietly misleads.</description>
+  </item>
+  <item>
+    <title>SUMIFS: Summing Data by Multiple Criteria in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/sumifs-summing-data-by-multiple-criteria-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/sumifs-summing-data-by-multiple-criteria-in-excel</guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How SUMIFS handles multiple conditions, OR logic, date ranges, and wildcards — the one formula behind most &apos;how much did X generate&apos; questions.</description>
+  </item>
+  <item>
+    <title>Webhooks Explained: Getting Your Data Pipeline Notified the Moment Something Changes</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/webhooks-explained-getting-your-data-pipeline-notified-the-moment-something-changes</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/webhooks-explained-getting-your-data-pipeline-notified-the-moment-something-changes</guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The difference between pulling data on a schedule and having a service push it to you the instant something happens — and a minimal endpoint that receives one.</description>
+  </item>
+  <item>
     <title>Auto-Generating Social Preview Images for Every Blog Post in Your React/Vite Blog</title>
     <link>https://blog-website-navy-one.vercel.app/blog/auto-generating-social-preview-images-for-every-blog-post-in-your-react-vite-blog</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/auto-generating-social-preview-images-for-every-blog-post-in-your-react-vite-blog</guid>
