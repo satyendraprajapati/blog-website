@@ -362,6 +362,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-data-dictionary-tab-in-excel-so-handoffs-dont-need-a-meeting</loc>
+    <lastmod>2026-11-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-data-entry-form-in-excel-with-the-hidden-form-command</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
@@ -669,6 +674,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-concatenatex-turning-filter-selections-into-dynamic-report-titles</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-crossfilter-flipping-a-relationships-filter-direction-inside-one-measure</loc>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1169,6 +1179,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/goal-seek-and-data-tables-what-if-analysis-in-excel</loc>
     <lastmod>2026-07-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/graphql-for-data-analysts-querying-exactly-the-fields-you-need</loc>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1744,6 +1759,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-keyboard-shortcuts-every-data-analyst-should-know-for-building-decks-faster</loc>
     <lastmod>2026-08-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoint-slide-show-shortcuts-every-data-analyst-should-know-for-presenting-without-fumbling</loc>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

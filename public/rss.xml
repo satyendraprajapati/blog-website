@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Data Dictionary Tab in Excel So Handoffs Don&apos;t Need a Meeting</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-data-dictionary-tab-in-excel-so-handoffs-dont-need-a-meeting</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-data-dictionary-tab-in-excel-so-handoffs-dont-need-a-meeting</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A simple in-workbook tab that defines every column, its source, and its business rule — so the next person to open the file doesn&apos;t have to ask you what a column means.</description>
+  </item>
+  <item>
+    <title>DAX CROSSFILTER: Flipping a Relationship&apos;s Filter Direction Inside One Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-crossfilter-flipping-a-relationships-filter-direction-inside-one-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-crossfilter-flipping-a-relationships-filter-direction-inside-one-measure</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How CROSSFILTER lets a single measure borrow bi-directional (or one-directional) filtering from a relationship without changing the model&apos;s settings for every other visual.</description>
+  </item>
+  <item>
+    <title>GraphQL for Data Analysts: Querying Exactly the Fields You Need</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/graphql-for-data-analysts-querying-exactly-the-fields-you-need</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/graphql-for-data-analysts-querying-exactly-the-fields-you-need</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How a GraphQL query lets you request only the fields you actually need from a single endpoint, instead of stitching together several REST calls or parsing bloated JSON.</description>
+  </item>
+  <item>
+    <title>PowerPoint Slide Show Shortcuts Every Data Analyst Should Know for Presenting Without Fumbling</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoint-slide-show-shortcuts-every-data-analyst-should-know-for-presenting-without-fumbling</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoint-slide-show-shortcuts-every-data-analyst-should-know-for-presenting-without-fumbling</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The handful of keys that save you from scrambling for the mouse mid-readout — jumping straight to a slide, blanking the screen, and exiting cleanly.</description>
+  </item>
+  <item>
     <title>Embedding a PDF or Word Appendix in a PowerPoint Slide with Insert Object</title>
     <link>https://blog-website-navy-one.vercel.app/blog/embedding-a-pdf-or-word-appendix-in-a-powerpoint-slide-with-insert-object</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/embedding-a-pdf-or-word-appendix-in-a-powerpoint-slide-with-insert-object</guid>
