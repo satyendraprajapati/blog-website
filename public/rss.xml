@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Customizing Data Labels in PowerPoint Charts: Value From Cells, Leader Lines, and Number Formats</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/customizing-data-labels-in-powerpoint-charts-value-from-cells-leader-lines-and-number-formats</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/customizing-data-labels-in-powerpoint-charts-value-from-cells-leader-lines-and-number-formats</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Going past PowerPoint&apos;s default data labels to show custom text, pull values from a separate column, and keep crowded labels legible with leader lines.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Insert Data from Picture: Turning a Photo of a Printed Table into Editable Data</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-insert-data-from-picture-turning-a-photo-of-a-printed-table-into-editable-data</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-insert-data-from-picture-turning-a-photo-of-a-printed-table-into-editable-data</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s built-in Insert Data from Picture feature to skip manual retyping when a dataset only exists as a printout, PDF screenshot, or photo.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Automatic Page Refresh: Keeping a Live Dashboard Current Without a Scheduled Refresh</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-automatic-page-refresh-keeping-a-live-dashboard-current-without-a-scheduled-refresh</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-automatic-page-refresh-keeping-a-live-dashboard-current-without-a-scheduled-refresh</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How Automatic Page Refresh re-queries a Power BI page on a timer so an operational dashboard stays current between scheduled dataset refreshes.</description>
+  </item>
+  <item>
+    <title>Running Python and Pandas in the Browser with Pyodide: No Server, No Install</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/running-python-and-pandas-in-the-browser-with-pyodide-no-server-no-install</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/running-python-and-pandas-in-the-browser-with-pyodide-no-server-no-install</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How Pyodide runs a real Python interpreter and pandas directly in the browser via WebAssembly, so a data demo needs no backend server and no viewer install at all.</description>
+  </item>
+  <item>
     <title>Building a Data Dictionary Tab in Excel So Handoffs Don&apos;t Need a Meeting</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-data-dictionary-tab-in-excel-so-handoffs-dont-need-a-meeting</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-data-dictionary-tab-in-excel-so-handoffs-dont-need-a-meeting</guid>

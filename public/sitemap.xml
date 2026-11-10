@@ -647,6 +647,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/customizing-data-labels-in-powerpoint-charts-value-from-cells-leader-lines-and-number-formats</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/customizing-the-quick-access-toolbar-and-ribbon-in-powerpoint-to-speed-up-building-data-decks</loc>
     <lastmod>2026-10-19</lastmod>
     <priority>0.7</priority>
@@ -1019,6 +1024,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-go-to-special-selecting-blanks-visible-cells-and-formulas-without-scrolling</loc>
     <lastmod>2026-10-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-insert-data-from-picture-turning-a-photo-of-a-printed-table-into-editable-data</loc>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1637,6 +1647,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-automatic-page-refresh-keeping-a-live-dashboard-current-without-a-scheduled-refresh</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-column-profiling-tools-quality-distribution-and-statistics-in-power-query</loc>
     <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
@@ -1904,6 +1919,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/row-level-security-in-power-bi-restricting-data-by-user</loc>
     <lastmod>2026-07-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/running-python-and-pandas-in-the-browser-with-pyodide-no-server-no-install</loc>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
