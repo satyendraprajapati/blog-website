@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Custom Date Table in Power BI with DAX&apos;s CALENDAR and CALENDARAUTO Functions</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-custom-date-table-in-power-bi-with-daxs-calendar-and-calendarauto-functions</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-custom-date-table-in-power-bi-with-daxs-calendar-and-calendarauto-functions</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>CALENDAR and CALENDARAUTO generate a complete date table inside DAX, giving you fiscal-year and custom columns that Power BI&apos;s hidden auto date/time tables can&apos;t.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s New REGEX Functions: REGEXEXTRACT, REGEXTEST, and REGEXREPLACE for Data Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-new-regex-functions-regexextract-regextest-and-regexreplace-for-data-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-new-regex-functions-regexextract-regextest-and-regexreplace-for-data-analysts</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s three new REGEX functions pull, test, and replace patterns inside text in one formula, where TRIM/SUBSTITUTE/TEXTSPLIT combos used to need several.</description>
+  </item>
+  <item>
+    <title>Setting Cache-Control Headers on Vercel to Speed Up Repeat Visits to Your React Blog</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-cache-control-headers-on-vercel-to-speed-up-repeat-visits-to-your-react-blog</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-cache-control-headers-on-vercel-to-speed-up-repeat-visits-to-your-react-blog</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A few lines in vercel.json tell browsers and Vercel&apos;s CDN how long to cache your blog&apos;s static assets, cutting repeat-visit load times without touching your build.</description>
+  </item>
+  <item>
+    <title>Using PowerPoint&apos;s Search Bar to Find Hidden Formatting Commands Fast When Building a Data Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-search-bar-to-find-hidden-formatting-commands-fast-when-building-a-data-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-search-bar-to-find-hidden-formatting-commands-fast-when-building-a-data-deck</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The search box at the top of the PowerPoint ribbon finds any command by name, saving the hunt through tabs when you&apos;re mid-deck and can&apos;t remember where a setting lives.</description>
+  </item>
+  <item>
     <title>Customizing Data Labels in PowerPoint Charts: Value From Cells, Leader Lines, and Number Formats</title>
     <link>https://blog-website-navy-one.vercel.app/blog/customizing-data-labels-in-powerpoint-charts-value-from-cells-leader-lines-and-number-formats</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/customizing-data-labels-in-powerpoint-charts-value-from-cells-leader-lines-and-number-formats</guid>

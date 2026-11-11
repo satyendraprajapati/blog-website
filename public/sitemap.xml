@@ -357,6 +357,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-custom-date-table-in-power-bi-with-daxs-calendar-and-calendarauto-functions</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-custom-interactive-chart-with-d3js-a-beginners-guide-for-data-analysts</loc>
     <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
@@ -1039,6 +1044,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-native-waterfall-chart-for-bridging-budget-to-actual-and-other-variance-stories</loc>
     <lastmod>2026-09-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-new-regex-functions-regexextract-regextest-and-regexreplace-for-data-analysts</loc>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1952,6 +1962,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-cache-control-headers-on-vercel-to-speed-up-repeat-visits-to-your-react-blog</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-a-custom-domain-on-vercel-for-your-data-portfolio-blog</loc>
     <lastmod>2026-08-06</lastmod>
     <priority>0.7</priority>
@@ -2289,6 +2304,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-screen-clipping-tool-to-drop-live-dashboard-views-into-a-data-slide</loc>
     <lastmod>2026-09-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-powerpoints-search-bar-to-find-hidden-formatting-commands-fast-when-building-a-data-deck</loc>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
