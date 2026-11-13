@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Choosing the Right Chart Type for a PowerPoint Data Slide: A Decision Framework for Analysts</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-for-a-powerpoint-data-slide-a-decision-framework-for-analysts</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-for-a-powerpoint-data-slide-a-decision-framework-for-analysts</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint can build nearly every chart type natively — the harder part is picking the right one for the single question a slide needs to answer, before you open the Insert Chart dialog.</description>
+  </item>
+  <item>
+    <title>Debouncing a Filter Input in a React Data Dashboard So It Doesn&apos;t Re-Filter on Every Keystroke</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/debouncing-a-filter-input-in-a-react-data-dashboard-so-it-doesnt-re-filter-on-every-keystroke</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/debouncing-a-filter-input-in-a-react-data-dashboard-so-it-doesnt-re-filter-on-every-keystroke</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A text filter wired straight to onChange re-runs the filter on every single keystroke — debouncing it waits for a short pause in typing before doing the expensive work.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s WORKDAY and WORKDAY.INTL: Calculating Deadlines and Custom Weekend Schedules</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-workday-and-workdayintl-calculating-deadlines-and-custom-weekend-schedules</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-workday-and-workdayintl-calculating-deadlines-and-custom-weekend-schedules</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>NETWORKDAYS counts the business days between two dates — WORKDAY does the opposite, projecting a deadline forward or backward from a start date while skipping weekends and holidays.</description>
+  </item>
+  <item>
+    <title>Object-Level Security (OLS) in Power BI: Hiding Sensitive Columns and Tables by Role</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/object-level-security-ols-in-power-bi-hiding-sensitive-columns-and-tables-by-role</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/object-level-security-ols-in-power-bi-hiding-sensitive-columns-and-tables-by-role</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Row-Level Security hides rows a user shouldn&apos;t see — Object-Level Security hides entire columns, measures, or tables instead, for data that&apos;s sensitive regardless of which row it&apos;s in.</description>
+  </item>
+  <item>
     <title>Building a Custom Date Table in Power BI with DAX&apos;s CALENDAR and CALENDARAUTO Functions</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-custom-date-table-in-power-bi-with-daxs-calendar-and-calendarauto-functions</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-custom-date-table-in-power-bi-with-daxs-calendar-and-calendarauto-functions</guid>
