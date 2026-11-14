@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding Author (Person) Schema Markup to Your React Blog for Google&apos;s Search Result Byline</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-author-person-schema-markup-to-your-react-blog-for-googles-search-result-byline</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-author-person-schema-markup-to-your-react-blog-for-googles-search-result-byline</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Article structured data tells Google what a post is about, but a separate Person schema block is what lets search results show who actually wrote it.</description>
+  </item>
+  <item>
+    <title>Embedding an Explainer Video in a PowerPoint Data Slide: Online Video vs. Linked vs. Embedded File</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/embedding-an-explainer-video-in-a-powerpoint-data-slide-online-video-vs-linked-vs-embedded-file</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/embedding-an-explainer-video-in-a-powerpoint-data-slide-online-video-vs-linked-vs-embedded-file</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint gives you three different ways to put a video on a data slide, and picking the wrong one is how decks end up with broken playback or bloated file sizes.</description>
+  </item>
+  <item>
+    <title>Power BI Comments: Collecting Stakeholder Feedback Directly on a Published Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-comments-collecting-stakeholder-feedback-directly-on-a-published-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-comments-collecting-stakeholder-feedback-directly-on-a-published-report</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Power BI&apos;s built-in Comments pane lets report viewers leave feedback and @mention you directly on a visual, instead of feedback arriving scattered across email and chat.</description>
+  </item>
+  <item>
+    <title>Recovering a Previous Version of an Excel Report with AutoSave and Version History</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/recovering-a-previous-version-of-an-excel-report-with-autosave-and-version-history</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/recovering-a-previous-version-of-an-excel-report-with-autosave-and-version-history</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    <description>When AutoSave overwrites a report with a bad edit, Excel&apos;s Version History on OneDrive or SharePoint lets you reopen and restore an earlier draft instead.</description>
+  </item>
+  <item>
     <title>Choosing the Right Chart Type for a PowerPoint Data Slide: A Decision Framework for Analysts</title>
     <link>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-for-a-powerpoint-data-slide-a-decision-framework-for-analysts</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/choosing-the-right-chart-type-for-a-powerpoint-data-slide-a-decision-framework-for-analysts</guid>
