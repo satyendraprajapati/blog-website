@@ -77,6 +77,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-json-feed-to-your-react-blog-so-modern-feed-readers-can-subscribe</loc>
+    <lastmod>2026-11-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-lightweight-cookie-consent-banner-to-your-react-blog-without-a-bloated-library</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
@@ -1027,6 +1032,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-comments-vs-notes-which-to-use-for-reviewing-a-data-report</loc>
+    <lastmod>2026-11-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-cubevalue-and-cubemember-pulling-single-numbers-from-your-data-model-without-a-pivottable</loc>
     <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
@@ -1129,6 +1139,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-deck-as-a-leave-behind-pdf-stakeholders-can-actually-read</loc>
     <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/exporting-a-powerpoint-data-slide-as-an-animated-gif-for-quick-slack-and-email-previews</loc>
+    <lastmod>2026-11-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1289,6 +1304,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/inserting-and-refreshing-linked-charts-from-google-sheets-in-powerpoint-without-excel</loc>
     <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/is-the-pl-300-power-bi-certification-worth-it-for-data-analysts</loc>
+    <lastmod>2026-11-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
