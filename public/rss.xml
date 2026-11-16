@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Automating Repetitive PowerPoint Formatting with VBA Macros for Data Decks</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/automating-repetitive-powerpoint-formatting-with-vba-macros-for-data-decks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/automating-repetitive-powerpoint-formatting-with-vba-macros-for-data-decks</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The same font-fixing, logo-placing, chart-reformatting clicks you repeat on every data slide can be recorded once as a VBA macro and replayed in seconds.</description>
+  </item>
+  <item>
+    <title>CSS Grid vs. Flexbox: Building a Responsive Data Dashboard Layout for Analysts New to Web Dev</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/css-grid-vs-flexbox-building-a-responsive-data-dashboard-layout-for-analysts-new-to-web-dev</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/css-grid-vs-flexbox-building-a-responsive-data-dashboard-layout-for-analysts-new-to-web-dev</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The two CSS layout systems analysts run into first when building a portfolio dashboard, and a simple rule for which one to reach for.</description>
+  </item>
+  <item>
+    <title>Excel File Formats for Large Datasets: XLSX vs. XLSB vs. CSV</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excel-file-formats-for-large-datasets-xlsx-vs-xlsb-vs-csv</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excel-file-formats-for-large-datasets-xlsx-vs-xlsb-vs-csv</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why a workbook that opens and saves painfully slow often has nothing to do with your formulas, and everything to do with the file format it&apos;s saved in.</description>
+  </item>
+  <item>
+    <title>Why Power BI Sorts Your Months Alphabetically (and How Sort By Column Fixes It)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/why-power-bi-sorts-your-months-alphabetically-and-how-sort-by-column-fixes-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/why-power-bi-sorts-your-months-alphabetically-and-how-sort-by-column-fixes-it</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A chart that lists months as April, August, December... isn&apos;t a bug -- it&apos;s Power BI sorting text the only way it knows how, and Sort By Column is the one-click fix.</description>
+  </item>
+  <item>
     <title>Adding a JSON Feed to Your React Blog So Modern Feed Readers Can Subscribe</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-json-feed-to-your-react-blog-so-modern-feed-readers-can-subscribe</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-json-feed-to-your-react-blog-so-modern-feed-readers-can-subscribe</guid>
