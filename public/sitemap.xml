@@ -157,6 +157,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-image-sitemap-to-your-react-blog-so-google-can-index-your-dashboard-screenshots</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-an-llms-txt-file-to-your-react-blog-so-ai-answer-engines-can-find-and-cite-your-posts</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
@@ -357,6 +362,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-bullet-chart-natively-in-powerpoint-to-show-actual-vs-target-without-a-gauge</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-bump-chart-to-show-ranking-changes-over-time-natively-in-powerpoint</loc>
     <lastmod>2026-09-22</lastmod>
     <priority>0.7</priority>
@@ -469,6 +479,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-simple-sankey-style-flow-diagram-in-powerpoint-using-stacked-bars</loc>
     <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-simple-vba-userform-in-excel-for-guided-data-entry</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -804,6 +819,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-topn-building-a-dynamic-top-n-measure-with-an-others-bucket</loc>
     <lastmod>2026-10-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-totalytd-totalqtd-and-totalmtd-built-in-shortcuts-for-year-to-date-calculations</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

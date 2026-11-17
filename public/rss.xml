@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding an Image Sitemap to Your React Blog So Google Can Index Your Dashboard Screenshots</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-an-image-sitemap-to-your-react-blog-so-google-can-index-your-dashboard-screenshots</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-an-image-sitemap-to-your-react-blog-so-google-can-index-your-dashboard-screenshots</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A standard sitemap.xml tells Google which pages exist, but it says nothing about the dashboard screenshots and charts inside them -- image sitemap tags fix that so your visuals can show up in Google Images too.</description>
+  </item>
+  <item>
+    <title>Building a Bullet Chart Natively in PowerPoint to Show Actual vs. Target Without a Gauge</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-bullet-chart-natively-in-powerpoint-to-show-actual-vs-target-without-a-gauge</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-bullet-chart-natively-in-powerpoint-to-show-actual-vs-target-without-a-gauge</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A bullet chart packs a KPI&apos;s actual value, its target, and a qualitative range -- poor, okay, good -- into one thin bar, and PowerPoint builds it with a single stacked bar chart.</description>
+  </item>
+  <item>
+    <title>Building a Simple VBA UserForm in Excel for Guided Data Entry</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-simple-vba-userform-in-excel-for-guided-data-entry</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-simple-vba-userform-in-excel-for-guided-data-entry</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s built-in Form command gives you a basic entry screen, but a VBA UserForm lets you add dropdowns, validation, and custom buttons for data entry that actually matches your workflow.</description>
+  </item>
+  <item>
+    <title>DAX TOTALYTD, TOTALQTD, and TOTALMTD: Built-In Shortcuts for Year-to-Date Calculations</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-totalytd-totalqtd-and-totalmtd-built-in-shortcuts-for-year-to-date-calculations</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-totalytd-totalqtd-and-totalmtd-built-in-shortcuts-for-year-to-date-calculations</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Three DAX functions that collapse a CALCULATE-plus-DATESYTD pattern into a single line for year-, quarter-, and month-to-date totals.</description>
+  </item>
+  <item>
     <title>Automating Repetitive PowerPoint Formatting with VBA Macros for Data Decks</title>
     <link>https://blog-website-navy-one.vercel.app/blog/automating-repetitive-powerpoint-formatting-with-vba-macros-for-data-decks</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/automating-repetitive-powerpoint-formatting-with-vba-macros-for-data-decks</guid>
