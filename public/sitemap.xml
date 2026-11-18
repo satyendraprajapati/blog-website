@@ -57,6 +57,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</loc>
+    <lastmod>2026-11-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-pdf-button-to-your-data-portfolios-case-study-pages-with-react-to-print</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.7</priority>
@@ -587,6 +592,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/changing-a-charts-type-in-powerpoint-without-losing-your-data-labels-colors-and-formatting</loc>
+    <lastmod>2026-11-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/choosing-colorblind-friendly-palettes-for-data-charts-in-powerpoint</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -764,6 +774,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-hasonevalue-and-isfiltered-writing-measures-that-adapt-to-whats-selected</loc>
     <lastmod>2026-09-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-iferror-and-iserror-handling-broken-measures-in-power-bi-without-hiding-real-bugs</loc>
+    <lastmod>2026-11-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1314,6 +1329,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/highlighting-a-single-data-point-in-a-powerpoint-chart-to-draw-the-audiences-eye</loc>
     <lastmod>2026-08-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/highlighting-an-entire-row-in-excel-based-on-one-cells-value-with-formula-based-conditional-formatting</loc>
+    <lastmod>2026-11-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

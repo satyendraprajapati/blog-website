@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Download-as-CSV Button to a Filtered React Data Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to let visitors export whatever rows are currently showing in a React data table to a CSV file, entirely client-side, with no backend.</description>
+  </item>
+  <item>
+    <title>Changing a Chart&apos;s Type in PowerPoint Without Losing Your Data Labels, Colors, and Formatting</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/changing-a-charts-type-in-powerpoint-without-losing-your-data-labels-colors-and-formatting</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/changing-a-charts-type-in-powerpoint-without-losing-your-data-labels-colors-and-formatting</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>What actually happens to your custom colors, data labels, and axis formatting when you switch a PowerPoint chart from one type to another, and how to avoid redoing the work.</description>
+  </item>
+  <item>
+    <title>DAX IFERROR and ISERROR: Handling Broken Measures in Power BI Without Hiding Real Bugs</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-iferror-and-iserror-handling-broken-measures-in-power-bi-without-hiding-real-bugs</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-iferror-and-iserror-handling-broken-measures-in-power-bi-without-hiding-real-bugs</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>When IFERROR and ISERROR are the right tool for a DAX measure, and when they just paper over a modeling mistake you should fix instead.</description>
+  </item>
+  <item>
+    <title>Highlighting an Entire Row in Excel Based on One Cell&apos;s Value with Formula-Based Conditional Formatting</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/highlighting-an-entire-row-in-excel-based-on-one-cells-value-with-formula-based-conditional-formatting</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/highlighting-an-entire-row-in-excel-based-on-one-cells-value-with-formula-based-conditional-formatting</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to make Excel shade a whole row when one column meets a condition, using a formula rule instead of applying formatting cell by cell.</description>
+  </item>
+  <item>
     <title>Adding an Image Sitemap to Your React Blog So Google Can Index Your Dashboard Screenshots</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-an-image-sitemap-to-your-react-blog-so-google-can-index-your-dashboard-screenshots</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-an-image-sitemap-to-your-react-blog-so-google-can-index-your-dashboard-screenshots</guid>
