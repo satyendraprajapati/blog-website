@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding FAQ Schema Markup to Your React Blog for Google&apos;s FAQ Rich Results</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-faq-schema-markup-to-your-react-blog-for-googles-faq-rich-results</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-faq-schema-markup-to-your-react-blog-for-googles-faq-rich-results</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A short FAQ section at the end of a post, paired with FAQPage JSON-LD, gives Google a direct answer to pull into search results.</description>
+  </item>
+  <item>
+    <title>Adding Slicers to a Regular Excel Table Without Building a PivotTable First</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-slicers-to-a-regular-excel-table-without-building-a-pivottable-first</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-slicers-to-a-regular-excel-table-without-building-a-pivottable-first</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel now lets you add slicers directly to a formatted Table, so you can filter raw data visually without summarizing it in a PivotTable first.</description>
+  </item>
+  <item>
+    <title>Building Fiscal-Year Time Intelligence in DAX When Your Year Doesn&apos;t Start in January</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-fiscal-year-time-intelligence-in-dax-when-your-year-doesnt-start-in-january</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-fiscal-year-time-intelligence-in-dax-when-your-year-doesnt-start-in-january</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Power BI&apos;s built-in time intelligence functions assume a calendar year unless you tell them otherwise — here&apos;s how to point them at your actual fiscal year end.</description>
+  </item>
+  <item>
+    <title>Setting a Default Chart Style in PowerPoint So Every New Chart Matches Your Deck</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-a-default-chart-style-in-powerpoint-so-every-new-chart-matches-your-deck</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-a-default-chart-style-in-powerpoint-so-every-new-chart-matches-your-deck</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PowerPoint can remember your preferred chart formatting and apply it automatically to every new chart you insert, instead of making you reformat each one from scratch.</description>
+  </item>
+  <item>
     <title>Adding a Download-as-CSV Button to a Filtered React Data Table</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</guid>

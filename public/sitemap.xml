@@ -207,6 +207,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-faq-schema-markup-to-your-react-blog-for-googles-faq-rich-results</loc>
+    <lastmod>2026-11-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-footnotes-and-source-citations-to-data-analysis-posts-with-remark-gfm</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
@@ -259,6 +264,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-privacy-friendly-analytics-to-your-react-blog-with-plausible</loc>
     <lastmod>2026-07-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-slicers-to-a-regular-excel-table-without-building-a-pivottable-first</loc>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -524,6 +534,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-combo-charts-with-a-secondary-axis-in-excel</loc>
     <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-fiscal-year-time-intelligence-in-dax-when-your-year-doesnt-start-in-january</loc>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2074,6 +2089,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/serving-a-pandas-dataframe-as-a-json-api-with-fastapi</loc>
     <lastmod>2026-10-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-a-default-chart-style-in-powerpoint-so-every-new-chart-matches-your-deck</loc>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
