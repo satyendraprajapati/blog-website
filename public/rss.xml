@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Power BI&apos;s Deneb Visual: Building Custom Vega-Lite Charts When Native Visuals Fall Short</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-deneb-visual-building-custom-vega-lite-charts-when-native-visuals-fall-short</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-deneb-visual-building-custom-vega-lite-charts-when-native-visuals-fall-short</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How the Deneb custom visual lets you define a chart as JSON using the Vega-Lite grammar, for the layouts and chart types Power BI&apos;s built-in visuals simply don&apos;t offer.</description>
+  </item>
+  <item>
+    <title>Running a Monte Carlo Simulation in Excel With RAND and a Data Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/running-a-monte-carlo-simulation-in-excel-with-rand-and-a-data-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/running-a-monte-carlo-simulation-in-excel-with-rand-and-a-data-table</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to turn a single-point forecast into a range of likely outcomes using RAND, RANDBETWEEN, and a one-variable Data Table, with no add-in required.</description>
+  </item>
+  <item>
+    <title>Using Tab Stops in PowerPoint Text Boxes to Align Numbers in a Data Callout</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-tab-stops-in-powerpoint-text-boxes-to-align-numbers-in-a-data-callout</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-tab-stops-in-powerpoint-text-boxes-to-align-numbers-in-a-data-callout</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Spaces don&apos;t align numbers reliably across a text box, and a full table is overkill for three or four stacked figures — tab stops are the quick middle ground.</description>
+  </item>
+  <item>
+    <title>Using the ResizeObserver API to Keep Dashboard Charts Sized to Their Container</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-the-resizeobserver-api-to-keep-dashboard-charts-sized-to-their-container</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-the-resizeobserver-api-to-keep-dashboard-charts-sized-to-their-container</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why listening for window resize events isn&apos;t enough to keep a chart correctly sized inside a flexible dashboard layout, and how ResizeObserver fixes it.</description>
+  </item>
+  <item>
     <title>Building a Morph Progress Bar Footer So Your Audience Knows Where They Are in a Data Deck</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-morph-progress-bar-footer-so-your-audience-knows-where-they-are-in-a-data-deck</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-morph-progress-bar-footer-so-your-audience-knows-where-they-are-in-a-data-deck</guid>
