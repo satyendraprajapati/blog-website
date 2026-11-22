@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX VALUES vs. DISTINCT: Why the Row Count Isn&apos;t Always the Same</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-values-vs-distinct-why-the-row-count-isnt-always-the-same</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-values-vs-distinct-why-the-row-count-isnt-always-the-same</guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+    <description>VALUES and DISTINCT both return the unique values of a column, but one of them can quietly add an extra row that throws off a count.</description>
+  </item>
+  <item>
+    <title>Keeping Number Formatting Consistent When You Paste Excel Data Into a PowerPoint Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/keeping-number-formatting-consistent-when-you-paste-excel-data-into-a-powerpoint-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/keeping-number-formatting-consistent-when-you-paste-excel-data-into-a-powerpoint-table</guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A static paste from Excel into a PowerPoint table brings along inconsistent decimals and currency symbols unless you fix the formatting before — and after — you paste.</description>
+  </item>
+  <item>
+    <title>Power Query&apos;s Fill Down and Fill Up: Cleaning Reports With Merged Cells and Blank Headers</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-querys-fill-down-and-fill-up-cleaning-reports-with-merged-cells-and-blank-headers</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-querys-fill-down-and-fill-up-cleaning-reports-with-merged-cells-and-blank-headers</guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How Power Query&apos;s Fill Down and Fill Up commands turn a merged-cell export into a proper flat table without writing a single formula.</description>
+  </item>
+  <item>
+    <title>Tracking Production Errors on Your React Blog with Sentry&apos;s Free Tier</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/tracking-production-errors-on-your-react-blog-with-sentrys-free-tier</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/tracking-production-errors-on-your-react-blog-with-sentrys-free-tier</guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+    <description>An error boundary stops a crash from taking down your whole site, but you still won&apos;t know it happened unless something reports it — Sentry&apos;s free tier fills that gap.</description>
+  </item>
+  <item>
     <title>Power BI&apos;s Deneb Visual: Building Custom Vega-Lite Charts When Native Visuals Fall Short</title>
     <link>https://blog-website-navy-one.vercel.app/blog/power-bis-deneb-visual-building-custom-vega-lite-charts-when-native-visuals-fall-short</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-deneb-visual-building-custom-vega-lite-charts-when-native-visuals-fall-short</guid>

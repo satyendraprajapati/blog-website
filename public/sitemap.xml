@@ -867,6 +867,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-values-vs-distinct-why-the-row-count-isnt-always-the-same</loc>
+    <lastmod>2026-11-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-variables-var-writing-measures-that-are-easier-to-read-and-debug</loc>
     <lastmod>2026-07-24</lastmod>
     <priority>0.7</priority>
@@ -1392,6 +1397,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/keeping-number-formatting-consistent-when-you-paste-excel-data-into-a-powerpoint-table</loc>
+    <lastmod>2026-11-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/keeping-vercel-preview-deployments-out-of-googles-index</loc>
     <lastmod>2026-09-01</lastmod>
     <priority>0.7</priority>
@@ -1907,6 +1917,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-querys-fill-down-and-fill-up-cleaning-reports-with-merged-cells-and-blank-headers</loc>
+    <lastmod>2026-11-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-querys-group-by-aggregating-data-without-a-pivottable</loc>
     <lastmod>2026-11-03</lastmod>
     <priority>0.7</priority>
@@ -2229,6 +2244,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/tracking-a-data-decks-source-and-refresh-date-with-powerpoints-custom-document-properties</loc>
     <lastmod>2026-10-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/tracking-production-errors-on-your-react-blog-with-sentrys-free-tier</loc>
+    <lastmod>2026-11-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
