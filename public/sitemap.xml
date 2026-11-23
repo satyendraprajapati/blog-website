@@ -467,6 +467,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</loc>
+    <lastmod>2026-11-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-radar-spider-chart-natively-in-powerpoint-to-compare-multiple-metrics-at-once</loc>
     <lastmod>2026-10-01</lastmod>
     <priority>0.7</priority>
@@ -1617,6 +1622,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-drillthrough-pages-letting-viewers-right-click-into-the-detail-behind-a-summary-number</loc>
+    <lastmod>2026-11-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bi-dynamic-format-strings-changing-how-a-measure-displays-based-on-context</loc>
     <lastmod>2026-08-19</lastmod>
     <priority>0.7</priority>
@@ -1959,6 +1969,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-autofit-text-options-keeping-kpi-numbers-from-overflowing-a-data-slide</loc>
     <lastmod>2026-10-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/powerpoints-custom-shows-one-slide-deck-multiple-audiences-without-duplicating-files</loc>
+    <lastmod>2026-11-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2524,6 +2539,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-tab-stops-in-powerpoint-text-boxes-to-align-numbers-in-a-data-callout</loc>
     <lastmod>2026-11-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-the-clipboard-api-to-add-a-copy-table-as-csv-button-to-your-react-blogs-data-tables</loc>
+    <lastmod>2026-11-23</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

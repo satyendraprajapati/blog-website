@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a PivotTable From Multiple Consolidation Ranges in Excel Without Power Query</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A pre-Power-Query Excel feature that builds one PivotTable directly from several same-shaped sheets or workbooks, with no Data Model or merge step required.</description>
+  </item>
+  <item>
+    <title>Power BI Drillthrough Pages: Letting Viewers Right-Click Into the Detail Behind a Summary Number</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bi-drillthrough-pages-letting-viewers-right-click-into-the-detail-behind-a-summary-number</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bi-drillthrough-pages-letting-viewers-right-click-into-the-detail-behind-a-summary-number</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to build a dedicated drillthrough page so a viewer can right-click any summary value and jump straight to the filtered detail behind it, instead of you building that view into the main report.</description>
+  </item>
+  <item>
+    <title>PowerPoint&apos;s Custom Shows: One Slide Deck, Multiple Audiences, Without Duplicating Files</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/powerpoints-custom-shows-one-slide-deck-multiple-audiences-without-duplicating-files</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/powerpoints-custom-shows-one-slide-deck-multiple-audiences-without-duplicating-files</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to maintain a single master deck of analysis slides and present a different subset and order of it to execs, stakeholders, and your own team using Custom Shows.</description>
+  </item>
+  <item>
+    <title>Using the Clipboard API to Add a &apos;Copy Table as CSV&apos; Button to Your React Blog&apos;s Data Tables</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-the-clipboard-api-to-add-a-copy-table-as-csv-button-to-your-react-blogs-data-tables</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-the-clipboard-api-to-add-a-copy-table-as-csv-button-to-your-react-blogs-data-tables</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A one-click button that copies a rendered HTML table straight into the clipboard as CSV text, so a reader can paste it directly into Excel or Sheets without downloading a file.</description>
+  </item>
+  <item>
     <title>DAX VALUES vs. DISTINCT: Why the Row Count Isn&apos;t Always the Same</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-values-vs-distinct-why-the-row-count-isnt-always-the-same</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-values-vs-distinct-why-the-row-count-isnt-always-the-same</guid>
