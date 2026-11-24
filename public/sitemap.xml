@@ -57,6 +57,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-data-table-to-a-native-powerpoint-chart-instead-of-a-separate-table-below-it</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-a-download-as-csv-button-to-a-filtered-react-data-table</loc>
     <lastmod>2026-11-18</lastmod>
     <priority>0.7</priority>
@@ -1117,6 +1122,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-convert-function-converting-units-of-measurement-without-a-separate-lookup-table</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-cubevalue-and-cubemember-pulling-single-numbers-from-your-data-model-without-a-pivottable</loc>
     <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
@@ -1319,6 +1329,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/getting-started-with-excel-macros-recording-your-first-one</loc>
     <lastmod>2026-07-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/git-and-github-basics-for-data-analysts-building-their-first-portfolio-site</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1859,6 +1874,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-format-painter-copying-visual-formatting-without-building-a-custom-theme</loc>
     <lastmod>2026-09-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/power-bis-funnel-chart-visualizing-conversion-drop-off-across-stages</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

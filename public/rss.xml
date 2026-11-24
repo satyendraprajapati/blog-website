@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding a Data Table to a Native PowerPoint Chart Instead of a Separate Table Below It</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-a-data-table-to-a-native-powerpoint-chart-instead-of-a-separate-table-below-it</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-data-table-to-a-native-powerpoint-chart-instead-of-a-separate-table-below-it</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to attach PowerPoint&apos;s built-in Data Table chart element so the exact numbers sit directly under a chart, without building and manually syncing a separate table shape.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s CONVERT Function: Converting Units of Measurement Without a Separate Lookup Table</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-convert-function-converting-units-of-measurement-without-a-separate-lookup-table</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-convert-function-converting-units-of-measurement-without-a-separate-lookup-table</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s built-in CONVERT function to standardize mixed units of measurement in a dataset without building and maintaining a manual conversion lookup table.</description>
+  </item>
+  <item>
+    <title>Git and GitHub Basics for Data Analysts Building Their First Portfolio Site</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/git-and-github-basics-for-data-analysts-building-their-first-portfolio-site</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/git-and-github-basics-for-data-analysts-building-their-first-portfolio-site</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The small handful of git commands and GitHub concepts a data analyst actually needs to safely build, update, and deploy a personal portfolio site.</description>
+  </item>
+  <item>
+    <title>Power BI&apos;s Funnel Chart: Visualizing Conversion Drop-Off Across Stages</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/power-bis-funnel-chart-visualizing-conversion-drop-off-across-stages</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/power-bis-funnel-chart-visualizing-conversion-drop-off-across-stages</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to build and read a native Power BI funnel chart for stage-based conversion data, and the modeling choices that make the drop-off percentages trustworthy.</description>
+  </item>
+  <item>
     <title>Building a PivotTable From Multiple Consolidation Ranges in Excel Without Power Query</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</guid>
