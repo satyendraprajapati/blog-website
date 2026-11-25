@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>DAX PARALLELPERIOD: Shifting a Date Range by Months or Quarters Without Hardcoding a Year</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-parallelperiod-shifting-a-date-range-by-months-or-quarters-without-hardcoding-a-year</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-parallelperiod-shifting-a-date-range-by-months-or-quarters-without-hardcoding-a-year</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>PARALLELPERIOD moves a whole period boundary back by months, quarters, or years instead of shifting individual dates, which matters when a fiscal month has 28, 30, or 31 days.</description>
+  </item>
+  <item>
+    <title>ISNUMBER, ISTEXT, and COUNTBLANK: Catching Data Type Problems Before They Break a Formula in Excel</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/isnumber-istext-and-countblank-catching-data-type-problems-before-they-break-a-formula-in-excel</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/isnumber-istext-and-countblank-catching-data-type-problems-before-they-break-a-formula-in-excel</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A quick way to audit a column for mixed data types and hidden blanks before you build SUMIFS, VLOOKUP, or a PivotTable on top of it.</description>
+  </item>
+  <item>
+    <title>localStorage vs sessionStorage vs Cookies: Choosing the Right Browser Storage for a Data Portfolio Site</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/localstorage-vs-sessionstorage-vs-cookies-choosing-the-right-browser-storage-for-a-data-portfolio-site</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/localstorage-vs-sessionstorage-vs-cookies-choosing-the-right-browser-storage-for-a-data-portfolio-site</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Three ways a browser can remember something between page loads, and which one actually fits a saved filter, a draft, or a login token.</description>
+  </item>
+  <item>
+    <title>Trimming and Fading Narration Audio in PowerPoint So Recorded Data Walkthroughs Don&apos;t Start or End Abruptly</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/trimming-and-fading-narration-audio-in-powerpoint-so-recorded-data-walkthroughs-dont-start-or-end-abruptly</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/trimming-and-fading-narration-audio-in-powerpoint-so-recorded-data-walkthroughs-dont-start-or-end-abruptly</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A few seconds of dead air, a cough, or a hard cut-off at the end are the easiest things to fix in a recorded data deck, and the most common reason a narrated walkthrough feels amateur.</description>
+  </item>
+  <item>
     <title>Adding a Data Table to a Native PowerPoint Chart Instead of a Separate Table Below It</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-a-data-table-to-a-native-powerpoint-chart-instead-of-a-separate-table-below-it</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-a-data-table-to-a-native-powerpoint-chart-instead-of-a-separate-table-below-it</guid>
