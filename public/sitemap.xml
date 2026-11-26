@@ -382,6 +382,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-build-time-search-index-for-your-react-blog-with-pagefind</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-bullet-chart-natively-in-powerpoint-to-show-actual-vs-target-without-a-gauge</loc>
     <lastmod>2026-11-17</lastmod>
     <priority>0.7</priority>
@@ -1109,6 +1114,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/excels-camera-tool-building-live-linked-snapshots-for-one-page-dashboards</loc>
     <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/excels-check-performance-feature-finding-the-volatile-formulas-slowing-down-a-shared-report</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2222,8 +2232,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/sharing-a-powerpoint-data-deck-via-onedrive-or-sharepoint-view-only-links-and-expiration-dates</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/showing-a-last-updated-date-on-blog-posts-using-git-history</loc>
     <lastmod>2026-09-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/shrinking-a-bloated-power-bi-model-with-vertipaq-analyzer</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Build-Time Search Index for Your React Blog with Pagefind (No Client-Side Indexing Library)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-build-time-search-index-for-your-react-blog-with-pagefind</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-build-time-search-index-for-your-react-blog-with-pagefind</guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to add fast, static search to a Vite + React blog with Pagefind, which indexes your built HTML instead of shipping an indexing library to the browser.</description>
+  </item>
+  <item>
+    <title>Excel&apos;s Check Performance Feature: Finding the Volatile Formulas Slowing Down a Shared Report</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/excels-check-performance-feature-finding-the-volatile-formulas-slowing-down-a-shared-report</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/excels-check-performance-feature-finding-the-volatile-formulas-slowing-down-a-shared-report</guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use Excel&apos;s built-in performance checker to find the slow, recalculating-on-every-edit formulas that make a shared workbook lag.</description>
+  </item>
+  <item>
+    <title>Sharing a PowerPoint Data Deck via OneDrive or SharePoint Links: View-Only, Expiration Dates, and Password Protection</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/sharing-a-powerpoint-data-deck-via-onedrive-or-sharepoint-view-only-links-and-expiration-dates</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/sharing-a-powerpoint-data-deck-via-onedrive-or-sharepoint-view-only-links-and-expiration-dates</guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to control exactly who can open, edit, or keep forwarding a shared PowerPoint data deck using OneDrive and SharePoint link settings.</description>
+  </item>
+  <item>
+    <title>Shrinking a Bloated Power BI Model with VertiPaq Analyzer: Finding Which Columns Are Eating the Most Memory</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/shrinking-a-bloated-power-bi-model-with-vertipaq-analyzer</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/shrinking-a-bloated-power-bi-model-with-vertipaq-analyzer</guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to use VertiPaq Analyzer to see exactly which tables and columns are inflating your Power BI file size and slow it down.</description>
+  </item>
+  <item>
     <title>DAX PARALLELPERIOD: Shifting a Date Range by Months or Quarters Without Hardcoding a Year</title>
     <link>https://blog-website-navy-one.vercel.app/blog/dax-parallelperiod-shifting-a-date-range-by-months-or-quarters-without-hardcoding-a-year</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/dax-parallelperiod-shifting-a-date-range-by-months-or-quarters-without-hardcoding-a-year</guid>
