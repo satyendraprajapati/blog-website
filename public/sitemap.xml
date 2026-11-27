@@ -227,6 +227,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/adding-howto-schema-markup-to-your-react-blogs-step-by-step-tutorials</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/adding-json-ld-structured-data-to-your-react-blog-for-rich-search-results</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
@@ -479,6 +484,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-pivottable-from-multiple-consolidation-ranges-in-excel-without-power-query</loc>
     <lastmod>2026-11-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-progress-ring-chart-in-powerpoint-to-show-a-single-kpis-percent-complete</loc>
+    <lastmod>2026-11-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -759,6 +769,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-basics-understanding-calculate</loc>
     <lastmod>2026-07-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-calculatetable-building-a-filtered-table-inside-a-measure</loc>
+    <lastmod>2026-11-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2419,6 +2434,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-accessibility-checker-to-build-screen-reader-friendly-data-reports</loc>
     <lastmod>2026-11-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/using-excels-cell-styles-to-keep-report-formatting-consistent-across-a-workbook</loc>
+    <lastmod>2026-11-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

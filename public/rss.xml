@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Adding HowTo Schema Markup to Your React Blog&apos;s Step-by-Step Tutorials</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/adding-howto-schema-markup-to-your-react-blogs-step-by-step-tutorials</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/adding-howto-schema-markup-to-your-react-blogs-step-by-step-tutorials</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A HowTo JSON-LD block gives Google a machine-readable list of steps, and it can be generated straight from the numbered bold lead-ins most tutorial posts already use.</description>
+  </item>
+  <item>
+    <title>Building a Progress Ring Chart in PowerPoint to Show a Single KPI&apos;s Percent Complete</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-progress-ring-chart-in-powerpoint-to-show-a-single-kpis-percent-complete</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-progress-ring-chart-in-powerpoint-to-show-a-single-kpis-percent-complete</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A progress ring turns one percentage into a clean circular indicator using nothing but a two-slice doughnut chart with its colors, hole size, and rotation tuned by hand.</description>
+  </item>
+  <item>
+    <title>DAX CALCULATETABLE: Building a Filtered Table Inside a Measure</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-calculatetable-building-a-filtered-table-inside-a-measure</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-calculatetable-building-a-filtered-table-inside-a-measure</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    <description>CALCULATETABLE applies CALCULATE&apos;s filter-context logic to a table expression instead of a scalar, which is the piece that makes a virtual, filtered table available inside a measure.</description>
+  </item>
+  <item>
+    <title>Using Excel&apos;s Cell Styles to Keep Report Formatting Consistent Across a Workbook</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/using-excels-cell-styles-to-keep-report-formatting-consistent-across-a-workbook</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/using-excels-cell-styles-to-keep-report-formatting-consistent-across-a-workbook</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Excel&apos;s built-in Cell Styles gallery turns inputs, headers, and warning cells into a one-click, reusable format instead of one rebuilt by eye in every workbook.</description>
+  </item>
+  <item>
     <title>Building a Build-Time Search Index for Your React Blog with Pagefind (No Client-Side Indexing Library)</title>
     <link>https://blog-website-navy-one.vercel.app/blog/building-a-build-time-search-index-for-your-react-blog-with-pagefind</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/building-a-build-time-search-index-for-your-react-blog-with-pagefind</guid>
