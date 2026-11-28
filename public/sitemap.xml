@@ -432,6 +432,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/building-a-dumbbell-chart-natively-in-powerpoint-to-show-change-between-two-points</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/building-a-gantt-chart-in-excel-with-conditional-formatting-no-add-in-required</loc>
     <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
@@ -864,6 +869,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/dax-related-and-relatedtable-pulling-fields-across-relationships-without-a-merge</loc>
     <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/dax-removefilters-the-modern-alternative-to-all-inside-calculate</loc>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -2247,6 +2257,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/setting-up-uptime-monitoring-for-your-react-data-portfolio-site</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sharing-a-powerpoint-data-deck-via-onedrive-or-sharepoint-view-only-links-and-expiration-dates</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.7</priority>
@@ -2299,6 +2314,11 @@
   <url>
     <loc>https://blog-website-navy-one.vercel.app/blog/sumifs-summing-data-by-multiple-criteria-in-excel</loc>
     <lastmod>2026-11-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog-website-navy-one.vercel.app/blog/switching-excel-to-manual-calculation-mode-for-large-workbooks</loc>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

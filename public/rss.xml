@@ -5,6 +5,34 @@
   <link>https://blog-website-navy-one.vercel.app</link>
   <description>Notes on data analysis, dashboards, and the tools behind them.</description>
   <item>
+    <title>Building a Dumbbell Chart Natively in PowerPoint to Show Change Between Two Points</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/building-a-dumbbell-chart-natively-in-powerpoint-to-show-change-between-two-points</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/building-a-dumbbell-chart-natively-in-powerpoint-to-show-change-between-two-points</guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How to build a dumbbell (range) chart in PowerPoint to show before-and-after change across categories, without an add-in.</description>
+  </item>
+  <item>
+    <title>DAX REMOVEFILTERS: The Modern, Clearer Alternative to ALL() Inside CALCULATE</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/dax-removefilters-the-modern-alternative-to-all-inside-calculate</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/dax-removefilters-the-modern-alternative-to-all-inside-calculate</guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why REMOVEFILTERS reads better than ALL() for clearing filters inside CALCULATE, and the one place they still behave differently.</description>
+  </item>
+  <item>
+    <title>Setting Up Uptime Monitoring and Downtime Alerts for Your React Data Portfolio Site</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/setting-up-uptime-monitoring-for-your-react-data-portfolio-site</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/setting-up-uptime-monitoring-for-your-react-data-portfolio-site</guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Why a personal portfolio site needs its own uptime check, and how to set up a free monitor that emails you the moment it goes down.</description>
+  </item>
+  <item>
+    <title>Switching Excel to Manual Calculation Mode for Large Workbooks (and When It&apos;s Worth It)</title>
+    <link>https://blog-website-navy-one.vercel.app/blog/switching-excel-to-manual-calculation-mode-for-large-workbooks</link>
+    <guid>https://blog-website-navy-one.vercel.app/blog/switching-excel-to-manual-calculation-mode-for-large-workbooks</guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+    <description>How and when to switch Excel from automatic to manual recalculation so a heavy workbook stops freezing every time you type.</description>
+  </item>
+  <item>
     <title>Adding HowTo Schema Markup to Your React Blog&apos;s Step-by-Step Tutorials</title>
     <link>https://blog-website-navy-one.vercel.app/blog/adding-howto-schema-markup-to-your-react-blogs-step-by-step-tutorials</link>
     <guid>https://blog-website-navy-one.vercel.app/blog/adding-howto-schema-markup-to-your-react-blogs-step-by-step-tutorials</guid>
